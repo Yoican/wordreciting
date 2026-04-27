@@ -1,0 +1,7296 @@
+window.EMBEDDED_TOEFL_DATA = `back	adv.回原处?n.背?后面?adj.后面的?v.后退
+skill	n.技能?技巧
+public	adj.公共的?公开的?n.公众
+go	v.去?离开?进行
+fish	n.鱼?v.钓鱼
+once	adv.一次?曾经?conj.一旦…(就…)
+table	n.桌子?表格
+day	n.天?一昼夜?时期
+south	n.南部?adj.南方的?adv.在南方
+almost	adv.几乎?差不多
+local	adj.当地的?局部的?n.当地人
+open	adj.开的?开放的?v.开
+purpose	n.目的?意图
+reach	v.到达?伸出?达成?n.范围
+sometime	adv.将来(或过去)某个时候?adj.以前的
+able	adj.能够…的?得以…的
+allow	v.允许(…进入)?同意给?承认
+middle	n.中部?中间?adj.中部的?中间的
+home	n.家(乡)
+European	adj.欧洲的?n.欧洲人
+rise	n&v.上升?升起
+member	n.成员?会员
+toward	prep.向?朝?接近
+last	adj.刚过去的?最后的?adv.最后?v.持续
+today	n.今天?现今
+left	adj.左边的?adv.向左?n.左边
+recent	adj.近来的?新近的
+Europe	n.欧洲
+family	n.家?家庭
+site	n.位置?地点?v.使位于?设置
+incorrect	adj.不正确的?错误的
+agricultural	adj.农业的
+generally	adv.通常?普遍地
+themselves	pron.他(她、它)们自己
+though	conj.尽管?虽然?adv.可是
+strong	adj.强烈的?坚强的?强壮的
+clear	a&ad.清晰的(地)?v.清除?v.变清澈
+reduce	v.减少?缩小
+west	n.西(方?部)?adj.西方(部)的?adv.向西方
+thus	adv.如此?因此
+cannot	conj.不能
+direct	a&ad.直接的?v.对准?指导
+industry	n.工业?产业?n.勤劳， 勤奋； 工业， 行业
+language	n.语言
+glass	n.玻璃?玻璃杯?[pl]眼镜
+deep	adj.深的?adv.深深地
+green	adj.绿色的?生的?v.使…变绿
+travel	n&v.旅行?移动?传播
+role	n.作用?角色
+right	a&ad.对(的)?右(的)?n.权利?v.扶直?纠正
+lower	adj.较低的?下面的?v.降下?放低?v.降低?adj.较低的； 下级的， 下等的
+center	n&a.中心(的)?v.居中?使集中
+tend	v.易于?趋向?v.照料?v.趋于， 易于； 照料， 看护
+longer	ad&a.比较久(的)
+just	adv.正好?仅仅?刚才?adj.公平的
+away	adv.在远处?离去
+experience	n&vt.经历?经验
+snow	n.雪?v.下雪
+salt	n.盐?v.腌?盐渍
+hunt	n&v.狩猎?追捕?搜寻
+clay	n.黏土?泥土?n.泥土， 黏土
+turn	v.转动?扭转?(使)变成
+weather	n.天气?气象?v.风化?经受风雨(侵蚀)
+popular	adj.流行的?通俗的?受欢迎的?adj.通俗的； 受欢迎的； 流行的
+consider	v.考虑?认为
+necessary	adj.必要的?必然的?n.必需品
+researcher	n.研究者?调查者
+upper	adj.上面的?上部的
+wide	adj.宽阔的?广泛的
+forest	n.森林?v.种植于
+learn	v.学会?学习?得知
+select	v.选择?挑选?adj.精选的
+improve	v.改善?改进?v.改善， 改进， 增进； 好转， 进步
+western	adj.西方的?西部的?n.西方人
+lake	n.湖
+factory	n.工厂?制造厂
+school	n.学校?学院?v.教育
+warm	a&ad.温暖的?v.变暖?使暖和
+scientific	adj.科学的?adj.科学的； 细致严谨的
+political	adj.政治的?政党的
+ant	n.蚂蚁
+affect	v.影响?作用?vt.影响； 感染
+fit	v.适合?适应?安装
+metal	n.金属?v.(以金属)覆盖、装配
+importance	n.重要(性)
+native	adj.本国的?本土的?当地的?n.本地人
+valley	n.山谷
+short	adj.短的?矮的
+foot	n.足?脚
+style	n.风格?式样
+national	adj.国家的?民族的
+near	adv.在近处?v&prep.靠(接)近?adj.接近的
+person	n.人
+formation	n.形成?构成?编队?n.形成， 构成； 形成物； 编队
+deer	n.鹿
+past	adj.以前的?prep&ad.经过?过?n.过去
+say	v.说?表明
+flow	n&v.流动?淹没
+break	n.休息?v.打破?弄坏?v.破，裂，碎；使中止，打断，断绝；损坏，弄坏；违犯；打破；破晓?n.打断， 中止； 休息时间； 破裂
+low	a&ad.低(的)?低下(的)
+seed	n.种子?v.播种
+perhaps	adv.也许?可能
+steam	n.蒸汽v蒸?蒸发
+picture	n.画?照片?v.描绘?构想
+east	n.东(方，部)a东方(部)的?adv.向东方
+agriculture	n.农业?农学
+field	n.田地?领域
+experiment	n.试验?v.尝试?做实验
+itself	pron.它自己
+relate	v.叙述?使有联系?有关联?v.叙述， 讲述； 有关联
+yet	adv.还?已经?conj.然而
+speed	n.速度?v.加速?急行
+thousand	n.一千(个)?许许多多?成千上万
+print	v.印刷?冲洗(照片)
+tradition	n.传统?惯例
+goods	n.货物?商品
+iceberg	n.冰山?冷若冰霜的人?n.冰山； 冷冰冰的人
+our	pron.我们的
+man	n.男人?人(类)
+store	v.储存?贮藏?n.商店
+depend	v.依靠?取决于?v.依靠， 依赖； 取决于
+heavy	a&ad.重的?大量的
+general	adj.普遍的?概括的
+story	n.故事?小说
+technology	n.工艺?技术
+rain	n.雨?v.下雨
+predator	n.掠夺者?食肉动物?n.捕食性动物， 食肉动物； 掠夺者， 剥削者
+against	prep.反对?逆?防御
+biological	adj.生物(学)的
+nature	n.自然(界)?本性
+teacher	n.教师
+off	adv.掉(下)?离开?停止
+town	n.城市?城镇
+architecture	n.建筑?建筑学
+train	v.训练?培训
+least	ad&a.最小的?最少的?adv.最小； 最少； 微不足道?adj.最小的；最少的；最不重要的
+pass	v.通过?经过
+always	adv.总是?一直?始终
+normal	adj.正常的?正规的
+mineral	n.矿物?矿石
+knowledge	n.知识?学问
+ask	v.询问?请求?邀请
+slow	adj.慢的?v.放慢?减速
+canal	n.运河?沟渠?n.运河，沟渠?vt.开运河
+name	n.名字?v.命名
+draw	v.画?拖?移动?v.吸引，招引；画，描绘；拖，拉；引起，激起；拨出，抽出；提取，支取；推断出；打成平局?n.平局， 和局； 抽签
+theater	n.戏院?剧场
+above	prep.在…上方?多(大?高)于?adv.在上面
+especially	adv.特别?尤其
+central	adj.中心的?主要的?重要的
+quickly	adv.快速地
+every	adj.每个?一切的?每隔
+successful	adj.成功的?圆满的
+surround	v.包围?环绕?v.包围， 圈住； 围绕， 环绕
+act	v.行动?表演?n.行为
+Canada	n.加拿大
+test	n&vt.试验?测试
+glacial	adj.冰川(期)的?非常冷的?adj.冰川期的， 冰河时代的； 寒冷的， 冰冷的； 冷若冰霜的
+sense	v.感觉?意识到?v.觉得， 意识到?n.感官，官能；感觉；判断力；意义，意思
+eat	v.吃
+single	adj.单一的?单个的?独身的
+quality	n.质量?品质?性质?adj.优良的， 优质的?n.质，质量；品德，品质；性质，特性
+teach	v.讲授?教授
+continent	n.大陆?洲?n.大陆， 陆地； 洲
+northern	adj.北方的?北部的
+separate	v.分开?隔开?v.分离； 划分； 区别； 分居?adj.分离的； 个别的
+cost	n.价格?成本?v.花费?使付出
+transportation	n.运输(工具、系统)?n.运输； 运输系统， 运输工具
+discovery	n.发现?发现物
+parent	n.父母亲
+England	n.英格兰
+rural	adj.农村的?adj.乡村的， 农村的； 田园的
+get	v.获得?得到
+easily	adv.容易地
+channel	n.[常pl]通道?渠道?n.频道； 渠道， 途径； 通道； 海峡； 水道， 航道
+belong	v.属于
+swim	n&v.游泳
+southern	adj.南的?南方的
+worth	prep.相当于…价值的?值得…的?n.价值?adj.值…的，价值…的，值得…的?n.价值； 财产
+run	v.跑?运转?经营
+basic	adj.基本的?基础的?adj.基本的， 基础的； 初步的， 初级的
+crystal	n.水晶?n.水晶；晶体，
+explanation	n.解释?说明
+hundred	n.百?[pl]数以百计
+beg	v.请求?乞求
+rapid	adj.快的?迅速的
+locate	v.定位?把…设置在?vt.使坐落于； 找出， 定位
+across	prep.穿过?在对面?adv.横过；到对面，向对面?prep.穿过， 越过； 在对面
+whose	pron.谁的?那(些)人的
+resource	n.资源?n.资源〔指土地、矿产等〕?v.向…提供资源
+eastern	adj.东方的?东部的
+half	n&a.一半?半个的
+course	n.过程?课程?n.课程， 教程； 过程， 进程； 路线； 一道菜
+date	n.日期?时期?v.追溯到?n.日期，日子；时期，年代；约会；
+merchant	n.商人
+face	n.脸?v.面向?面对
+coast	n.海岸?海滨
+machine	n.机器?机械
+twentieth	num.第二十?二十分之一
+throughout	prep.遍及?贯穿?adv.始终
+special	adj.特别的?特殊的
+plate	n.盘子?碟?n.盘子；板条，板材；号码牌?vt.镀， 电镀； 覆盖
+mark	n.痕迹?记号?v.做标记
+atomic	adj.原子的?原子能的?adj.原子的； 原子能的
+rapidly	adv.迅速地
+wood	n.木头?木材
+leader	n.领导者
+fire	n.火?v.开火?解雇?点燃
+entire	adj.全部的?整个的
+difficulty	n.困难?难点
+core	n.核心?要点?n.地核；果心，核心；要点，精髓?vt.去掉…的中心部分
+easy	adj.容易的?轻松的
+adult	n.成年人
+cold	adj.(寒)冷的?n.(寒)冷?感冒
+education	n.教育
+railroad	n.铁路?v.由铁道运输?v.在铁路公司工作
+law	n.法律
+unlike	adj.不同的?prep.不象…
+brain	n.脑?头脑
+carbon	n.碳
+return	v.返回?恢复?归还
+cell	n.单元?细胞?n.细胞； 基层组织； 单人房间； 电池
+either	adv.[否]也?a&pron.任一的
+company	n.公司
+grass	n.草
+hour	n.小时?钟点
+prevent	v.防止?预防
+per	prep.每?每一
+sell	v.出售?卖
+damage	v&n.损害?毁坏
+unusual	adj.异常的?独特的
+lie	v.躺?说谎
+wall	n.墙?v.围住?隔开
+artisan	n.工匠?技工?n.工匠， 手艺人
+meteorite	n.陨石? 流星?n.陨石
+cool	v.冷却?(使)冷静
+daily	adj.每日的?日常的
+Africa	n.非洲
+want	v.想要
+third	num.第三?三分之一
+volcanic	adj.火山的?猛烈的
+organization	n.组织?机构?团体
+bone	n.骨?骨骼
+protect	v.保护
+labor	n.工人?v.劳动
+degree	n.学位?程度?度数?n.程度； 度数； 学位； 等级
+revolution	n.革命?n.革命； 巨变； 旋转
+read	v.读?理解
+receive	v.接到?收到?接待
+route	n.路线?途径
+statue	n.塑像?雕像?n.雕像
+meter	n.米?公尺
+motion	n.运动?动作?v.做动作， 示意?n.运动，移动；动作；提议，动议
+you	pron.你?你们
+stage	n.舞台?阶段?n.阶段；步骤；舞台；戏剧?vt.上演； 筹划
+cut	v.切?割?剪
+winter	n.冬季?v.过冬
+eventually	adv.最后?终于
+dinosaur	n.恐龙
+meet	v.遇见?见面
+whether	conj.是否?不管?无论
+slowly	adv.慢慢地?迟缓地
+thing	n.东西?事情
+facial	adj.脸部的?面部的?adj.面部的； 面部用的
+liquid	n.液体?adj.液体的?adj.液体的，液态的，流体的；清澈的；流畅的?n.液体； 液态
+cultural	adj.文化的?教养的
+differ	v.不同?有区别?n.区别
+never	adv.决不?从未
+science	n.科学
+whig	n.辉格党
+newspaper	n.报纸
+party	n.政党?聚会
+data	n.数据?资料
+coal	n.煤
+happen	v.发生?碰巧?出现
+five	num.五?五个
+cretaceous	n&a.白垩纪(的)
+book	n.书
+quite	adv.相当?完全?十分
+already	adv.已经?adv.已， 已经
+nearly	adv.几乎?差不多
+collect	v.收集
+sand	n.沙?沙子
+hot	adj.热的?辣的?强烈的
+terrestrial	adj.陆地的?adj.陆地的， 陆生的， 陆栖的； 地球的
+leaf	n.叶子
+star	n.星?明星?v.以星状物装饰?变成演员
+groundwater	n.地下水
+international	adj.国际的?世界的
+serve	v.服务?担任
+root	n.根?v.生根?扎根
+huge	adj.巨大的?庞大的
+put	v.放?安置
+distance	n.距离?路程
+egg	n.蛋
+opinion	n.意见?看法
+cause	v.引起?使发生?n.原因
+eye	n.眼睛
+introductory	adj.引导的?介绍的
+weight	n.重量?负担?v.加重量于
+student	n.学生
+presence	n.出席?存在
+accept	v.接受?承认?同意
+colony	n.殖民地?n.群， 群体； 殖民地； 聚居地
+gradual	adj.逐渐的?逐步的?adj.逐渐的， 逐步的； 坡度平缓的， 不陡的
+piece	n.片?块?v.拼合(凑)
+service	n.公共设施?服务?v.服务
+destroy	v.破坏?毁灭?消灭
+memory	n.记忆(力)?回忆
+perform	v.执行?履行?表演?v.做， 履行， 完成； 表演， 演出； 执行
+soon	adv.不久?很快
+success	n.成功?成就
+generation	n.一代人(或产品)?产生?发生
+link	v.连接?联系?n.联系
+blood	n.血?v.流血
+step	n.(脚)步?步骤?台阶?v.行走?踏上
+stand	v.站?坐落?处于
+plan	n.计划?v.计划?设计
+helium	n.氦
+regular	adj.规则的?定期的?adj.规则的， 有规律的； 整齐的， 匀称的； 频繁的， 经常的； 正常的； 经常的； 正规的， 正式的
+effort	n.努力?成就
+mile	n.英里
+next	n&a.下一个的?prep.靠近
+actual	adj.实际的?真实的
+finally	adv.最后?终于
+serious	adj.严肃的?认真的?严重的
+clock	n.时钟
+fine	adj.好的?优质的?健康的
+mar	n.污点?瑕疵?v.破坏?vt&n.损坏， 损毁
+Dutch	n.荷兰人?adj.荷兰的
+African	n.非洲人?adj.非洲的
+rich	adj.富有的?n.有钱人
+instead	adv.代替?反而?adv.代替， 顶替； 反而， 却
+democrat	n.民主主义者?美国民主党人?n.民主主义者； [D-]民主党人
+aquifer	n.含水土层?蓄水层?n.含水土层
+road	n.道路?途径
+wire	n.金属丝?电线?v.安装电线?发电报
+Australia	n.澳大利亚
+price	n.价格?价值?v.给…定价?估价
+bottom	n.底部?底端
+Greek	n.希腊人?adj.希腊的
+business	n.商业?事务?生意
+immediate	adj.直接的? 立即的?adj.即刻的； 当前的； 最接近的； 紧接的， 紧靠的
+crater	n.弹坑?n.火山口； 坑
+feed	v.喂养
+aggression	n.进攻?侵略?n.侵略； 敌对的情绪或行为
+master	v.控制?精通?n.主人
+nation	n.国家?民族
+import	vt&n.进口?输入?[pl]进口商品?n.进口， 输入； 意义， 要旨， 重要性?vt.进口， 输入
+muscle	n.肌肉?n.肌肉； 体力， 力量， 实力； 影响力
+organize	v.组织?安排
+personal	adj.私人的?个人的?adj.个人的， 私人的； 亲自的
+careful	adj.小心的?仔细的
+danger	n.危险(物)
+equal	adj.同样的?v.等于?adj.相同的?vt.等于；相当于?n.同等的人； 相等的事物
+publish	v.出版?发表
+bear	v.忍受?承担
+total	adj.全部的?完全的?n.总数
+season	n.季节?n.季节； 时节； 时期
+useful	adj.有用的?有益的
+breathe	v.呼吸
+park	n.公园?v.停放(汽车等)
+pheromone	n.<生化>信息素?n.信息素
+loss	n.丧失?遗失?损失
+pay	v.付款?给予(注意等)?付出代价?n.工资
+simply	adv.简单地?adv.简单地， 简明地； 简直； 仅仅， 只； 朴素地， 简朴地
+real	adj.真的?真实的
+era	n.时代?纪元?n.纪元， 年代， 时代； 代
+standard	n.标准?规格?adj.标准的?n.标准，准则
+task	n.任务?作业
+speak	v.说话?谈话
+British	adj.英国(人)的?n.英国人
+mine	n.矿?v.采矿?pron.我的?v.开矿，采矿；在…布雷?n.矿， 矿井； 地雷， 水雷
+geologist	n.地质学者
+attention	n.注意?关心?n.注意， 留心； 立正
+again	adv.再?又
+prove	v.证明?证实
+eighteenth	num.第十八?十八分之一
+opportunity	n.机会?n.机会， 时机
+continuous	adj.连续的?持续的
+flower	n.花?v.开花?繁荣
+stratum	n.地层?阶层?n.岩层；地层
+kilometer	n.千米?公里
+red	n&a.红色(的)
+prefer	v.更喜欢?宁愿?v.更喜欢， 宁愿
+Mediterranean	n.地中海
+fungus	n.真菌?真菌类植物?n.真菌
+pot	n.罐?壶
+fuller	n.漂洗工
+month	n.月
+hydrogen	n.氢
+depth	n.深度
+upon	prep.在之上
+visible	adj.看得见的?显而易见的?adj.看得见的， 明显的
+belief	n.信念?信仰
+enable	v.使能够?使可能
+money	n.钱?货币
+note	n.便条?笔记?v.注意?记录
+flood	v.淹没?充满?n.洪水
+black	adj.黑暗的?黑人的
+soldier	n.士兵?军人
+artistic	adj.艺术的?adj.艺术的； 富有艺术性的， 精美的； 有艺术天赋的
+big	adj.大的
+fast	a&ad.快的?迅速的
+drop	v.下降?放弃?n.下降
+nitrogen	n.氮
+surprise	n.惊奇?v.使惊奇
+television	n.电视(机)
+Asia	n.亚洲
+painter	n.画家?油漆匠
+birth	n.出生
+English	n&a.英语?英国人(的)
+agree	v.同意?赞成
+expensive	adj.昂贵的?高价的
+approximate	adj.近似的?大约的?v.近似?接近?adj.大约的， 近似的?vt.接近， 近似
+shop	n.商店?v.买东西
+push	n&v.推?推动
+wear	v.穿?戴?v.穿，戴；留；面露，面带；磨损，用旧?n.穿戴， 衣着； 服装， 穿戴物； 磨损， 损坏
+dye	n.染料?v.给…染色?v.染色?n.颜料，染料
+future	n.未来?将来
+share	v.分享?分担
+writer	n.作者?作家
+fee	n.费? 酬金
+tell	v.告诉?讲述
+bill	n.帐单?v.开帐单?n.账单；纸币，钞票；议案，法案；节目单；招贴，海报?vt.用招贴宣布； 给…开账单
+topic	n.话题?主题
+spring	n.春天?泉?v.跳?涌现?v.跳跃；涌现，突然出现；突然提出?n.泉； 弹簧， 发条； 春天； 跳， 跃
+lightning	n.闪电?adj.闪电般的， 快速的
+connect	v.连接?联系
+folk	n.人们
+photograph	n.照片?相片?v.拍照?n.照片
+village	n.村庄
+thin	a&ad.薄、细、瘦(的)
+beneath	prep.在…下?(地位等)低于?adv.在下方
+university	n.(综合)大学
+invention	n.发明?创造
+technological	adj.科技的?adj.技术的， 工艺的
+death	n.死?死亡
+wave	n.波(浪)?v.挥动?波动
+explosion	n.爆炸?爆发?n.爆炸； 爆发； 激增
+class	n.阶级?班级?课
+moon	n.月球?月亮
+indeed	adv.真正地?的确?事实上
+prepare	v.预备?准备?v.准备， 预备
+cotton	n.棉花
+crust	n.外壳?硬壳?面包皮?n.地壳； 外壳； 硬的表面； 面包片
+discussion	n.讨论
+floor	n.地面?地板
+fiber	n.光纤?n.纤维素； 纤维制品； 纤维
+geological	adj.地质学的
+escape	v.逃跑?逃脱
+dense	adj.密集的?浓厚的
+reflection	n.反映?考虑?n.反映； 映像； 深思， 考虑； 回忆； 记录， 描述
+whole	adj.全部的?完整的
+increasingly	adv.日益?愈加
+advertisement	n.广告
+top	n.顶部?顶端
+nutrient	n.营养品?adj.营养的?adj.滋养的， 有营养的?n.滋养物，营养品
+ten	num.十?十个
+pastoralist	n.田园诗的作者?牧民
+Britain	n.英国
+search	v.搜寻?调查
+leatherback	n.棱龟(大海龟之一种)
+boundary	n.边界?分界线?n.分界线； 边界
+sky	n.天?天空
+steel	n.钢?钢铁
+thick	adj.厚的?粗的
+fail	v.失败?没有通过
+Atlantic	n.大西洋?adj.大西洋的
+computer	n.计算机?电脑
+fruit	n.水果?果实
+Cambrian	n.威尔斯人
+free	a&ad.自由的(地)?免费的(地)?v.解放
+freeze	v.(使)结冰?(使)冷冻?v.结冰， 凝固
+climatic	adj.气候上的
+musical	adj.音乐的?悦耳的?adj.音乐的；悦耳的；有音乐天赋的，爱好音乐的?n.音乐剧
+familiar	adj.熟悉的?常见的
+Chinese	n&a.中国人(的)
+shelf	n.架子?搁板
+microscope	n.显微镜
+map	n.地图?v.绘制地图
+cue	n.暗示?提示?n.暗示， 提示
+civilization	n.文明?文化
+model	n.模型?v.模仿?展示
+seventeenth	num.第十七?十七分之一
+skin	n.皮肤
+inside	ad&prep.在…里面?少于?n&a.里面(的)
+rainfall	n.降雨?降雨量?n.降雨； 降雨量
+try	v&n.尝试?试验
+something	pron.某事?某物?adv.有点?大约
+gain	n&v.获得?增益
+habit	n.习惯?习性?n.习惯； 习性， 脾性
+famous	adj.著名的?出名的
+buy	v.买?n.购买?买卖
+sleep	vi&n.睡?睡觉
+decision	n.决定?决议
+remember	v.回忆起?记得
+due	adj.应有的?n.应得物?adj.到期的； 预期的； 应得的； 恰当的， 适当的； 应支付的
+song	n.歌(曲)
+soft	adj.软的?温和的?adj.柔软的； 柔和的； 不强烈的； 心肠软的； 软性的
+lichen	n.青苔?苔藓?n.青苔， 地衣
+car	n.汽车
+habitat	n.栖息地?住处?n.自然环境， 栖息地
+bur	n.刺果
+California	n.加利福尼亚?加州
+trail	n.踪迹?v.追踪
+average	n&a.平均(的)?v.平均?adj.平均的；一般的；平庸的?v.平均为?n.平均水平；平均数
+here	adv.在这里?这时
+nor	conj.也不
+stud	v.镶嵌?点缀
+proportion	n.比例?n.比例； 部分； 均衡， 相称
+geometric	adj.几何(学)的?adj.几何的， 几何学的
+inner	adj.内部的?里面的?内心的?adj.内部的；内心的?n.内部； 内心
+resemble	v.象?类似于?vt.与…相似， 像
+dark	n.黑暗
+wild	adj.野生的?n.荒野
+ton	n.吨?大量
+ship	n.船?v.航运?载运
+significance	n.意义?重要性
+Mexico	n.墨西哥(拉丁美洲国家)
+ordinary	adj.平常的?普通的
+case	n.事例?情形
+Rome	n.罗马
+permit	n.通行证?执照?v.许可?允许?v.允许， 许可?n.许可证， 执照
+fully	adv.充分地?完全地
+factual	adj.事实的?实际的?adj.实际的， 真实的， 事实的
+tiny	adj.很少的?微小的
+mouth	n.口?嘴
+Philadelphia	n.费城(美国宾西法尼亚州东南部港市)
+warmer	n.使热的人?温热装置
+rest	n&v.休息
+leg	n.腿?v.走?跑
+paleolithic	adj.旧石器时代的?n.旧石器时代
+hear	v.听到?听说
+crow	n.乌鸦?v.啼叫?v.啼叫， 打鸣； 得意洋洋
+spend	v.花费?度过
+minute	n.分钟?片刻?adj.细微的， 极小的； 细致入微的， 详细的?n.分， 分钟； 一会儿， 片刻； 时刻
+Washington	n.华盛顿
+unit	n.个体?(计量)单位
+improvement	n.改进?进步
+fear	n.恐怖?害怕?v.害怕?畏惧
+feather	n.羽毛?轻的东西
+inch	n.英寸
+ecologist	n.生态学者
+exercise	n&v.运动?练习
+Indian	n.印度(人)
+independent	n.中立派?无党派者?adj.独立的， 自主的； 自立的； 不相干的， 不受影响的； 无偏见的， 中立的； 私立的； 有主见的； 无党派的
+neighbor	n.邻居?邻国
+divide	v.分?划分
+creature	n.创造物
+billion	n&a.十亿(的)
+die	v.死亡
+edge	n.边(缘)?v.侧着移动?徐徐移动?v.徐徐移动； 略为增加； 给…加边?n.边，边缘；刀口，刃；优势
+ever	adv.曾经?永远
+job	n.工作?职业
+protection	n.保护
+timberline	n.树带界线
+regard	n.尊敬?v.看待?当作
+nothing	pron.没有什么?n.没有?adv.毫不
+petroleum	n.石油
+summer	n.夏季
+boat	n.小船?艇
+moisture	n.潮湿?湿气?n.潮湿， 湿气
+vapor	n.水蒸气?n.蒸气， 潮气
+equipment	n.装备?设备
+cattle	n.牛?家养牲畜
+six	num.六?六个
+underground	adj.地下的?地面下的?adv.在地下， 往地下； 秘密地， 不公开地?adj.地下的； 秘密的， 不公开的 记 组合词： under + ground → 地下的
+jazz	n.爵士乐
+Maya	n.玛雅人?玛雅语
+poor	adj.贫穷的?可怜的
+acorn	n.橡树果?橡子
+employ	v.雇用?vt.用，使用；雇用?n.受雇， 雇用
+pump	n.泵?抽水机?n.泵?vt.抽
+industrialization	n.工业化?产业化
+suitable	adj.适当的?相配的
+tie	v.扎?捆绑
+chance	n.机会?v.碰巧， 偶然发生； 冒…的险?n.机会；可能性，偶然性；偶然的事
+civil	adj.公民的?文明的?adj.市民的， 公民的， 平民的； 民事的； 国家的， 政府的； 文明的， 有教养的
+prehistoric	adj.史前的?adj.史前的； 陈旧的
+hunter	n.猎人
+Florida	n.佛罗里达(美国州名)
+game	n.比赛
+obsidian	n.[矿]黑曜石
+migratory	adj.迁移的?流浪的
+nestling	n.尚未离巢的小鸟?婴孩
+sculptor	n.雕刻家
+complicate	v.(使)变复杂
+progress	n&v.前进?进步?发展
+kill	v.杀死?毁掉
+president	n.总统?会长?n.总统， 校长， 主席
+final	adj.最后的?最终的
+finish	n&v.完成?结束
+alder	n.[植]桤木
+title	n.标题?v.加标题于?赋予称
+street	n.街道
+collection	n.收藏(品)
+seven	num.七?七个
+mix	v.使混和?混淆
+document	n.公文?文件?v.记载
+waste	v&n.浪费?adj.无用的，废弃的；荒芜的?n.浪费；废料，废弃物?vt.浪费， 消耗
+scholar	n.学者?n.学者； 奖学金获得者
+join	v.参加?加入?连接
+pullman	n.卧车?普式火车
+raw	adj.自然状态的?生的?原始的?adj.生的， 未烹制的； 自然状态的， 未经加工的； 生疏的， 无经验的； 粗犷的； 原始的， 未经处理的
+horse	n.马
+textile	n.纺织品
+rocky	adj.岩石的?稳固的
+care	n&v.关心?担忧?照顾?v.关心， 关怀； 介意； 担忧?n.小心，谨慎；照看，照料；忧虑，焦虑
+citizen	n.市民?公民
+desertification	n.荒漠化?沙漠化
+gold	n.黄金?金币?adj.金的
+analyze	v.分析?分解?vt.分析， 研究
+night	n.夜?夜晚
+army	n.军队
+front	n&a.前面(的)?v.面向
+seek	v.寻找?探索
+ogallala	n.奥加拉拉(美国地名)
+sophisticate	adj.诡辩的?久经世故的
+archaeological	adj.考古学的
+unknown	adj.不知道的?未知的
+tooth	n.牙齿
+twenty	num.二十?二十个
+office	n.办公室?事务所
+wet	adj.湿的?多雨的
+archaeologist	n.考古学家
+neither	a&pron.两者都不?conj.既不也不
+cetacean	n.鲸类动物
+sunlight	n.日光?阳光
+plankton	n.浮游生物
+radio	n.收音机?无线电
+enter	v.进入?参加
+key	n.关键?钥匙
+silver	n.银?v.镀银
+hole	n.洞?孔?v.凿洞
+nearby	adj.附近的?邻近的?adv.在附近
+yellow	n&a.黄色(的)
+diameter	n.直径
+neanderthal	adv.穴居人的
+French	n&a.法国(人)(的)
+exact	adj.精确的?准确的?adj.精确的，准确的；严谨的，严格的；
+behind	prep.在…后?落后于?adv.在后面
+enjoy	v.享受?喜爱
+beach	n.海滩?n.海滩， 湖滩， 河滩
+technical	adj.技术的?技巧的?adj.技术的， 工艺的； 专业的
+drive	n&v.驾驶
+respect	n&v.尊敬?敬重?vt.尊重，尊敬；遵守?n.尊敬， 尊重； 重视； 方面
+guild	n.行会?协会
+nile	n.尼罗河
+decoration	n.装饰(品)
+radiation	n.放射物?辐射?n.放射； 辐射； 放射物， 放射线； 辐射的热
+height	n.高度?海拔
+butterfly	n.蝴蝶
+asteroid	n.小行星
+him	pron.他
+burn	v.烧?n.烧伤
+export	v&n.输出?出口
+flash	n&v.闪光?闪现?vi.闪光； 反射?n.闪光；闪现
+secondary	adj.次要的?二级的
+pottery	n.陶器?n.陶器； 陶器厂， 制陶作坊； 制陶工艺， 陶器制造术
+chimpanzee	n.黑猩猩
+onto	prep.在之上
+harvest	n.收获?v.收获?收割
+Australian	n.澳大利亚(的)
+conclusion	n.结束?结论
+pull	v.拉?拖?拔
+movie	n.电影
+projection	n.发射
+stretch	v&n.伸展?延伸?v.延伸， 拉长?n.一段路程；延伸
+goal	n.目的?目标
+requirement	n.需求?要求
+operate	v.操作?运转?v.运转， 开动； 动手术； 经营， 管理； 起作用
+zone	n.地域?地带?v.分成区?vt.将…划做特殊区域；分区，划分地带?n.地区， 地域， 地带； 气候带
+pastoralism	n.田园主义?牧歌体
+geologic	adj.地质的
+pleistocene	n&a.[地]更新世(的)(一段时期)
+snowfall	n.降雪?降雪量
+musician	n.音乐家?n.音乐家， 乐师
+Netherlands	n.荷兰[国家]
+choose	v.选择?选定
+unable	adj.不能的?不会的
+seawater	n.海水
+Chicago	n.芝加哥
+walk	v.行?走?n.步行
+Health	n.健康
+active	adj.积极的?活跃的?起作用的
+pure	adj.纯的?纯粹的?adj.纯洁的； 纯净的； 完全的； 纯理论的， 抽象的
+stay	v&n.逗留?保持?延缓
+send	v.发送?派遣
+copper	n.铜?警察?n.铜； 铜币
+engineer	n.工程师?v.设计?建造
+investment	n.投资?可获利的东西
+Boston	n.波士顿
+opportunist	n.机会主义者?投机取巧者
+dependent	adj.依靠的?依赖的
+week	n.星期?周
+balance	n.平衡?v.使平衡?vt.使平衡，使均衡?n.天平， 秤； 平衡； 差额； 余款
+pollution	n.污染
+mother	n.母亲
+repeat	n&v.重复?重做?使再现
+ridge	n.背脊?山脊?n.脊； 山脊， 山脉； 高压脊； 隆起物
+accumulation	n.积聚?堆积物
+Alaska	n.阿拉斯加州(美国州名)
+millennium	n.太平盛世?一千年?n.一千年，千年期
+somewhat	adv.稍微?有点?有些?adv.稍微， 有点
+China	n.中国?瓷器
+favorable	adj.赞成的?有利的
+broad	adj.宽的?广泛的
+risk	vt&n.冒险?风险
+antarctica	n.南极洲
+kinetoscope	n.活动电影放映机
+enlarge	v.扩大? 放大
+defense	n.国防部?防卫?n.防御， 防卫
+intensity	n.强度?强烈
+relation	n.关系?联系
+exhibition	n.表现?展览会
+arid	adj.干旱的?贫瘠的?adj.干旱的； 贫瘠的； 无趣的
+erode	v.侵蚀?腐蚀?v.侵蚀， 腐蚀
+promise	vt&n.允诺?答应
+wooden	adj.木制的
+stick	n.棍?v.刺?戳?v.刺，戳，插；粘住，粘贴；放置；卡住?n.棍， 棒； 手杖
+glaciation	n.冻结成冰?冰河作用
+stencil	n.模版?蜡纸?v.用蜡纸印刷
+tail	n.尾巴?v.跟踪?尾随
+France	n.法国?法兰西
+apart	adv.相间隔?分离?adj.分离(隔)的
+gull	n.海鸥?v.欺骗?n.鸥， 海鸥
+herbivore	n.草食动物?n.食草动物
+tornado	n.龙卷风?n.飓风， 龙卷风
+loud	a&ad.高声的?大声地
+realize	v.认识到?了解
+shallow	adj.浅的?adj.浅的；
+southeast	n&a.东南(的)
+northwest	n&a.西北方(的)
+lung	n.肺?呼吸器
+temperate	adj.温和的?适度的?有节制的?adj.气候温和的， 温带的； 温和的， 自我克制的
+isotope	n.同位素
+nevertheless	adv.尽管如此?conj.然而?不过?adv.然而， 不过
+wheat	n.小麦
+parlor	n.客厅?会客室
+flourish	v&n.繁荣?茂盛?vi.繁荣， 茂盛； 挥舞， 挥动
+catch	v.捕获?抓住
+evolutionary	adj.进化的?发展的?演变的
+variability	n.可变性
+turbine	n.涡轮
+highland	n.高地?丘陵地带
+meat	n.(食用)肉?肉类
+match	v.相配?相称?v.匹配?n.比赛；对手
+tall	adj.高的?长的
+distribute	v.分发?分配?vt.分配， 分发； 散布
+comparative	adj.比较的?相当的?adj.比较的；比较级的；相对的?n.比较级
+newly	adj.重新?最近
+mill	v.碾磨?搅拌
+indirect	adj.间接的?迂回的
+stop	n&v.停止?阻止
+customer	n.消费者
+suddenly	adv.突然地
+manner	n.礼貌?方式?n.方式，风格；
+vegetable	n.蔬菜?植物
+mud	n.泥?泥浆
+motif	n.主题?主旨?n.主题， 主旨； 图形
+wheel	n.轮?v.推?拉?转动
+rough	adj.粗糙的?大致的?adj.粗糙不平的；粗暴的；艰难的?n.高低不平的地面
+corridor	n.走廊
+challenger	n.挑战者
+fragment	n.碎片?v.(使)成碎片?v.分裂， 成碎片?n.碎片， 断片
+occasionally	adv.有时候?偶而
+beaver	n.海狸(毛皮)?vi.忙于?n.海狸； 海狸毛皮
+ceremony	n.典礼?仪式?n.典礼， 仪式； 礼节
+altitude	n.高度(海拔)?n.海拔，高度；
+arrive	v.到达?抵达
+former	adj.从前的?以前的?adj.从前的?n.前者
+career	n.事业?生涯?n.生涯， 经历； 职业
+aim	n.目标v对瞄准?打算
+inventor	n.发明家
+examine	v.检查?调查?考试
+atmospheric	adj.大气的
+introduction	n.介绍?传入?n.介绍； 传入， 引进； 导言， 绪论
+encode	v.把编码
+squirrel	n.松鼠
+invent	v.发明?创造
+pueblo	n.印第安人村庄?n.普韦布洛印第安人村落； 普韦布洛人
+pound	n.磅?英镑?v.(连续)猛击?捣碎?v.猛击；捣碎；怦怦跳?n.磅； 英镑
+pebble	n.小圆石?小鹅卵石?n.小圆石， 鹅卵石
+lot	n.许多?大量
+obvious	adj.明显的?显而易见的
+station	n.(车)站?台?v.安置?派驻?n.所；站；台；岗位；身份，地位?vt.安置； 派驻， 驻扎
+sumerian	n.闪族人[语]
+brown	n&a.棕色(的)?人名
+gazelle	n.瞪羚?小羚羊
+Columbia	n.哥伦比亚
+statistic	n.统计数值?n.统计数字，统计资料；
+evaporation	n.蒸发?n.蒸发； 消失， 不存在
+archaeology	n.考古学
+elsewhere	adv.在别处
+seasonal	adj.季节的?周期性的
+reality	n.真实?事实
+alone	adj.单独的
+college	n.学院
+dead	adj.死的?n.死者
+regional	adj.整个地区的?地域性地
+sandstone	n.沙岩
+Sweden	n.瑞典
+suck	v.吸?吮
+speech	n.演说
+modem	n.[计]调制解调器?n.调制解调器
+pioneer	n.先驱者?创始人?v.开拓(创)?vt.开拓，开创?n.开拓者， 创始人
+originally	adv.最初?原先
+salinity	n.盐分?盐度
+room	n.房间
+weapon	n.武器
+clean	adj.清洁的?v.打扫?使干净
+corn	n.玉米
+dynasty	n.朝代?王朝
+livestock	n.家畜?n.〈总称〉家畜， 牲畜
+algae	n.水藻
+lowland	n.低地
+round	adj.圆的?adv.在周围?prep.大约
+imagine	v.想象?设想
+vertebrate	n.脊椎动物?adj.有脊椎的
+sixteenth	num.第十六?十六分之一
+smooth	adj.光滑的?平整的?v.弄平
+talk	v&n.谈话
+bright	adj.明亮的
+anthropologist	n.人类学家
+opposite	adj.相对的?对面的?n.相反的事物?adj.对面的；对立的；相反的?prep.在…对面?n.对立面；对立物
+interval	n.间隔?距离?n.间隔时间； 间距； 幕间休息
+volcano	n.火山
+love	n&v.爱
+mind	n.头脑?意见?v.介意?注意
+full	n.全部?adj.充满的?完全的
+universal	adj.普遍的?全体的?adj.普遍的， 全体的； 通用的， 万能的； 宇宙的， 全世界的
+union	n.联合?联盟
+fluid	n.液体?adj.流体的?流动的?adj.液体的； 流动的?n.液体，流体
+wildebeest	n.羚羊(其中一种)
+resistance	n.反抗?抵抗
+rabbit	n.兔
+museum	n.博物馆
+hormone	n.荷尔蒙?激素?n.激素， 荷尔蒙
+countryside	n.乡下地方
+thereby	adv.因此?从而?adv.因此， 从而
+violin	n.小提琴
+bad	adj.劣质的?有害的?坏的
+copy	n.副本?v.复印?抄袭
+distant	adj.远的?疏远的?adj.远离的， 遥远的； 疏远的， 冷淡的； 久远的； 不同的
+pellet	n.小球
+physics	n.物理学
+forth	adv.往前?向外
+mesozoic	n&a.中生代(的)
+giant	n.巨人?天才?adj.巨大的；超群的?n.巨大的动物； 才智超群的人
+sheet	n.(一)片?(一)张
+Denmark	n.丹麦
+gar	n.雀鳝属鱼? 雀鳝
+functional	adj.功能的
+cultivation	n.培养?教养
+impossible	adj.不可能的
+colonize	v.拓殖?殖民?vt.聚居于， 大批生长于； 开拓殖民地， 移居于
+flipper	n.鳍状肢
+droplet	n.小滴
+paleontologist	n.古生物学者
+apprentice	n.学徒?v.当学徒
+grandma	n.奶奶
+investigation	n.调查?研究
+rail	n.栏杆?v.抱怨?责骂
+post	n.邮政(件)?职位?v.邮寄?贴出
+lock	n.锁?v.锁上
+feeling	n.触觉?知觉
+fossilization	n.化石作用
+homeland	n.祖国?本国
+policy	n.政策?方针?n.政策， 方针； 原则； 保险单
+wrong	a&ad.错误的?不正当的
+Greece	n.希腊
+screen	n.屏幕?v.掩蔽?放映?vt.掩蔽；审查；筛选
+freezing	adj.冰冻的?严寒的
+mislead	v.误导
+hind	adj.后边的?后面的?adj.后面的， 在后的
+fern	n.蕨类植物
+aurora	n.黎明的女神?极光?n.极光
+zebra	n.斑马
+heart	n.心?心脏
+whatever	pron.凡是?无论什么?adj.无论怎样的
+list	n.目录?列表?v.列出
+scandinavian	n.斯堪的纳维亚人[语]
+Paris	n.巴黎
+profit	n.利润?益处?v.得益?有利于
+revise	v.修订?校订?vt.修订， 修改； 复习
+hence	adv.因此?从此
+investigator	n.调查人
+rent	v.租用?出租?n.租金
+dam	n.水坝?障碍?n.坝，堤?vt.筑坝； 控制
+reduction	n.减少?缩影
+unless	conj.如果不?除非
+transformation	n.变化?转化
+basket	n.篮?一篮
+establishment	n.确立?制定
+canopy	n.天篷?遮篷?n.天篷； 罩盖， 遮篷； 天蓬似的树阴
+dig	v.挖
+reservoir	n.水库?蓄水池?n.水库， 蓄水池； 储备， 储藏
+description	n.描写?记述
+oral	adj.口头的?adj.口头的， 口述的； 口腔的
+potash	n.碳酸钾?苛性钾
+trouble	n&v.烦恼?麻烦
+exhibitor	n.展出者?显示者
+none	adv.决不?毫不?pron.一个也没有
+wing	n.翅膀?v.飞过
+win	v.(获)胜?赢得
+partner	n.合伙人
+argument	n.争论
+solve	v.解决?解答
+cage	n.笼
+shale	n.页岩?泥板岩
+maker	n.制造者
+variable	adj.多变的?可变的?n.变量?adj.易变的；
+perceive	v.察觉?感知?vt.感知， 察觉； 理解
+nervous	adj.紧张的?不安的
+hyper	adj.亢奋的?高度紧张的
+warren	n.养兔场?大杂院
+investor	n.投资者
+loose	n.解放?放任?v.弄松? 释放?adj.松散的， 宽松的； 不精确的， 不严密的； 不牢固的； 自由的， 散漫的
+miss	n.过错?v.错过?遗漏
+upward	adj.向上的?adv.以上
+linguistic	adj.语言(学)上的?adj.语言的， 语言学的
+uniform	n.制服?v.使统一?adj.统一的； 均匀的
+failure	n.失败
+secure	adj.安全的?可靠的?v.保护?adj.安全的，有保障的；可靠的；确定的；
+pool	n.池
+coat	n.外套?v.涂上?包上
+clothe	v.给穿衣?覆盖
+news	n.新闻?消息
+organ	n.器官?机构
+refuse	v.拒绝
+hill	n.小山?丘陵
+wagon	n.四轮马车?货车?n.四轮马车； 货车
+rite	n.仪式?典礼?n.仪式， 典礼
+Hawaii	n.夏威夷
+brick	n.砖块
+pigeon	n.鸽子
+celebrity	n.名声?名人
+your	pron.你的?你们的
+gulf	n.海湾?深渊?n.海湾； 分歧， 隔阂， 鸿沟
+bond	n.结合?协定?v.使结合?粘合?v.黏合， 结合?n.联结，黏结；债券；黏合剂；契约，合同
+notice	n.通知?v.注意到
+voice	n.嗓音?意见?v.说(话)
+double	n&a.两倍(的)?v.使加倍
+entrance	n.入口
+chemistry	n.化学
+portrait	n.肖像?人像?n.肖像， 画像； 描写， 描绘
+empty	adj.空的?v.(使)空?倒出
+islander	n.岛上居民
+piano	n.钢琴
+proxy	n.代理人
+neolithic	adj.新石器时代的
+voyage	n&v.航海?n.旅行； 航程
+spore	n.孢子
+Texas	n.德克萨斯州(美国州名)
+timber	n.木材?木料?n.木材， 木料
+container	n.容器
+article	n.文章?论文
+drink	v.喝酒
+runoff	n.径流量?流出
+watercolor	n.水彩颜料?水彩画(法)
+self	n.自己?自我
+mantle	n.斗蓬?v.披风?覆盖?n.覆盖物； 披风， 斗篷； 纱罩； 【地】地幔
+telescope	n.望远镜
+hungry	adj.饥饿的?渴望的
+crossbill	n.交喙鸟
+emergence	n.浮现?露出
+cheap	adj.便宜的?不值钱的
+sort	n.种类v分类?拣选
+industrialize	v.使工业化
+hominid	n.原始人类?adj.灵长目的?n.原始人类；人科动物
+laboratory	n.实验室?n.实验室， 研究室
+cinema	n.电影院?电影
+compass	n.罗盘?指南针?n.罗盘，罗盘仪；
+kittiwake	n.三趾鸥
+mode	n.方式?模式?n.方式， 形式； 风格； 时尚
+everything	pron.每件事物
+sanctuary	n.避难所?n.禁猎区， 动物保护区； 庇护所， 避难所； 圣所， 圣殿
+bus	n.公共汽车
+theatrical	adj.戏剧性的
+laborer	n.劳动者
+decide	v.决定?判决
+aluminum	n.铝
+firm	n.公司?adj.结实的； 坚定的， 坚决的
+fight	n&v.战斗?打架?斗争
+performer	n.表演者
+listen	v.听
+dependence	n.依靠?信任
+struggle	v.努力?奋斗?挣扎
+German	n.德国人?adj.德国的
+irregular	adj.不规则的?无规律的?adj.不规则的， 无规律的； 不整齐的； 不合常规的
+centimeter	n.厘米
+colonization	n.殖民地化?殖民?n.殖民地化
+female	n.女性
+emit	v.发出?放射?vt.发出； 放射； 排放
+retreat	v.撤退?退却?vi.退却，撤退；退缩?n.退却， 撤退； 隐退处
+invertebrate	a&n.无脊椎的?无骨气的人?adj.无脊椎的?n.无脊椎动物
+symbiotic	adj.共生的
+circle	n.圆(圈)?v.围着?盘旋
+quarter	n.四分之一?一刻钟
+fix	v.修理?安装?整理?v.修理；使固定，安装；安排；找到，确定?n.解决方法； 困境， 窘境
+doubt	n&v.怀疑?怀疑
+Tennessee	n.田纳西州
+eruption	n.爆发?火山灰
+treat	vt&n.对待?款待
+politician	n.政治家?政客
+mail	n.邮件?邮政?n.邮件?vt.邮寄
+beauty	n.美?美景
+Spanish	a&n.西班牙(的)?西班牙人(的)
+engraving	n.雕刻术?雕版?n.雕刻术， 刻版术； 版画
+tide	n.潮?潮汐?v.涨落?n.潮， 潮汐； 潮流， 趋势
+ray	n.光线?射线
+weigh	v.称重量
+plane	n.平面?飞机
+nouveau	adj.新近到达的?最近产生的
+glaze	v.变呆滞?v.上釉?n.釉(料)?v.上釉； 给…装玻璃?n.釉料；糖浆
+martian	n&a.火星人(的)
+bee	n.蜜蜂
+latter	adj.后者的?后面的?adj.后面的，后半期的；后者的?n.后者
+anything	pron.任何事
+roof	n.屋顶
+mercantile	adj.贸易的?商业的?adj.贸易的， 商业的； 重商主义的
+fossilize	v.成化石?陈腐
+countercurrent	n.逆流?反向电流
+potter	n.陶工?制陶工人
+excavate	v.挖掘?开凿?vt.挖掘； 掘出
+reclamation	n.开垦?改造
+admire	v.赞美?钦佩?羡慕?vt.钦佩， 仰慕； 欣赏
+ensure	v.确保?保证?vt.确保， 担保， 保证
+weak	adj.虚弱的?淡的
+excite	v.使兴奋?激动
+sale	n.出售?卖出
+blow	v.风吹?吹气于
+pair	n.一对?一双
+cease	v.停止?终了?v&n.结束， 终止， 停止
+classroom	n.教室
+biologist	n.生物学家
+aboriginal	adj.土著的?原来的?adj.原始的；土著的，土生土长的?n.土著
+crude	adj.天然的?未加工的?粗鲁的?adj.天然的， 未提炼的； 粗糙的； 粗俗的
+drawing	n.图画?制图
+hang	v.悬挂?附着
+income	n.收入?收益
+freedom	n.自由
+Mississippi	n.密西西比河?密西西比州(美国州名)
+separation	n.分离?分开
+recharge	v.再充电?再进攻?恢复精力?v.充电； 休整； 再装弹药
+gene	n.[遗传]因子?[遗传]基因
+penetrate	v.穿透?渗透?看穿?v.刺穿； 渗透； 洞察
+nerve	n.神经?胆量
+engrave	v.雕刻?使铭记?vt.雕刻； 铭刻
+graham	adj.全麦(面粉)的
+eight	num.八?八个?第八
+turnpike	n.收费公路
+load	n.负荷?装载量?v.装(载)?使负担?n.负荷，负担；装载?vt.装载， 使负担
+mixture	n.混合(物)
+spin	v.旋转?纺纱?v.快速旋转；纺纱；吐丝；甩干衣服?n.旋转
+expressive	adj.表达的?意味深长的?adj.有表现力的， 富有表情的； 表示…的， 表现…的
+secrete	v.隐藏?隐匿?vt.分泌； 藏匿， 躲藏
+garden	n.(菜、花)园
+astronomer	n.天文学家
+bare	adj.赤裸的?无遮蔽的?adj.赤裸的；光秃的，无遮盖的；最基本的?vt.脱掉； 显露
+Erie	n.伊利(人)
+Yucatan	n.尤卡坦半岛
+alkali	n.碱?adj.碱性的
+sedimentary	adj.沉积的?沉淀性的?adj.沉积的， 沉淀性的
+Spain	n.西班牙(欧洲南部国家)
+window	n.窗?窗口
+text	n.正文?课文
+sing	v.唱?演唱
+assist	v.援助?帮助
+enclose	v.放入封套?围绕?vt.围住； 把…装入
+furnace	n.炉子?熔炉?n.火炉， 熔炉； 锅炉
+whom	pron.谁
+bake	v.烘焙?烤?v.烘， 烤， 焙
+ash	n.灰(烬)?[植]岑树
+pit	n.深坑?陷阱v窖藏?使凹下?vt.使有坑，使…表面有斑点?n.大坑， 深坑； 矿井； 陷阱
+traffic	n.交通?运输
+Harvard	n.哈佛大学(美国)
+Himalaya	n.喜马拉雅山
+gravity	n.地心引力?重力?n.重力； 严重性； 严肃， 庄严
+explorer	n.探险者
+educate	v.教育?培养
+sudden	adj.突然的?意外的
+precipitation	n.仓促
+sheep	n.羊?绵羊
+mercy	n.仁慈?宽恕?怜悯?n.宽恕； 仁慈； 恩惠， 幸运
+lewis	n.[机] 吊楔?起重爪
+oceanic	adj.海洋的
+comfortable	adj.舒适的?充裕的
+sail	v.航行(于)?启航
+publisher	n.出版者?发行人
+seat	n.座位?v.使坐下
+usual	adj.平常的?通常的
+touch	v.接触?达到
+outflow	n.流出(物)
+durable	adj.持久的?耐用的?adj.持久的， 耐用的
+seal	n.封铅 vt封? 密封?vt.密封；确定，使成定局?n.海豹； 封铅， 封条； 印， 图章
+Ohio	n.俄亥俄州(美国州名)
+guide	n.领路人?指南 vt指导? 支配
+southwestern	adj.西南的? 来自西南的
+infantile	adj.幼稚的，幼儿的
+brother	n.兄弟
+amnesia	n.健忘症
+toy	n.玩具
+silent	adj.寂静的? 沉默的
+nutritional	adj.营养的?滋养的
+taste	v.品尝? 体验
+delivery	n.递送?交付?传输
+satisfy	v.满足?使满意
+react	v.起反应? 起作用
+freshwater	n.淡水
+official	n.官员?adj.官方的?正式的
+save	v.解救? 保存
+appreciate	v.赏识? 感激?vt.赏识； 鉴赏， 欣赏； 感激
+friend	n.朋友? 赞助者? 助手
+crustal	adj.地壳的?adj.外壳的， 地壳的
+carbohydrate	n.碳水化合物?醣类?n.碳水化合物
+nine	num.九?九个
+strengthen	v.加强? 巩固
+sociologist	n.社会学家
+sum	n.总数?总和?v.共计?概括?v.共计， 合计， 总计?n.和，总数；金额，数额；算术
+leadership	n.领导能力?领导阶层
+king	n.国王
+seafloor	n.海底
+hotel	n.旅馆? 客栈
+found	v.建立? 创办
+twice	adv.两次? 两倍
+instruction	n.命令?指示?用法说明?adj.说明用法的?n.教导；
+motor	n.发动机?adj.机动的；肌肉运动的?n.发动机， 电动机
+partially	adv.部分地
+Germany	n.德国
+beautiful	adj.美丽的
+trust	v.信任? 信赖
+artwork	n.艺术品?美术品
+shore	n.岸? 海滨?n.滨，岸?vt.支撑， 支持
+tube	n.管子?n.管； 管状物； 管状器官
+kiln	n.窑?炉?n.窑， 炉
+indium	n.[化]铟
+burst	v.爆裂? 炸破
+academy	n.学院?学会?专科学校?n.学会， 研究院； 专科院校
+path	n.小路? 路线?n.道路； 路线； 小路， 小径
+imprint	v.留下烙印?vt.使铭记， 使牢记； 压印?n.印记， 印痕； 持久的影响
+impression	n.印象? 感想
+Pennsylvania	n.宾夕法尼亚州（美国州名）
+iridium	n.[化]铱
+pick	v.挑选?采摘
+cent	n.(货币单位)分? 分币
+rush	n&v.冲?匆忙?突袭?v.冲，突进；奔，急速流动；仓促从事；突袭?n.冲，急速行进；匆忙；
+spray	n.喷雾 vt喷射?n.浪花；飞沫；
+strongly	adv.强烈地；强有力地
+lay	v.放置?铺设?v.产； 放置； 铺； 筹划， 设置； 提出， 提交
+bite	n&v.咬? 刺痛
+harm	v.伤害? 损害
+footprint	n.足迹
+herself	pron.她自己
+unpredictable	adj.不可预知的?adj.不可预知的； 无法预言的
+automobile	n.汽车?n.汽车， 机动车
+collector	n.收藏家? 征收者
+cooperation	n.合作? 协作?n.合作， 协作
+enzyme	n.[生化]酶?n.酶， 酵素
+employee	n.职工? 雇员
+irrigate	v.灌溉?vt.灌溉； 冲洗
+dozen	n.一打? 十二个?n.一打， 十二个
+silt	n.淤泥?v.(使)淤塞?v.阻塞
+roll	v.(使)滚动?卷?v.滚动，转动；卷，绕；摇摆，摇晃?n.卷； 卷形物； 名单， 花名册
+surveyor	n.测量员? 检查员
+acre	n.英亩? 地产
+nuclear	adj.核子的? 原子能的
+larva	n.幼虫?n.〔昆虫的〕幼虫，幼体
+sharp	adj.锐利的?明显的?急剧的
+peasant	n.农夫
+page	n.页?记录
+accumulator	n.蓄电池?积聚者
+lip	n.嘴唇
+rainwater	n.雨水
+satire	n.讽刺(文学)?n.讽刺文学， 讽刺作品； 讽刺
+impressive	adj.给人深刻印象的? 感人的?adj.给人深刻印象的； 感人的
+brush	n.刷子? 毛刷? 画笔 vt刷? 掸? 拂?v.刷，拂；轻碰?n.画笔； 刷子； 轻碰； 小冲突
+Massachusetts	n.马萨诸塞(美国州名)
+realism	n.现实主义
+watch	v.看?注视?照顾
+marry	v.娶? 嫁?和结婚
+race	n.种族 v赛跑
+lava	n.熔岩? 火山岩?n.岩浆， 熔岩
+empire	n.帝国
+deco	n.装饰派艺术
+ruminant	n&a.反刍动物(的)? 沉思的
+stoneware	n.瓷器
+barb	n.鱼钩?v.装倒钩于?n.鱼钩， 倒钩； 挖苦的话
+forage	n.草料?vi.觅食；搜寻?n.草料， 饲料
+nitinol	n.[冶]镍钛诺(镍和钛的非磁性合金)
+chick	n.小鸡
+frost	n.霜?v.结霜?v.结霜，蒙上霜?n.霜； 霜冻； 严寒
+precisely	adv.正好
+egalitarian	adj.平等主义的
+plover	n.千鸟
+shelve	v.搁置
+judge	n.法官?裁判员 v断定?裁决
+unfortunately	adv.不幸地? 遗憾地
+downward	adj.向下的?adv.向下，往下
+warbler	n.鸣鸟
+specialization	n.特殊化? 专门化
+media	n.媒体?n.媒介， 媒体
+confuse	v.搞乱?使糊涂
+twig	n.嫩枝?n.嫩枝， 小枝
+workweek	n.一星期工作时间
+extensively	adv.广泛地，彻底地
+clement	adj.仁慈的，温和的
+throw	v.扔?投?掷?v.投，掷，抛；丢，扔；使陷入，使处于；使困惑，使吃惊?n.投， 掷， 抛； 投掷的距离
+affair	n.事务?事件
+mold	n.模子vt浇铸? 塑造?n.霉菌；模型?vt.塑造
+mammoth	n.猛犸?长毛象?adj.庞大的?adj.巨大的?n.猛犸， 毛象
+tellurium	n.碲
+hopewell	n.霍普韦尔
+percentage	n.百分数? 百分率
+butter	n.黄油?牛油?n.黄油?vt.涂黄油于
+fauna	n.动物群
+cook	n.厨师 v烹调? 煮
+indicator	n.指示器
+steamboat	n.汽船
+archaeopteryx	n.始祖鸟(古代生物)
+disclaimer	n.放弃? 弃权
+carbonate	n.碳酸盐
+southeastern	adj.东南方的
+harmful	adj.有害的? 伤害的
+scarce	adj.缺乏的?不足的?adj.缺乏的； 稀有的， 罕见的
+obviously	adv.明显地
+Missouri	n.密苏里州(美国州名)
+department	n.部? 局
+jet	n.喷气式飞机
+senate	n.参议院?n.参议院； 上院
+salty	adj.咸的
+rice	n.稻? 米
+westward	n.西方a&ad西方的? 向西
+being	n.存在? 生命
+excellent	adj.卓越的? 极好的
+conceal	v.隐藏? 隐瞒?vt.隐蔽； 隐瞒； 覆盖
+seep	v.渗出?v.漏出， 渗漏
+naturalist	n.自然主义者?n.自然主义者； 博物学家
+stomach	n.胃
+sloth	n.懒惰?n.树懒； 懒散， 怠惰
+perceptual	adj.感性的?知觉的?adj.感知的， 知觉的
+plentiful	adj.丰富的?充裕的
+childhood	n.孩童时期
+proterozoic	n&a.原生代(的)
+falcon	n.猎鹰?n.猎鹰， 隼
+orchid	n.兰花?n.兰， 兰花
+semiarid	adj.半干旱的
+sibling	n.兄弟姐妹
+click	v.发出滴答声
+kestrel	n.(一种)鹰
+bell	n.铃? 钟
+tire	n&v.疲劳?厌倦
+camel	n.骆驼
+lift	v.举起?提高
+earthquake	n.地震? [喻]在震荡? 在变动
+elect	v.选举? 选择
+straight	adj.直的?连续的
+animation	n.兴奋?活跃
+sahara	n.撒哈拉沙漠
+lend	v.借给? 贷(款)
+wavelength	n.波长
+passenger	n.乘客
+highway	n.公路
+molt	vi&n.脱毛?换毛
+columbian	adj.美国的? 美洲的?哥伦布的
+everywhere	adv.到处? 无论何处
+succeed	v.成功? 继承? 接着发生
+experimental	adj.实验(性)的，试验(性)的?adj.实验的， 用于实验的
+crystalline	adj.水晶(般)的?透明的
+speculation	n.思索? 做投机买卖
+sit	v.坐
+thirty	num.三十
+prize	n.奖(金，品)vt珍视，珍惜?adj.应获奖的； 优秀的， 典范性的?vt.珍视?n.奖品；奖金；难能可贵的东西
+scandinavia	n.斯堪的纳维亚（北欧地名）
+wool	n.羊毛?毛织品
+dairy	n.牛奶场?乳品店?adj.乳品的?n.牛奶场；乳品店；奶制品
+continually	adv.不断地，频繁地
+calcite	n.方解石
+me	pron.我
+southward	adj.向南 a向南的
+proponent	n.支持者，拥护者?n.支持者； 倡导者
+tip	n.末端?小费 v倾斜
+partnership	n.合伙(关系)?n.合伙； 伙伴关系； 合伙人身份
+republican	a&n.共和政体的?共和党人(的)
+strict	adj.严格的? 严厉的
+ichthyosaur	n.鱼龙
+India	n.印度
+niche	n.壁龛?合适的职务(环境、位置等)?n.生态位； 壁龛
+magazine	n.杂志? 期刊
+primate	n.灵长类(动物)?n.灵长类， 灵长目动物； 大主教
+tribal	adj.部落的?种族的?adj.部落的， 宗族的； 种族的
+storytelling	n.说书? 讲故事
+oven	n.烤箱
+district	n.区域?行政区?n.地区， 区域； 管区， 行政区
+wait	v&n.等待
+pleasure	n.愉快?乐趣
+snowflake	n.雪花?n.雪花， 雪片
+swallow	n&v.吞下?咽下?v.吞，咽；吞没，侵吞；轻信，轻易接受；默默忍受；使不流露，抑制?n.燕子； 吞， 咽
+imagination	n.想象(力)
+telephone	n.电话
+pterosaur	n.翼龙
+fifteen	num.十五
+bay	n.海湾
+realist	n.现实主义者
+pack	v.捆扎?打包?n.包?v.收拾，打包；捆扎；塞满?n.包， 包裹
+populate	v.构成人口? 居住于?vt.居住于
+defend	v.防护? 辩护
+porous	adj.多孔渗水的?adj.有孔的， 多孔的； 能渗透的
+dot	n.点 vt打点于?点缀?v.星罗棋布于；打点于；点缀?n.点， 圆点； 小数点
+disturb	v.打扰?弄乱?vt.打扰； 搅乱， 弄乱； 使烦恼， 使不安
+harbor	n.海港?vt.窝藏；藏有?n.港口
+inexpensive	adj.廉价的?便宜的
+equatorial	adj.(近)赤道的
+tiredness	n.疲劳?疲倦
+spear	n.矛? 枪?v.刺，戳?n.矛， 枪； 嫩叶
+fourth	num.第四个
+everyday	adj.每天的，日常的
+review	vt&n.回顾?复习?评论?vt&n.审查； 复习； 回顾； 评论； 检阅
+iodine	n.碘? 碘酒
+hypothalamus	n.[解剖]视丘下部
+tablet	n.药片
+songbird	n.鸣禽?鸣鸟
+aside	adv.在旁边?到旁边
+else	adj.别的?其他的 ad另外
+interplay	n.相互影响?n&vi.相互作用， 相互影响
+topi	n.遮阳帽?[动]转角牛羚
+cow	n.母牛
+ceremonial	n.仪式?adj.正式的?adj.礼仪的，礼节的?n.礼仪， 礼节
+tolerate	v.忍受?容忍?vt.忍受； 容许， 承认
+icebox	n.冷藏库
+roost	v& n.栖息鸟巢?vi.栖息?n.栖息处， 鸟巢
+nestle	v.依偎?（舒适地）安顿
+tactic	n.策略? 战略?n.手段，策略；
+Japanese	n&a.日本人(的)? 日语（的）
+cap	n.帽子?盖 vt覆盖?胜过
+carver	n.雕刻匠
+properly	adv.适当地；正确地
+kohoutek	n.[天]科胡特克彗星
+gill	n.鳃?及耳[液量单位]
+fashion	n.方式?流行款式?v.形成?塑造
+husband	n.丈夫
+proceed	v.进行?继续下去?vi.进行下去， 继续做； 发生； 继续下去； 行进， 前往
+feat	n.功绩，伟业?n.功绩， 壮举
+angle	n.[数]角?角落?v.把…放置成一角度； 使带上倾向性?n.角；角度，立场，观点
+meaningful	adj.意味深长的?adj.意味深长的； 有目的的， 有用意的； 有意义的
+agrarian	adj.有关土地的? 耕地的
+airplane	n.飞机
+warn	v.警告，告诫
+letter	n.信，函件，字母
+canoes	n.独木舟
+starling	n.欧掠鸟
+correspond	v.符合?相当?vi.相一致， 符合； 相当于； 通信
+fifteenth	num.第十五
+invade	v.侵略?v.侵入， 侵略； 侵扰
+additive	adj.附加的?n.添加剂?n.〔食品的〕添加剂，添加物
+hope	v&n.希望?信心
+Egypt	n.埃及
+steadily	adv.稳定地?坚定地
+shoot	v.发射? 开枪
+exchanger	n.交换器? 换热器
+strictly	adv.严格地
+psychodynamic	adj.精神动力的
+lighthouse	n.灯塔
+chart	n.图表 vt制图?vt.用图说明；制图；记录，跟踪；计划?n.图表； 航海图
+palm	n.手掌?掌状物
+innovative	adj.创新的? 革新的?adj.革新的， 创新的； 富有革新精神的
+underlie	v.位于之下? 成为的基础
+enemy	n.敌人
+farmland	n.农田
+relic	n.遗物? 废墟?n.遗物， 遗迹， 遗风
+pile	n.一堆，一叠 v堆积
+smell	n.气味v嗅? 闻到
+gallium	n.镓
+lion	n.狮子
+camera	n.照相机
+ink	n.墨水
+eggshell	n.蛋壳? 易碎的东西
+invader	n.侵略者
+pigment	n.天然色素?颜料?n.颜料； 色素
+hire	v.／n租用，雇用
+finger	n.手指 v用手指拨弄
+silversmith	n.银器匠?n.银匠； 银器商人
+poet	n.诗人
+biome	n.(生态)生物群系
+darkness	n.黑暗?漆黑
+Hispanic	adj.西班牙的
+reformer	n.改革家? 改革运动者
+Mississippian	adj.密西西比河的 n密西西比州人
+browse	v&n.浏览? 放牧?v.吃嫩叶或草；浏览?n.嫩叶； 浏览
+southwest	n.西南方(的)
+convex	adj.凸出的
+magma	n.岩浆? 糊剂?n.岩浆
+intention	n.意图? 目的
+wash	n&v.洗?洗涤
+injury	n.伤害?侮辱
+meeting	n.会议
+secret	n&a.秘密(的)
+inclusion	n.包含
+cadmium	n.[化]镉
+dominance	n.支配?优势
+anger	n.怒?v.恼火
+drum	n.鼓
+horticulture	n.园艺
+compress	v.压缩?摘要叙述?v.压缩； 缩短； 浓缩
+cone	n.圆锥体；
+lifestyle	n.生活方式
+lord	n.封建领主?君主
+debt	n.债务?n.债务； 负债情况； 罪过
+dispersal	n.散布?传播?分散?n.疏散； 散布， 散开
+Indiana	n.印地安那州
+tectonic	adj.构造的? 建筑的?adj.地壳构造的
+firn	n.粒雪? 积雪
+adulthood	n.成人期
+consciously	adv.有意识地? 自觉地
+sixteen	num.十六
+supernatural	a&n.超自然(的)? 神奇(的)
+nomadism	n.游牧?流浪
+selenium	n.[化]硒
+poem	n.诗
+unhappy	adj.不幸的? 不快乐的
+Bantu	n.班图人? 班图语
+ratio	n.比? 比率?n.比， 比率
+noise	n.喧闹声? 噪声
+geothermal	adj.地热的
+restoration	n.恢复? 归还?n.恢复； 整修， 修复； 复位， 复原； 归还
+eddy	n.旋转?漩涡
+wherever	conj.无论在哪里?adv.无论什么地方
+telecommuting	n.远程联机? 远程办公
+metabolism	n.新陈代谢
+repress	v.抑制，镇压?vt.克制， 抑制； 镇压， 压制
+subway	n.地铁? 地下通道?n.地铁
+pride	n.自豪
+refrigerator	n.电冰箱
+fir	n.[植]冷杉
+superorganism	n.[生]超个体(指群居昆虫等的群体)
+Harlem	n.(纽约的）黑人住宅区
+orleans	n.奥尔良[法国]
+dream	v.做梦 n梦?梦想
+geographic	adj.地理(学)的
+peepshow	n.西洋镜
+anemone	n.[植]银莲花? [动]海葵
+handedness	n.用右手或左手的习惯
+billfish	n.长嘴鱼?尖嘴鱼
+plow	v.耕? 犁?v.耕田， 犁田， 耕作?n.犁
+truly	adv.真正地；忠实地
+figurine	n.小雕像
+polygon	n.[数]多角形?多边形?n.多角形， 多边形
+hypothesize	v.假设?猜测?v.假定， 假设
+depletion	n.损耗
+request	v.请求? 要求?n&vt.要求， 请求
+ammonia	n.[化]氨? 氨水?n.氨， 氨水
+beringia	n.白令海和楚可奇海海域
+arrival	n.到来? 到达
+sedimentation	n.沉淀?沉降
+agency	n.代理处? 中介?n.代理处， 经销机构； 专门机构
+temple	n.庙? 寺?n.寺庙， 教堂； 太阳穴
+asphalt	n.沥青
+evergreen	n.常绿树?adj.常绿的?n.常绿树， 常青树
+lizard	n.[动]蜥蜴?n.蜥蜴
+parental	adj.父母的
+illumination	n.阐明? 启发
+healthy	adj.健康的
+simplify	v.单一化?简单化?vt.简化， 使简单， 使单纯
+advertiser	n.登广告者?广告客户
+persian	n.波斯人[语]
+neonate	n.初生婴儿
+caterpillar	n.毛虫?n.毛毛虫
+smile	vi&n.微笑
+silk	n.丝绸
+proposal	n.提议?建议?n.提议， 建议； 求婚
+effectively	adv.有效地
+wartime	n.战时
+Euphrates	n.幼发拉底河
+gypsum	n.石膏
+meltwater	n.冰雪融化成的水
+bulb	n.鳞茎?球形物?n.鳞茎； 鳞茎状物； 灯泡
+trillion	num.万亿
+frontality	n.正面描绘
+Tasmania	n.塔斯马尼亚岛? 塔斯马尼亚州(澳大利亚州名)
+Latin	n&a.拉丁文?拉丁语(的)?adj.拉丁的；拉丁语的?n.拉丁语
+abroad	adv.到国外?在国外
+burgess	n.(英国)市民，镇民
+manganese	n.n〈化〉锰
+ultimately	adv.最后，最终
+journey	n.旅行
+igneous	adj.(指岩石)火成的? 火的?adj.火的， 似火的； 火成的， 火成岩的
+Zealand	n.西兰岛(丹麦最大的岛)
+gaseous	adj.气体的?气态的?adj.气体的， 气态的
+metropolis	n.首都?大城市?n.首府； 大都市
+wife	n.妻子
+lomas	n.洛马斯(阿根廷东部的一城镇)
+safe	adj.安全的?n.保险箱
+confederacy	n.联盟?邦联?n.联盟， 同盟， 联邦； 私党
+fertilize	v.使肥沃；使多产
+withstand	v.抵挡? 经受住?vt.经受住， 耐； 抵挡
+singer	n.歌手
+raft	n.木排(筏)?救生圈 v用筏子渡河?v.用筏运送； 乘筏渡河?n.筏，木排；充气船
+offshore	a&ad.离岸的?近海的
+intend	v.想要? 打算
+democratic	adj.民主的?民主主义的
+interlock	v.互锁
+truth	n.事实?真理
+odd	adj.奇特的?奇数的?n.[ pl]机会?adj.单数的； 奇数的； 奇异的， 古怪的； 偶尔发生的
+Illinois	n.伊利诺斯州(美国州名)
+alpine	adj.高山的? 阿尔卑斯山的
+monumental	adj.纪念碑的?不朽的?adj.纪念碑的； 不朽的
+twelve	num.十二
+payment	n.付款? 报酬? 偿还
+partly	adv.在一定程度上，部分地
+thrust	v.推，插；刺?n.要旨?v.挤；插；戳，刺?n.戳， 刺； 要旨； 驱动力
+delay	v./n耽搁? 延迟?v.耽搁，延迟?n.耽搁， 延迟
+don	n.先生?阁下
+duration	n.持续时间
+everyone	pron.每个人
+compaction	n.压紧?紧束之状态
+assistant	n.助手? 助教?adj.辅助的，助理的；副的?n.助手， 助教
+astonish	v.使惊讶
+adaptive	adj.适合的? 适应的?adj.适合的， 有适应性的
+perfectly	adv.理想地；完美地
+manage	v.管理，经营，处理?v.勉力完成； 应付； 操纵， 控制； 管理
+hair	n.头发? 毛发
+admission	n.允许进入? 承认? 许可?n.准许进入； 入场费； 承认
+Seattle	n.西雅图
+altogether	adj.完全地? 总而言之
+spectacular	adj.引人入胜的? 壮观的?adj.壮观的，引人注目的?n.壮观的场面； 壮观的演出
+mathematician	n.数学家
+kerosene	n.煤油?n.煤油， 火油
+underwater	adj.在水中生长的
+horizontal	adj.地平线的? 水平的?adj.水平的； 与地面平行的
+eleven	n.十一
+breath	n.呼吸? 气息
+naturalistic	adj.自然的? 自然主义的
+cenozoic	n.新生代?新生代之岩层 a新生界的
+plantation	n.种植园?人工林?n.种植园； 人造林
+chamber	n.室? 会议厅?n.会议厅； 议院； 洞穴； 腔， 室； 房间
+tomb	n.坟墓
+Italy	n.意大利(欧洲南部国家)
+totally	adv.完全地? 整全地
+reasonable	adj.合理的?通情达理的?adj.合理的， 适当的； 通情达理的； 公道的
+consideration	n.考虑? 体贴?n.考虑， 思考； 体谅， 照顾； 考虑因素， 理由； 报酬
+wilderness	n.荒野
+fur	n.毛皮
+woodcut	n.木刻
+delta	n.三角州?n.三角洲； 希腊字母表的第四个字母
+putrefy	v.(使)化脓? (使)腐烂
+trip	n.旅行，旅游
+preparation	n.准备?预备
+gray	adj.灰色的? 暗淡的
+bury	v.埋葬? 掩埋
+thank	v.感谢
+conquest	n.征服 战利品
+deplete	v.耗尽? 使衰竭?vt.使枯竭， 耗尽
+toddler	n.初学走路的孩子
+Amsterdam	n.阿姆斯特丹(荷兰首都)
+carrier	n.运送者
+soda	n.苏打? 碳酸水?n.苏打， 纯碱
+remind	v.提醒? 使想起?vt.提醒； 使想起； 使发生联想
+reproductive	adj.生殖的?再生的?复制的
+abigail	n.(贵妇人的贴身)使女
+zigzag	n.Z字形? 锯齿形?vi.曲折行进?adj.之字形的，弯弯曲曲的?n.之字形
+argon	n.[化]氩
+genetically	adv.遗传(基因)方面
+himself	pron.他自己
+occasion	n.场合?时机
+robin	n.知更鸟
+psychologist	n.心理学者
+tourist	n.旅行者
+Marseille	n.马赛(法国港口城市)
+diver	n.潜水者
+worksheet	n.工作记录表
+broadcast	n&v.广播? 播音?v.广播，播放?n.广播， 广播节目
+sphere	n.球? 范围?n.球； 范围， 领域； 阶层
+seabed	n.海底? 海床
+angiosperm	n.被子植物
+circadian	adj.昼夜节律的?生理节奏的
+seaway	n.海上航道
+oversea	adj.外国的? 海外的
+moth	n.蛾? 蛀虫?n.蛾
+honor	n&v.尊敬
+zoologist	n.动物学家
+library	n.图书馆
+decomposition	n.分解? 腐烂
+catalog	n.目录?v.编目录
+door	n.门
+observer	n.观测者? 观察员
+Caledonian	n&a.古苏格兰人(的)? 苏格兰人（的）?n&a.苏格兰人(的)
+wetland	n.潮湿的土壤? 沼泽地
+coma	n.昏迷
+cooler	n.冷却器
+advent	n.出现，到来?n.到来， 来临； 出现
+synthetic	adj.合成的? 综合的?adj.合成的，综合的；人造的
+exposure	n.暴露? 揭露?n.暴露， 显露； 揭露； 曝光； 面临， 遭受
+chondrite	n.球粒状陨石
+digestive	adj.消化的
+northeast	n&a.东北(的)
+sketch	n.略图 v素描；概述
+embryo	n.胚胎?n.胚， 胚胎； 雏形
+allende	n.阿连德(在墨西哥? 西经 100o01' 北纬 25o20')
+loan	n.贷款?v.借出，贷给?n.贷款；出借，借出；暂借的东西?vt.借出； 贷给
+hinterland	n.内地? 穷乡僻壤?n.内地， 腹地； 内地贸易区
+mechanize	v.机械化?vt.使机械化
+finch	n.雀类
+morning	n.早晨? 上午
+tin	n.锡
+Oregon	n.俄勒冈州(美国州名)
+couple	n.夫妇 v结合?n.对，双；夫妇，情侣；几个人，几件事?vt.连接， 结合
+willing	adj.乐意的? 自愿的
+steppe	n.特指西伯利亚一带没有树木的大草原
+patch	n.补丁 vt补?修补?vt.修补，打补丁?n.小片， 小块； 补丁； 小块土地
+noticeable	adj.显而易见的?adj.明显的， 值得注意的
+mad	adj.疯狂的?狂热的
+spirit	n.精神? 灵魂
+viewer	n.电视观众?阅读器
+fin	n.鳍? 鱼翅?n.鳍； 鳍状物； 翼
+stamp	n.邮票?图章?v.跺脚?盖章
+subtractive	adj.减去的?负的
+undoubtedly	adv.无庸置疑地?的确地
+quilt	n.被子?v.缝被?缝制?v.缝被；缝制?n.被褥
+suppose	v.推想? 假设?v.假设， 推测； 认为， 料想； 要不
+mandan	n.曼丹人? 曼丹语
+moderate	adj.中等的? 适度的?adj.适度的； 温和的； 普通的?v.缓和，使适中?n.持温和意见的人
+territorial	adj.领土的
+predominate	v.占优势? 支配?vi.统治， 支配， 占优势
+inform	v.通知? 告诉?vt.通知， 通告； 了解， 熟悉； 告发， 检举， 告密
+chiefly	adv.首要?主要地
+craftspeople	n.工匠? 手艺人
+likewise	adv.同样地? 此外?adv.同样； 也
+intelligence	n.智力? 聪明?n.智力， 智慧； 情报
+visitor	n.访问者? 来宾
+unskilled	adj.不熟练的?拙劣的
+progressively	adv.日益增多地
+thickness	n.厚度? 浓度? 稠密
+termite	n.白蚁
+sure	adj.对有把握 ad的确? 当然
+wrap	v.包，裹 n披肩，围巾?vt.包，裹?n.披肩， 围巾； 包装材料
+inability	n.无能? 无力
+jump	n&v.跳跃
+reindeer	n.驯鹿
+kingdom	n.王国?n.王国； 领域， 界
+slush	n.烂泥 v溅湿
+seldom	adv.很少? 不常
+father	n.父亲
+voyager	n.航行者? 航海者
+phonograph	n.留声机? 电唱机
+welcome	vt& n.欢迎 a受欢迎的
+Eurasia	n.欧亚大陆
+Italian	n&a.意大利人(的)? 意大利语（的）
+railway	n.铁路
+cobalt	n.[化]钴
+wish	n.愿望v希望? 想要
+wale	n.条痕
+tongue	n.舌头
+concur	v.同时发生?v.同时发生； 意见一致
+uncommon	adj.不凡的? 难得的
+simplification	n.简化
+chemically	adv.用化学? 以化学方法
+rotation	n.旋转
+fluke	n.侥幸，偶然的机会
+basically	adv.基本上? 主要地
+circulate	v.(使)循环?传播?v.循环； 流通； 传播， 流传
+feedback	n.反馈? 反应?n.反馈； 反馈信息
+cure	n&v.治愈? 治疗
+Norway	n.挪威(北欧国家)
+encouragement	n.鼓励? 奖励
+bombard	v.炮轰；轰击
+praise	v&n.赞扬?称赞
+editor	n.编辑?编者
+Oceania	n.大洋洲
+temporary	adj.暂时的? 临时的?adj.暂时的， 临时的
+backbone	n.脊梁骨；支柱
+medical	adj.医学的，医疗的
+orderly	adj.整齐的，有秩序的
+chemist	n.化学家? 药剂师
+removal	n.除去，移动?n.除去； 移动， 搬迁
+potassium	n.钾
+cascade	n.小瀑布?vi.倾泻，流注?n.小瀑布； 倾泻
+reconstruction	n.重建? 改造?n.复兴； 改造， 再建
+restless	adj.得不到休息的? 不安宁的
+accordingly	adv.因此? 相应地? 于是
+silicate	n.硅酸盐
+boil	n.沸点 v煮沸? 激动
+journeyman	n.熟练工人
+chondrule	n.陨石球粒
+accessible	adj.可得到的?易接近的?adj.易接近的； 可得到的； 可进入的
+bacterial	adj.细菌的
+medicine	n.药
+homo	n.人? 同性恋者
+incubation	n.孵化? 熟虑
+northeastern	adj.东北方的? 在东北的
+waterway	n.水路? 排水沟
+excavation	n.挖掘? 发掘?n.挖掘， 发掘； 出土文物； 挖掘现场
+mutualism	n.互助论?互利共生
+weaken	v.削弱? (使)变弱
+wolf	n.狼
+smoke	v.抽烟? 吸烟
+capillary	n&a.毛细管；毛状的?adj.毛状的； 毛细血管的?n.毛细血管
+behavioral	adj.行为的
+pleasant	adj.令人愉快的?舒适的
+thread	n.线(索)?思路 vt穿(过)，通过?v.穿；穿过，通过?n.线； 线索； 思路
+repair	n.修理 vt修理(补)
+specify	v.指定? 详细说明?vt.使具体化； 明确规定， 详细说明
+besides	prep.除之外?adv.此外? 也?adv.而且， 还有?prep.除…之外
+surrounding	n.围绕物?环境 a周围的
+tobacco	n.烟草(制品)
+agreement	n.同意? 一致
+costly	adj.昂贵的，代价高的
+director	n.主管?导演
+gift	n.赠品? 天赋
+repeatedly	adv.重复地? 再三地
+tentacle	n.(动物)触角?n.触角， 触须， 触手
+stagecoach	n.公共马车?n.公共马车， 驿站马车
+attraction	n.吸引(力)；具有吸引力的事物(或人)
+locally	adv.在本地? 地方性地? 局部地
+adjustment	n.调整? 调节
+figurative	adj.比喻的，借喻的?adj.比喻的， 借喻的， 象征的； 形象的
+inscription	n.题字? 碑铭
+appalachian	adj.阿帕拉契山脉的
+attend	v.出席? 参加?照料?v.出席， 参加； 照料， 看管； 专心， 注意； 陪同
+climb	v.攀登? 爬
+effectiveness	n.效力
+overcast	v.遮盖?变暗?n.覆盖? 阴天
+noisy	adj.吵杂的? 聒噪的
+remarkably	adv.非凡地；显著地
+cheep	n.吱吱的叫声 v吱吱地叫
+flora	n.[罗神]花神?n.植物群
+pollinator	n.授花粉器
+somehow	adv.以某种方式?不知怎么地
+hall	n.会堂? 大厅
+efficiently	adv.有效地；能胜任地
+jewelry	n.珠宝?n.〈总称〉首饰； 珠宝
+differently	adv.不同地，有差别地
+church	n.教堂
+putt	v.短打?把球轻轻打进洞
+reshape	v.改造? 再成形
+pond	n.池塘
+methane	n.甲烷?沼气?n.甲烷， 沼气
+fundamentally	adv.从根本上? 基本地
+identity	n.一致? 身份? 特征?n.身份； 特征， 特性； 同一性
+cohesive	adj.粘着的?adj.黏着的； 使凝结的， 使内聚的
+practically	adv.实际上?几乎，简直
+forerunner	n.先驱(者)?n.先驱者， 开路人； 先兆， 预兆
+alertness	n.警戒? 机敏
+predatory	adj.掠夺的?捕食生物的
+humid	adj.充满潮湿的? 湿润的?adj.湿的， 潮湿的； 湿润的
+user	n.使用者
+moraine	n.冰碛
+sandy	adj.沙的? 沙质
+jurassic	adj.侏罗纪的
+prosper	v.兴旺，繁荣?vi.繁荣， 兴旺； 成功
+traditionally	adv.传统上? 照惯例
+comment	n.评论，意见 vt评论?v&n.评论； 注释
+cavendish	n.(一种压成饼状的)板烟? 烟草饼
+actress	n.女演员
+examination	n.考试? 检查? 细查
+exogenous	adj.外生的?外界产生的
+informative	adj.提供消息的? 情报的?adj.提供消息的， 给予知识的； 见闻广博的
+ooze	n.软泥 v渗出?v.渗出，慢慢流出；洋溢着，充满?n.泥浆； 缓慢渗出
+educator	n.教育家
+radically	adv.根本地? 完全地
+republic	n.共和国? 共和政体?n.共和国； 共和政体
+choreographer	n.舞蹈指导
+marriage	n.结婚? 婚姻
+severely	adv.严格地? 激烈地
+celebrate	v.庆祝? 祝贺?v.赞美； 庆祝
+environmentalist	n.环境保护论者? 环境论者? 环境论信奉者
+outstanding	adj.优秀的? 突出的?adj.优秀的， 杰出的， 出色的； 未解决的； 未偿付的
+endogenous	adj.内生的? 内成的
+horseshoe	n.马蹄铁
+boy	n.男孩
+specifically	adv.特别地；明确地，具体地
+vote	n&v.投票
+envision	v.想象；预想?vt.想象， 展望， 预想
+upside	n.上边?上部
+adept	adj.熟练的? 老练的 n老手? 擅长者?adj.熟练的，精通的，内行的?n.行家， 熟手
+ease	n.安逸?v.缓和， 减轻?n.不费力，容易；悠闲，自在
+capsize	v.(特指船)倾覆
+financier	n.财政家? 金融家
+rodent	n.啮齿类动物?adj.啮齿目的； 咬的?n.啮齿目动物
+seafarer	n.船员? 航海家
+repudiate	v.批判
+faunal	adj.动物区系的
+nighttime	n.夜间
+hardly	adv.几乎不?刚刚?adv.几乎不， 简直不； 刚刚， 仅仅
+pry	v.探查
+simulation	n.仿真? 假装
+mat	n.席子，垫子?n.垫子
+quick	a&ad.快的? 迅速的
+hero	n.英雄
+designer	n.设计者
+karst	n.石灰岩地区常见的地形
+interstellar	adj.星际的
+uncover	v.揭露，揭示
+gibraltar	n.直布罗陀(海峡)
+refill	v.再装满?再充填
+fame	n.名声? 名望
+caravan	n.旅行队?商队? 大篷车
+microorganism	n.微生物
+probable	adj.很可能的? 大概的
+inequality	n.不平等? 不平均
+physicist	n.物理学者? 唯物论者
+forget	v.忘记? 忽略
+queen	n.王后? 女王
+sailor	n.海员? 水手
+immobile	adj.不动的? 静止的
+calendar	n.日历? 历法?n.日历， 挂历， 月历； 日程表
+tune	n.曲调vt调音? 调整
+mound	n.土墩，沙土堆?n.土墩， 土丘； 堆， 垛
+fashionable	adj.流行的? 时髦的
+sect	n.宗派? 教派
+vaudeville	n.歌舞杂耍
+uncertainty	n.无常? 不确定
+carnivore	n.食肉动物
+hunger	n.饥饿? 欲望
+publication	n.出版(物)? 发行?n.出版， 发行； 出版物； 公布， 发表
+sadness	n.悲哀? 悲伤
+theorize	v.建立理论? 理论化
+tundra	n.苔原? 冻土地带?n.苔原， 冻原， 冻土地带
+localize	v.集中?局部化
+dependable	adj.可靠的? 可信赖的
+anomaly	n.不规则? 异常的人或物?n.反常， 异常； 异常的人
+gravitational	adj.重力的? 引力作用的?adj.重力的， 万有引力的
+pronounce	v.发音? 宣告
+abundantly	adv.大量地? 丰富地
+liberate	v.解放? 释放?vt.解放； 释放
+pollute	v.弄脏? 污染
+cuneiform	a&n.楔形的?楔形文字(的)?adj.〔古代美索不达米亚人使用的〕楔形文字的
+gamma	n.100万分之1克? 微克
+nebula	n.星云
+parasitic	adj.寄生的? 由寄生虫引起的
+documentation	n.文件?n.文件； 归档， 文献记录
+lithosphere	n.[地]岩石圈?n.岩石圈
+richness	n.富饶；富裕
+sulfate	n.硫酸盐
+alike	adj.相同的? 相似的?adv.一样地，相似地；同样程度地?adj.相同的， 相似的
+sport	n.运动?运动会
+steamship	n.汽船? 轮船
+lithospheric	adj.岩石圈的? 陆界的
+hammer	n.槌?锤子 v锤击?v.锤打?n.锤， 槌； 锤子
+voter	n.投票者
+anywhere	adv.无论何处
+April	n.四月
+meager	n.兆?adj.不足的， 贫乏的； 消瘦的
+lecture	n&v.演讲
+tolerance	n.宽容，容忍
+triangle	n.三角形?三角关系?n.三角形； 三角形物体
+unchanging	adj.不变的
+cargo	n.船货?货物?n.货物
+reconstruct	v.重建? 改造
+conventionally	adv.照惯例
+rainy	adj.下雨的，多雨的
+wound	n.创伤? 伤口
+forbid	v.禁止? 不许
+judgment	n.判断
+Georgia	n.(美)乔治亚州
+ourselves	pron.我们自己
+rid	v.使摆脱? 使去掉
+prolific	adj.多产的；多子嗣的?adj.多产的； 富有创造力的
+coral	n.珊瑚(虫)?adj.珊瑚色的， 红色的?n.珊瑚
+barrel	n.桶
+liberty	n.自由? 特权
+millimeter	n.毫米
+exterior	adj.外部的 n外部?adj.外部的，外表的?n.外部， 外表
+lifetime	n.一生? 终生
+antiquity	n.古代
+adobe	n.泥砖，土坯?n.泥砖， 土坯
+fifty	num.五十
+swing	v.摇摆? 摆动?v.摆动，摇荡；突然转向，突然转身?n.摆动， 摇摆； 秋千
+utilitarian	adj.功利的 n功利主义者?adj.实用的；功利主义的?n.功利主义者
+alive	adj.活着的? 活泼的
+thoroughly	adv.十分地? 彻底地
+stunt	n.特技；噱头 v阻碍正常成长?vt.阻碍生长；遏制?n.特技表演； 噱头； 愚蠢行为
+accomplishment	n.成就? 完成?n.成就； 完成； 才艺， 技艺
+busy	adj.忙碌的
+pyramid	n.金字塔(形结构)；锥状物?n.金字塔； 锥体； 金字塔形物； 金字塔式的组织
+cannonball	n.炮弹
+transitional	adj.变迁的? 过渡期的
+amplification	n.扩大
+subsurface	adj.地下的? 表面下的n地表下岩石
+semiskilled	adj.半熟练的
+relax	v.放松?休息
+mackerel	n.鲭
+midwest	n.中西部
+textbook	n.教科书? 课本
+sunrise	n.日出
+mutoscope	n.(早期的)电影放映机
+summarize	v.概述? 总结?v.概括， 总结
+fellow	n.家伙? 同事
+punishment	n.惩罚? 处罚
+goat	n.山羊
+cottonwood	n.[植]三叶杨
+theorist	n.理论家
+resilience	n.弹性，弹力?n.弹力， 弹性； 复原力； 适应力
+mutually	adv.互相地? 互助
+driver	n.驾驶员，司机
+neon	n.[化]氖?n.氖； 霓虹灯
+cash	n.现金 vt兑现
+dog	n.狗? 犬
+bladder	n.膀胱? 气泡
+cry	v&n.哭
+tale	n.故事?传说
+wed	v.娶? 嫁? 结婚
+advancement	n.前进? 进步
+thirteen	num.十三
+respiration	n.呼吸? 呼吸作用
+cheaply	adv.廉价地；粗俗地
+safety	n.安全? 保险
+soap	n.肥皂
+quiet	adj.安静的? 宁静的
+corona	n.冠壮物?n.日冕， 日华； 光环
+speculative	adj.推测的? 思索的?投机的
+impressionist	n.印象主义者
+pilot	n.飞行员? 领航员?adj.试验性的?n.飞行员，领航员；领导人?vt.驾驶， 领航； 试行， 试用； 使通过， 引导
+flour	n.面粉
+silica	n.[化]硅石?n.硅石， 硅土； 二氧化硅
+deaf	adj.聋的
+bureau	n.局，办事处?n.局， 署； 办公室； 机构
+rudimentary	adj.基本的?初步的?未充分发展的?adj.未充分发展的， 原始的； 基本的， 基础的
+opening	n.开口? 开始
+otter	n.水獭? 水獭皮
+let	v.允许，让
+illustration	n.说明? 例证
+borrow	v.借? 借入
+grassland	n.牧草地? 草原
+purely	adv.仅仅；简单地
+deciduous	adj.每年落叶的? 非永久性的?adj.落叶的； 非永久的， 短暂的
+scene	n.场面? 情景?n.地点， 现场； 景色； 一场， 一个镜头； 场面； 活动领域， 圈子
+fifth	adj.第五的
+broadside	n.(船)舷侧
+mood	n.心情? 情绪
+tethys	n.古地中海? 特提斯海
+decipher	v.译解?vt.破译
+broadway	n& a.百老汇大街(的)
+dislike	v.讨厌? 不喜欢
+unfamiliar	adj.不熟悉的
+shortly	adv.立刻? 马上?adv.不久； 简要地； 不耐烦地
+raven	n.大乌鸦?adj.乌黑光亮的?n.渡鸦
+dive	v.潜水? 跳水?vi&n.跳水； 潜水
+swarm	n.蜂群? 一大群?vi.云集?v.密集， 云集； 成群地飞行?n.群，一大群
+commuter	n.通勤者? 每日往返上班者
+movable	adj.活动的，变动的
+bind	v.捆绑(扎)；结(粘)合
+tear	n.眼泪 v撕(裂)
+weed	n.野草? 杂草?n.杂草； 水草
+tidal	adj.潮汐的? 定时涨落的
+eusocial	adj.(昆虫)完全社会性的
+gardening	n.园艺
+fat	adj.肥胖的
+oliver	n.脚踏铁槌
+turkey	n.土耳其?火鸡?n.火鸡； 失败
+intensively	adv.加强地? 集中地
+reheat	v.再热
+via	prep.经?通过?经由
+financially	adv.财政上(金融上)
+diversification	n.变化? 多样化
+sedentary	adj.久坐的?固定不动的?adj.久坐的， 固定不动的； 土生的， 不迁徙的； 沉积的
+outwork	n.外包活
+eohippus	n.<古生>始祖马
+conductor	n.领导者? 经理
+nutritionally	adv.在营养上? 营养方面
+wake	v.醒来?唤醒
+worm	n.虫，蠕虫
+mythical	adj.神话的? 虚构的
+handcraft	n.手工? 手艺
+wage	n.工资 v发动
+porosity	n.多孔性
+understory	n.林下叶层
+shaman	n.萨满教的道士? 僧人或巫师
+stylize	v.使风格化? 仿效的风格
+pipeline	n.管道? 传递途径
+renew	v.更新? 恢复?vt.使…续期； 重新开始； 重申； 修复
+dandelion	n.蒲公英
+gate	n.大门
+substantially	adv.大体上；本质上
+internally	adv.内部地? 国内地
+breeze	n.微风 vi吹微风?逃走?vi.飘然移动?n.微风，和风
+poorly	adj.不舒服的 ad贫穷地
+popularly	adv.大众地? 通俗地
+devoid	adj.全无的? 缺乏的?adj.全无的
+Guinea	n.几内亚
+landform	n.地形? 地貌
+mistake	n.错误?v.弄错?误解
+pinpoint	v.确定?精确地定位?adj.十分精确的?adj.准确的， 精确的?vt.精准定位；准确解释?n.极小的范围；光点
+rancher	n.大牧场主? 大牧场工人?n.牧场主； 大农场工人
+mosaic	n.镶嵌细工，马赛克?n.马赛克； 镶嵌工艺
+maturation	n.化脓? 成熟
+recruitment	n.征募新兵? 补充
+preschooler	n.(美)学龄前儿童
+pale	adj.苍白的；淡的 vi变得苍白，变得暗淡?vi.变得苍白， 变得暗淡?adj.苍白的；淡色的；暗淡的，微弱的
+loft	n.阁楼
+practitioner	n.从业者? 开业者
+photosynthesis	n.光合作用
+flagellum	n.[动]鞭毛?n.[昆] 鞭毛；鞭子；鞭状匍匐枝
+cloth	n.布? 织物
+phytoremediation	n.植物除污? 植物治理法
+chlorosis	n.萎黄病? 变色病
+daylight	n.日光? 白昼?n.日光； 白昼
+piecework	n.计件工作
+luck	n.运气? 好运
+moment	n.片刻，瞬间
+Polynesian	n.波利尼西亚人? 波利尼西亚语
+eighteen	num.十八
+lumber	n.木材?木料?v.笨拙地移动；迫使担负?n.木材， 木料； 杂物
+monument	n.纪念碑?n.纪念碑； 历史遗迹
+garrison	n.守备队? 驻地
+starve	v.(使)饿死
+crevice	n.裂缝?n.缺口， 裂缝
+port	n.港口
+scavenger	n.清道夫?食腐动物?n.捡破烂的人， 拾荒者； 食腐动物
+antibiotic	n.抗生素?adj.抗菌的
+legume	n.豆类? 豆荚
+cohesion	n.结合? 凝聚?n.内聚力； 凝聚力； 团结， 结合
+bag	n.袋子
+stave	n.桶材；窄板 v敲破
+fungal	adj.真菌的
+synthesize	v.综合? 合成?vt.合成； 综合
+magnetosphere	n.磁气圈
+chisel	n.凿子 v砍凿
+curve	n&v.曲线?弯曲?v.弄弯，成曲线形?n.曲线； 曲线图； 弯曲
+bloodhound	n.一种大侦探犬
+rental	n.租金额?adj.租用的；出租的?n.租金额； 租赁， 出租
+informal	adj.不正式的
+measurable	adj.可测量的
+tannin	n.[化]丹宁酸
+disagree	v.不一致? 不适宜
+joint	n.关节；接头?adj.连接的； 共同的， 共有的， 联合的?n.关节，骨节；接头，接合处
+tourism	n.旅游业? 观光
+woody	adj.多树木的?木质的
+card	n.纸牌? 卡片
+ownership	n.所有权? 物主身份
+prehistory	n.史前时代? 史前学
+centralize	v.集聚? 集中
+stony	adj.多石的? 无情的
+steep	adj.陡峭的?急剧的?adj.陡的，陡峭的；急剧的；过高的?v.浸泡； 沉浸
+evening	n.傍晚? 晚间
+depart	v.离开，出发?vi.离开； 背离
+consistently	adv.一致地；始终如一地
+cajun	n.移居美国路易斯安纳州的法人后裔
+intrinsically	adv.内在地? 固有地
+rod	n.杆? 棒?n.杆， 棒
+bread	n.面包? 生计
+geologically	adv.地质学上
+gratify	v.使满足?vt.使满意， 使高兴； 满足
+crane	n.起重机
+ledge	n.岩架?岩石突出部?n.突出部分； 暗礁
+knife	n.刀? 餐刀
+cowboy	n.牧童；牛仔
+maritime	adj.海上的? 海事的?adj.海的， 海事的； 航海的
+vastly	adv.巨大地；广阔地
+bicycle	n.脚踏车? 自行车
+shellfish	n.贝? 甲壳类动物?n.贝类， 有壳的水生动物
+dy	n.[化]镝(=dysprosium)
+rub	v.擦?擦掉?n&v.擦， 摩擦
+beat	v.打；战胜?v.打拍子，指挥；敲打；打败，胜过；跳动?adj.疲惫的?n.跳动；节拍，节奏；有规律的敲击
+fan	n.(风)扇 vt扇，煽动
+agriculturalist	n.农学家
+cooperate	v.合作? 协作
+adorn	v.装饰?vt.装饰， 装扮
+Pakistan	n.巴基斯坦(南亚国家)
+leap	v&n.跳跃?vi.跳跃； 急速行动； 骤变； 激增?n.跳跃；骤变；激增
+inferential	adj.推理的? 推论的
+crown	n.王冠，冕?v.加冕； 使圆满， 使完美?n.王冠；花冠
+mysterious	adj.神秘的
+audio	adj.音频的?声音的?adj.音频的； 声音的
+planetarium	n.天文馆
+spider	n.蜘蛛?三脚架
+aristocratic	adj.贵族政治的?贵族的?adj.贵族的， 有贵族气派的
+parrot	n.鹦鹉
+bush	n.矮树丛?n.灌木； 荒野
+radar	n.雷达?电波探测器?n.雷达
+conductance	n.电导? 导率
+rainforest	n.雨林
+endocrine	n.内分泌
+hemlock	n.铁杉?毒芹
+determination	n.决心? 果断
+exclusively	adv.专门地，排除其他地
+quotation	n.引文?引语?n.引文， 引语， 语录； 报价
+professor	n.教授
+handful	n.一把? 少数?n.一把； 少数人
+reasonably	adv.有理地；合理地
+pink	n&a.粉红色(的)
+ceiling	n.天花板? 上限
+commensalism	n.共栖
+parasitism	n.寄生状态? 寄生病
+outdoor	adj.室外的? 户外的
+blanket	n.毯子?n.毯子； 覆盖物
+boredom	n.厌倦
+somewhere	adv.某处? 在某处
+happiness	n.幸福? 快乐
+county	n.县? 郡
+botany	n.植物学?n.植物学； 植物
+feminist	n.男女平等主义者?n.女权主义者
+radium	n.[化]镭
+warrior	n.勇士，武士
+gentle	adj.温和的? 文雅的
+swift	adj.迅速的?敏捷的?adj.敏捷的，速度快的?n.雨燕
+sleepy	adj.困乏的?欲睡的
+weakness	n.虚弱?弱点
+outgoing	adj.外向的
+dispute	n&v.争论?争端?v.争论； 对…表示异议?n.争论；纠纷
+Baltic	n.a波罗的海的? 波罗的语的
+male	adj.男的? 雄的?adj.雄的，公的；
+hereditary	adj.世袭的?遗传的?adj.遗传的； 可继承的， 世袭的
+strut	n.高视阔步?v.昂首阔步地走
+prowl	v.巡游
+hat	n.帽子 vt戴帽子
+avenue	n.林荫道?方法?n.途径， 手段； 大街
+sugar	n.糖
+ethic	n.道德规范?n.伦理；道德体系
+individualistic	adj.个人主义的
+stylistic	adj.风格上的?文体上?adj.风格上的， 文体上的
+eka	n.准(第一)
+convenient	adj.便利的?方便的
+geography	n.地理(学)
+bottle	n.瓶子 vt用瓶装
+unpleasant	adj.不愉快的；不合意的
+softwood	n.软木材
+arsenic	n.[化]砷? 砒霜
+bean	n.豆? 豆形果实
+slate	n.板岩?石板
+reptilian	n.爬行类动物
+overirrigation	n.过量灌溉
+bold	adj.大胆的? 无礼的?adj.大胆的； 冒失的； 粗体的； 醒目的
+file	n.文档 vt登记备案 ?提出
+honeybee	n.蜜蜂
+satiric	adj.讽刺的?挖苦的?adj.讽刺的， 嘲讽的
+starvation	n.饥饿? 饿死
+personally	adv.亲自；就个人来说
+spruce	n.云杉
+diffusion	n.传播，散布?n.散布， 扩散； 传播
+whenever	conj.无论何时，随时
+stiffen	v.弄硬；加强?v.变僵硬； 变坚定， 变强硬
+fetus	n.胎儿
+feeder	n.饲养员
+reminder	n.提醒物；暗示
+foodstuff	n.食品? 粮食
+pine	n.松(树) vi消瘦?vi.憔悴； 难过， 悲伤?n.松树
+informant	n.通知者? 告密者?n.提供消息或情报的人， 线人； 提供资料的人； 合作者
+cedar	n.雪松
+vanish	v.消失?vi.消失； 灭绝
+slab	n.厚板，平板
+coexist	v.共存?vi.共存
+moose	n.[动] 驼鹿
+cod	abbr.货到付款 (Cash on Delivery) n鳕鱼
+frontal	n.前沿
+hexagonal	adj.六角形的?六边的
+journal	n.定期刊物? 杂志?n.期刊， 杂志； 日记， 日志
+sizable	adj.相当大的
+mineralization	n.矿化作用?成矿作用
+krypton	n.[化] 氪
+chlorophyll	n.[生化]叶绿素
+xenon	n.氙(惰性气体的一种?元素符号Xe)
+coil	v.盘绕? 卷?v.盘绕，卷?n.卷； 线圈
+penicillin	n.[微]青霉素（一种抗菌素，音译名为盘尼西林）?n.青霉素， 盘尼西林
+homestead	n.家宅，宅基?n.家宅， 农庄； 宅地
+prestigious	adj.享有声望的
+servant	n.仆人
+imitative	adj.仿制的?模仿的
+lesson	n.功课
+incubate	v.孵卵?v.孵化； 培育； 潜伏
+hectare	n.公顷（等于1万平方米）
+chocolate	n.巧克力
+creator	n.创建者? 创作者
+dirt	n.污垢? 泥土
+Asian	n&a.亚洲(的)? 亚洲人(的)
+infrastructure	n.下部构造?基础下部组织?n.基础设施， 基础结构
+novelist	n.(长篇)小说家
+peruvian	n&a.秘鲁人(的)
+static	adj.静态的? 静止的?adj.静态的， 静止的； 静电的； 静力的?n.静电噪音；静电；[-s]静力学
+osprey	n.白色的羽毛? 鱼鹰
+Scotland	n.苏格兰(英国的一部分?在不列颠北部)
+underneath	adv.在下面 prep在的下面?adv.在下面?prep.在…下面
+pillar	n.柱子? 栋梁
+someone	pron.有人? 某人
+kneel	v.跪下
+huckleberry	n.越橘类
+elk	n.麋鹿
+darken	v.(使)变暗
+suffer	v.遭受? 经历
+jaw	n.颚?下巴?n.颌，颚；
+historically	adv.历史上地
+disorient	v.使失去方向感? 使迷惑
+anthocyanin	n.[植]花青素? [化]花色醣苔
+acidic	adj.酸的?酸性的
+elder	n.年长者? 老人
+anyone	pron.任何一个
+fingerboard	n.键盘
+watercraft	n.船只
+buildup	n.集结? 增长
+varnish	n.清漆；光泽?v.涂清漆，使光亮?vt.上清漆?n.清漆
+cop	n.警官? 巡警
+symbiosis	n.[生]共生(现象)?合作关系
+presidential	adj.总统的
+gut	n.内脏
+Russia	n.俄罗斯
+powder	n.粉(末) v搽粉?撒粉?n.粉， 粉末； 散剂； 火药， 炸药
+organizational	adj.组织的
+abruptly	adv.突然地；粗鲁地
+administrative	adj.管理的，行政的
+hypothetical	adj.假说的，臆说的?adj.假设的
+pastoral	adj.田园生活的，宁静的
+overtime	n.超时?adv.加班?adj.超时的， 加班的
+interglacial	adj.间冰期的
+ahead	a&ad.在前? 向前
+lamp	n.灯
+detractor	n.诽谤者
+timescale	n.时标? 时间量程
+sailfish	n.旗鱼
+marlin	n.枪鱼
+swordfish	n.旗鱼
+renewal	n.更新? 恢复
+false	adj.错误的；假的
+Eurasian	adj.欧亚的? 欧亚人的
+dull	adj.乏味的；阴沉的?adj.乏味的， 单调的； 迟钝的； 无光泽的； 萧条的； 阴沉的， 昏暗的
+fortunate	adj.幸运的? 侥幸的
+buoyant	adj.有浮力的? 轻快的?adj.有浮力的， 漂浮的； 轻快的， 快乐的； 繁荣的； 看涨的
+shine	v.照耀?发光 n光泽
+kinship	n.血族关系?n.血缘关系， 亲属关系
+helpful	adj.有益的；给予帮助的
+domestication	n.驯养? 教化
+replenish	v.补充?vt.添加， 补充
+tutelage	n.监护
+freudian	n.n&a?佛洛伊德学说(的)
+blubber	n.鲸脂?哭号v哭号
+basalt	n.玄武岩
+predation	n.掠食?n.掠夺； 掠食
+photographer	n.摄影师
+boule	n.人造宝石，议会
+Berlin	n.柏林[德国]
+trance	n&v.恍惚；出神?n.恍惚； 昏睡状态
+vigorously	adv.精力旺盛地；健壮地
+brightly	adv.明亮地
+underlies	v.位于之下? 成为的基础
+telecommunication	n.电信，远程通信?n.电信
+reset	v.重新安排
+constructive	adj.建设性的?构造上的
+habituation	n.适应
+shock	n&v.震动；震惊
+permanence	n.永久? 持久?n.永久， 持久
+tine	n.(尖)齿? 叉
+vacation	n.假期?休假?vi.度假?n.假期
+briefly	adv.简短地；简略地
+Scottish	n.苏格兰人(的)? 苏格兰语（的）
+Norwegian	adj.挪威的 n挪威人? 挪威语
+lime	n.酸橙?石灰
+ball	n.球? 球状物
+joiner	n.工匠
+repetition	n.重复，反复?n.重复， 反复； 重复的事
+patronage	n.赞助；光顾(买东西)
+carman	n.车夫?司机
+incise	v.切入? 切割
+leak	v.(使)漏；泄露 n漏洞?v.漏，渗出，泄漏?n.漏洞， 裂缝； 泄露； 走漏
+Mexican	n&a.墨西哥(的)， 墨西哥人(的)
+cat	n.猫
+bit	n.一点儿，少许；小片
+doctor	n.医生；博士
+crumple	v.(使)皱，扭曲；(使)崩溃?v.变皱， 起皱； 破裂； 崩溃， 垮台
+developmental	adj.发展的? 进化的
+await	v.等候
+saline	adj.含盐的；咸的
+warmth	n.暖和? 温暖
+newborn	n.婴儿
+shadow	n.阴影；影子
+magic	n.魔术；魔力 a有魔力的
+meal	n.餐? 一顿饭
+chapbook	n.畅销故事书
+shoe	n.鞋
+Manhattan	n.曼哈顿岛(美国纽约一区)
+satisfactory	adj.令人满意的
+devastate	v.毁坏?vt.破坏， 毁坏； 令人震惊， 使难以承受
+Holland	n.荷兰
+arcade	n.拱廊
+navigational	adj.导航的? 航行的
+soak	n&v.浸泡? 渗透?v.浸泡， 浸湿， 浸透
+taxes	n.赋税? 税收
+belt	n.带子? 地带?n.地带， 地区； 腰带， 皮带； 带状物
+meticulously	adv.仔细地?谨慎地
+unaided	adj.未受协助的? 独立的?adj.未受协助的， 独立的
+unnecessary	adj.不必要的?多余的
+concave	adj.凹的 n凹(面)?adj.凹的
+beak	n.鸟嘴? 喙?n.鸟嘴， 喙
+duck	n.鸭，鸭肉
+duty	n.义务? 责任
+yard	n.院子，场地
+legendary	adj.闻名的；传说的
+congressional	adj.会议的；国(议)会的?adj.立法机构的； 代表大会的； 国会的
+abstraction	n.提取
+eel	n.鳗鱼
+December	n.十二月(略作Dec)
+width	n.宽度? 广度
+pet	n.宠物
+camouflage	v&n.伪装?n&vt.掩饰， 伪装
+postage	n.邮费?n.邮资， 邮费
+cylindrical	adj.圆柱形的
+bent	n.倾向? 爱好
+son	n.儿子
+stimulation	n.激励?刺激
+hibernate	v.冬眠
+kettle	n.壶? 罐? 釜? 鼓
+shut	v.关上? 关闭
+salary	n.薪水
+waterpower	n.水力(水力发电)
+pollen	n.花粉
+firmly	adv.坚固地，稳定地
+symbolize	v.象征
+brea	n.布雷亚(美国加州地名)
+upset	v.搅乱?使心烦 n不安?adj.心烦意乱的； 不适的?vt.使心烦意乱； 颠覆， 推翻； 搅乱?n.困扰， 麻烦； 出乎意料的结局； 苦恼
+exocrine	adj.[医]外分泌的
+camp	n.营地?v.宿营
+overlie	v.躺在上面
+aboard	prep&ad.在(船、飞机、车)上，上船
+blend	v.(使)混和n混合物?v.混合，混杂?n.混合； 混合物
+participation	n.参加，参与
+brass	n.黄铜(制品)?n.铜管乐器； 黄铜
+detectable	adj.可发现的?可察觉的?adj.可发觉的， 可察觉的
+toolmaker	n.精密工具制造者
+printmaking	n.版画复制(术)
+populous	adj.人口稠密的
+wallpaper	n.墙纸
+gasoline	n.汽油
+invite	v.邀请；征求
+igloo	n.圆顶建筑
+formalize	v.使正式? 形式化
+edition	n.版?版本
+inefficient	adj.效率低的?效率差的
+geographer	n.地理学者
+laser	n.激光?n.激光； 激光器
+meteoric	adj.流星的?大气的
+explode	v.爆炸；爆发?v.爆炸； 激增； 冲动， 发怒
+Michigan	n.密歇根州(美国州名)
+favorite	adj.喜爱的 n特别喜爱的人(或物)
+anxious	adj.渴望的? 忧虑的?adj.渴望的； 担忧的； 令人焦虑的
+vie	v.竞争
+carol	n.颂歌? 欢乐的歌
+god	n.神? 上帝
+girl	n.女孩
+exceptionally	adv.格外地? 特别地
+fieldstone	n.散石?大卵石
+defenseless	adj.无防备的
+lumiere	n.彩色照相术
+accompaniment	n.陪伴物? 伴奏
+pretend	v.假装，装作
+mule	n.骡子?十分固执的人
+wipe	v.擦? 揩?v&n.擦， 揩， 抹
+individualism	n.个人主义? 利己主义
+Russian	a& n.俄罗斯(语)(的)
+krill	n.[动]磷虾(单复同)
+forty	num.四十
+coastline	n.海岸线
+unevenly	adv.不平坦地? 不均衡地
+sick	adj.有病的；恶心的
+drapery	n.布业，布匹
+nick	n.小伤口，刻痕
+Ute	n.犹特人(美洲印第安人的一种)? 犹特语
+headquarter	v.将之总部设在
+peach	n.桃(树)
+radiocarbon	n.放射性炭
+afield	adv.远离着(家乡)? 去远处
+relocate	v.重新部署
+enormously	adv.极度?大量
+saltwater	adj.盐水的? 海产的
+deglaciation	n.冰消作用
+glen	n.峡谷? 溪谷
+poison	n.毒药vt 下毒
+pangaea	n.泛古陆? 泛大陆
+fahrenheit	n.华氏温度计?adj.华氏温度的
+lys	n.[化]赖氨酸
+Sac	n.〈生〉囊?液囊?n.囊， 液囊
+midcontinent	n.大陆中部
+emperor	n.皇帝? 君主
+mainstay	n.支柱?骨干
+connecticut	n.(美国）康涅狄格
+wholly	adv.整个?全部
+brilliance	n.光辉，辉煌
+Oklahoma	n.俄克拉荷马州
+rhinoceros	n.[动]犀牛?n.犀牛
+externally	adv.外部地? 外面地
+tax	n.税?税款
+plumb	v.（用铅垂）测量?探测
+trout	n.鲑鱼
+permian	n&a.[地]二叠纪(的)
+friendly	adj.友好的? 友谊的
+foraminifera	n.有孔虫类
+peace	n.和平? 安静
+agitate	v.搅动?煽动?v.鼓动， 煽动； 激怒， 使激动， 使不安； 搅动
+farce	n.闹剧；荒唐可笑?n.笑剧， 滑稽剧； 闹剧
+aborigine	n.土著居民
+attest	v.证明
+aggressiveness	n.进取精神? 侵犯
+privately	adv.秘密，一个人
+lawlike	adj.似法律的
+oppositely	adv.相反地? 相对地
+anecdotal	adj.轶事的?趣闻的?adj.轶话的， 逸闻趣事的
+ounce	n.盎司
+synchronization	n.同步化
+dress	n.连衣裙?女装 v打扮
+biographer	n.传记作者
+creativity	n.创造(力)?n.创造力， 创造性
+illness	n.疾病? 生病
+Anglo	n.盎格鲁? 英裔美国人
+revival	n.复兴? 复活?n.复兴， 再流行； 复苏； 苏醒， 复活； 重演
+Hampshire	n.汉普郡(英国南部之一郡)
+instinctive	adj.本能的?直觉的
+signaler	n.信号员
+retire	v.退休?v.退休， 引退， 退役； 退出； 撤退； 就寝
+paradigm	n.范例?n.范例， 典范
+penchant	n.喜好(倾向)
+sinkhole	n.污水池
+neptune	n.[天]海王星
+cyanide	n.[化]氰化物
+gin	n.杜松烧酒 v开始?n.杜松子酒；弹棉机，
+flax	n.亚麻
+purple	adj.紫色的?n.紫色
+comprise	v.包含? 由组成?vt.包含； 由…组成
+timer	n.计时员? 定时器
+supplant	v.排挤，取代?vt.取代， 代替
+harpsichord	n.大键琴
+peaceful	adj.a 和平的? 平静的
+revitalize	v.新生?vt.使恢复生机， 使再生； 使更强壮
+spiritual	adj.精神上的
+fictional	adj.虚构的?小说的
+heterogeneous	adj.异种的? 异质的
+protrude	v.突出?v.突出， 伸出
+recrystallize	v.( 使) 再结晶
+warp	v.弯曲?歪曲?v.扭曲，弯曲，变形；
+Nevada	n.内华达州(美国西部内陆州)
+legislature	n.立法机关?n.立法机关， 立法团体
+baboon	n.[动]狒狒
+overgraze	vt.使过度放牧?v.过度放牧
+blowhole	n.喷水孔? 通风孔
+imagist	n&a.意像派者(的)?adj.意象派的?n.意象派诗人
+receptor	n.接受器?n.感受器； 受体
+magenta	n&a.红紫色(的)
+valse	v.轻轻地走?n.华尔兹
+discoverer	n.发现者
+conifer	n.[植]松类? 针叶树
+botanist	n.植物学家
+narrator	n.讲述者
+critically	adv.批评性地? 危急地
+Inca	n.印加人(古代秘鲁土著人)
+woolen	adj.毛线的?n.毛制品
+dialogue	n.对话
+variously	adv.不同地? 各种各样地
+incursion	n.侵犯，入侵?n.袭击， 突然入侵； 介入
+sweet	adj.甜的
+milk	n.乳? 牛奶
+subside	v.下沉?平静
+socially	adv.社交上；社会上
+twin	n.双胞胎中一人?v.使成对
+tenement	n.公寓?n.廉租公寓
+daguerreotype	n.(早期)银板照相
+fatty	adj.脂肪的
+mainland	n.大陆
+rend	v.撕裂，猛拉
+maser	n.微波激射器
+spinal	adj.脊椎骨?n.脊髓麻醉
+generic	adj.种类的，类属的?adj.种类的， 属的； 一般的， 普通的
+resin	n.树脂 vt涂树脂于?n.树脂
+backward	a&ad.向后的? 落后的
+carving	n.雕刻(品)
+frown	v.／ n皱眉，蹙额
+distrust	n&vt.不信任，怀疑
+smother	v.窒息?vt.使窒息而死； 厚厚地覆盖； 抑制， 扼杀； 把闷熄
+cavern	n.洞穴，大山洞?n.大洞穴， 大山洞
+minuscule	n&a.草写小字(的)
+envelop	v.包封? 遮盖?vt.包围
+fortunately	adv.幸运地，幸亏
+dormant	adj.冬眠的?adj.静止的； 休眠的； 隐匿的
+coppersmith	n.铜匠
+portability	n.可携带? 轻便
+potato	n.马铃薯
+extermination	n.消灭? 根绝
+suburbanization	n.市郊化
+succulent	adj.多汁的
+medal	n.奖牌，奖章?n.奖牌， 奖章
+micron	n.微米?百万分之一米
+spout	v.喷出
+catastrophic	adj.悲惨的? 灾难的
+sensory	adj.知觉的? 感觉的?adj.感觉的， 感官的
+fodder	n.饲料? 草料
+photoflash	n.（照相）闪光灯
+substantiated	vt.证实? 实体化
+cramp	n.痉挛?v.限制，束缚?n.痉挛，抽筋；?vt.阻碍， 阻止
+reversal	n.翻转? 倒转? 反转
+psychologically	adv.精神上地? 心理上地
+virtuosity	n.艺术鉴别力
+leafy	adj.叶状的；叶茂的
+perishable	adj.容易腐烂的?adj.易腐的， 易变质的
+retract	v.缩回? 撤销?v.收回， 撤销； 缩回
+Israel	n.[地名] 以色列
+retrieval	n.取回，补偿?n.数据检索； 取回， 索回
+domelike	adj.穹顶状的
+savannah	n.(南美)大草原
+snake	n.蛇
+pour	v.灌?注?倾泻
+navigator	n.航海家
+elliot	n.埃利奥特(男子名)
+perry	n.梨子酒
+liter	n.公升
+arthropod	n&a.节肢动物(的)
+airflow	n.气流
+departure	n.启程? 出发
+spearhead	v.充当先锋?n.先锋，前锋，先头部队?vt.为…作先锋； 带头做
+unjust	adj.不公平的
+industrialism	n.产业主义?工业制度
+drug	n.药
+environmentally	adv.在环境方面地
+gem	n.宝石? 珍宝?n.宝石， 珍品； 美丽绝伦的事物
+detract	v.转移?v.减损； 贬低， 诋毁
+swirl	n&v.旋转，漩涡?v.打旋， 旋转?n.漩涡；螺旋形
+bluefin	n.金枪鱼
+potent	adj.强有力的?有效的
+sociobiology	n.生物社会学
+providence	n.深谋远虑，远见
+catharsis	n.宣泄，净化
+contradictory	adj.相矛盾的?adj.对立的，矛盾的；反驳的?n.对立物； 矛盾因素
+chloride	n.[化]氯化物
+archaic	adj.古代的? 陈旧的
+aristocrat	n.贵族
+plug	v.塞 n插头
+absolute	adj.完全的? 绝对的?adj.完全的， 绝对的； 地道的； 无疑的， 确凿的； 不受限制的， 不受约束的
+lade	v.装载?装货
+Soviet	n&a.苏维埃(的)
+magnesium	n.[化]镁?n.镁
+engulf	v.吞没?vt.吞没
+frigid	adj.寒冷的?adj.寒冷的； 冷淡的
+grandiose	adj.宏伟的?堂皇的
+despondent	adj.失望的? 沮丧的?adj.垂头丧气的， 沮丧的
+identifiable	adj.可辨认的
+cellular	adj.细胞组成的，多孔的
+universality	n.普遍性? 一般性
+Impressionism	n.印象派? 印象主义
+steer	v.操纵? 驾驶?v.驾驶，为…操舵；引导?n.食用公牛
+writing	n.笔迹? 作品
+symbolism	n.象征主义
+bowl	n.碗
+unreliable	adj.不可靠的
+unfortunate	adj.不幸的
+weekly	adj.每周的 ad一周一次地 n周报
+hardness	n.硬度
+aerodynamic	adj.空气动力学的
+pianist	n.钢琴家
+slender	adj.苗条的? 微薄的?adj.细长的； 苗条的， 纤细的； 微薄的， 不足的
+alp	n.高山
+vase	n.(花)瓶
+mouse	n.鼠
+craftsmanship	n.技术
+beast	n.野兽，牲畜
+affinity	n.密切关系?类同?n.密切关系； 吸引力； 喜爱
+diagonal	n&a.对角线(的)?adj.斜线的，
+nontraditional	adj.非传统的
+disprove	v.反驳?证明为误?vt.证明…不成立， 证明…是错误的
+shirt	n.衬衫
+plenty	n.丰富? 大量
+appropriately	adv.适当地
+emotionally	adv.感情上地? 冲动地
+freshly	adv.新近，刚才
+unbelievable	adj.难以置信的
+woodworker	n.木工
+conversation	n.会话?n.交谈， 会话
+translate	v.翻译
+eager	adj.热心于? 渴望着?adj.渴望的， 热切的
+skillful	adj.熟练的? 灵巧的
+fate	n.天数?命运
+Babylonian	n.巴比伦人(的)? 巴比伦语（的）?adj.巴比伦的；奢华的?n.巴比伦人
+tram	n.有轨电车
+stripe	n.条纹?n.条纹， 斑纹
+volatile	adj.动荡不定的?反复无常的?adj.挥发性的， 易挥发的； 不稳定的； 反复无常的
+densely	adv.浓密地
+inscribe	v.题写?v.写、 题、 铭刻； 铭记
+intercity	adj.城市间的
+erratic	adj.古怪的，飘忽不定的?adj.古怪的， 反复无常的； 不规则的； 不稳定的
+overly	adv.过度地? 极度地
+uplift	v.提高；振奋(精神)
+workday	n.工作日
+golden	adj.金(黄)色的；金的
+officially	adv.职务上? 正式
+thunderstorm	n.雷暴雨
+frog	n.青蛙
+deception	n.欺骗? 诡计?n.骗局； 诡计； 欺骗， 欺诈
+typify	v.代表?vt.是…的典范； 成为…的特征
+gently	adv.轻轻地? 温柔地
+peregrine	n.游隼 a外来的?移住的
+optimal	adj.最理想的?adj.最佳的， 最理想的
+tapestry	n.挂毯
+mechanization	n.机械化
+influx	n.流入?n.注入， 涌入
+sculptural	adj.雕刻的
+calm	adj.镇定的?平静的 v(使)平静?adj.平静的；镇静的，沉着的?vt.使平静， 使镇定， 平息
+landmass	n.大陆?n.大片陆地
+ornamentation	n.装饰
+freely	adv.自由地；慷慨地
+globe	n.球体?地球仪
+shiny	adj.发光的；磨光的
+glassmaker	n.玻璃工人
+spectacularly	adv.壮观地? 令人吃惊地
+nss	n.卫星导航系统(供氮系统)
+unclear	adj.不清楚的
+unimportant	adj.不重要的
+ubiquitous	adj.到处存在的
+demise	n.死亡?让位
+error	n.错误? 过失
+barter	v.交易?n&v.实物交易， 以物易物
+nomadic	adj.游牧的? 流浪的?adj.游牧的； 流浪的
+seashore	n.海岸? 海滨?n.海岸， 海滨
+nonhuman	adj.非人类的
+cottage	n.村舍?小别墅
+fairground	n.游乐场? 集市
+candle	n.蜡烛
+kilogram	n.[物]千克? 公斤
+naturalism	n.自然主义
+delight	n&v.高兴?欣喜?v.愉快，高兴?n.快乐， 高兴； 令人高兴的事， 乐趣
+telegraph	n&v.(打)电报?v.打电报， 发电报?n.电报；电报机
+stance	n.站姿，立场
+kitchen	n.厨房
+tour	n&v.旅行，游历
+contraction	n.收缩
+biotic	adj.有关生命的?生物的
+honest	adj.诚实的? 正直的
+firewood	n.木柴? 柴火
+barn	n.[农]谷仓? 畜棚? 畜舍? 机器房?n.谷仓； 牲口棚
+joke	n.笑话? 玩笑
+granular	adj.由小粒而成的?粒状的?adj.粒状的； 含颗粒的
+thaw	n.融化?解冻?v.融化，解冻；化冻；变暖；变得友善?n.解冻时期； 缓和
+quarry	n.采石场?v.挖出?v.采石； 采集?n.采石场，石矿；猎物，追捕的对象
+ethology	n.动物行动学? 人种学
+amendment	n.改善? 改正
+curious	adj.好奇的? 奇特的
+neck	n.脖子? 颈
+acceptable	adj.可接受的? 合意的
+forager	n.强征(粮食)者
+impend	v.迫近，逼近
+glasslike	adj.玻璃状的
+translucent	adj.半透明的
+topsoil	n.表层土
+interrelationship	n.相互关系
+blade	n.刀刃? 刀片?n.刀刃， 刀片； 叶片； 草叶； 桨叶
+pocket	n.衣袋，小袋
+hillside	n.山腰
+beside	prep.在…旁边?和…相比
+buffer	n.缓冲器
+happy	adj.快乐的，幸福的
+outsider	n.外行? 局外人
+aragonite	n.[矿]霰石? 文石
+unaltered	adj.未被改变的
+bath	n.沐浴? 浴室
+directional	adj.方向的
+holding	n.保持，固定
+treeless	adj.没有树木的
+recorder	n.记录员? 记录器
+seller	n.售货者
+noticeably	adv.显著地，显然
+caste	n.印度的世袭阶级
+gosling	n.小鹅，年轻无知的人
+formally	adv.正式地? 形式上
+residence	n.居住? 住处
+antecedent	adj.先行的?n.祖先?n.祖先，先辈
+stake	n.树桩?n.股份；赌注；利害关系?vt.以…打赌， 拿…冒险
+disloyalty	n.不忠实
+nystatin	n.[微]制霉菌素
+prodigious	adj.巨大的? 惊人的?adj.巨大的
+mural	adj.墙壁的 n壁画?adj.墙壁的； 在墙上的?n.壁画，壁饰
+fountain	n.喷泉?n.喷泉； 丰富来源， 源泉
+gatherer	n.收集者? 收集器
+shoemaking	n.制鞋
+electrically	adv.用电力?有关电地
+sprawl	v.伸开?vi.伸开四肢坐；扩展，蔓延?n.扩展， 蔓延； 蔓延物
+petal	n.花瓣
+technologically	adv.科技地
+proportionately	adv.相称地? 成比例地
+germanium	n.锗
+sparse	adj.稀少的? 稀疏的?adj.稀疏的， 稀少的； 贫乏的
+statuary	n.雕象
+hypha	n.[植]菌丝
+farsighted	adj.有先见之明的? 远视的
+fatten	v.养肥；使肥沃
+spit	n.唾液 v吐(唾沫)
+expanse	n.广阔；宽阔的区域
+dawn	n.黎明 vi破晓?开始出现?n.破晓， 黎明； 开始， 发端
+pram	n.婴儿车
+wonderful	adj.精彩的? 极好的
+Sanskrit	n& a.梵语(的)
+orbital	adj.轨道的
+quit	v.离开? 辞职?v.停止； 放弃； 离开； 辞
+bison	n.(美洲)野牛?n.美洲野牛
+hyksos	n.希克索斯王朝(古埃及王朝之一)
+arduous	adj.费力的? 辛勤的?adj.费力的， 艰巨的
+boulder	n.大石头?n.巨石， 巨砾
+saint	n.圣人? 圣徒
+bathhouse	n.公共浴室? 澡堂
+ionize	v.使离子化 ?电离
+Hollywood	n.好莱坞
+demographic	adj.人口统计学的
+duct	n.管道? 导管?vt.用导管输送
+sweat	n.汗 v(使)出汗?v.出汗?n.汗；一身汗
+bloodstream	n.血流
+reelection	n.再选? 改选
+dwelling	n.住处
+midair	n.半空中
+crocodile	n.鳄鱼? 鳄鱼皮
+sister	n.姐妹
+calve	v.生小牛? (使)冰山崩解
+integration	n.综合
+usefulness	n.有用? 有效性
+olfactory	adj.嗅觉的
+cranial	adj.头盖(形)的?n.头盖骨的， 颅骨的
+prerequisite	n.先决条件?adj.必备的， 作为先决条件的?n.先决条件，前提
+occupational	adj.职业的
+updraft	n.上升气流
+deliberation	n.仔细考虑；商量
+flagpole	n.旗杆
+invoke	v.恳求
+hypersensitive	adj.过份敏感的
+unavoidable	adj.不可避免的
+lucky	adj.幸运的? 吉祥的
+upcoming	adj.即将来临的
+February	n.二月(略作Feb)
+lug	v.(用力)拖拉
+broadly	adv.宽广地? 广泛
+friendship	n.友谊? 友好
+twain	n.两? 双? 二
+pathogen	n.[微生物]病菌? 病原体
+auditory	adj.耳的? 听觉的?adj.耳的； 听觉的
+avant	adj.先锋的?激进的
+tertiary	adj.第三的? 第三位的
+Inuit	n.因纽特人? 因纽特语
+alga	n.藻类?海藻?n.水藻
+dialect	n.方言?n.方言， 土话
+respectively	adv.分别地? 各个地
+feldspar	n.[矿]长石
+biology	n.(生物)学
+romanticism	n.浪漫精神? 浪漫主义
+needlework	n.刺绣? 缝纫
+palace	n.宫? 宫殿
+imposition	n.强迫接受
+meantime	n&ad.同时? 其间?n&ad.其时， 同时
+caribou	n.北美产驯鹿(=Rangifer)?n.北美驯鹿
+attentive	adj.注意的? 留意的?adj.注意的， 专心的； 关心的
+lifelong	adj.终生的
+August	n.八月(略作Aug)
+motionless	adj.不动的? 静止的
+aural	adj.听觉的
+onset	n.开始；攻击
+connective	adj.连合的? 连接的
+meaningless	adj.无意义的
+capitalist	adj.资本主义的 n资本家
+cenotes	n.天然井
+mesquite	n.豆科灌木
+actively	adv.活跃地? 积极地
+prison	n.监狱
+whistle	v.吹口哨，鸣笛 n哨子
+seedling	n.幼苗
+constrict	v.压缩
+electromagnetic	adj.电磁的
+Virginian	n.弗吉尼亚州的人
+dryness	n.干燥
+locale	n.现场? 场所
+rodeo	n.马术竞技表演会? 将牛、马驱集在一起?n.牛仔竞技表演
+mussel	n.[动]贻贝? 蚌类
+cyan	n.蓝绿色? 青色
+clam	n.蛤?n.蛤， 蛤肉； 〈口〉守口如瓶的人， 寡言的人
+angry	adj.发怒的，生气的
+usher	v.引，领，陪同?v.引领， 引导?n.领座员，招待员
+scarcely	adv.几乎不? 简直没有
+mismatch	n&v.配错? 不相匹配
+extol	v.赞美?vt.赞美， 颂扬
+rope	n.绳? 索
+spoon	n.匙，调羹
+prizefight	n.职业拳击赛
+inactivity	n.不活动? 迟钝
+unprotected	adj.无保护的? 未做防护措施的
+spawn	v.产卵?n.卵?v.产卵；产生，促成
+lobe	n.耳垂，(肺，肝等的)叶
+plummet	n.铅锤 vi垂直落下
+biologically	adv.生物学地
+firearm	n.火器?枪炮
+communal	adj.公共的，集体的?adj.公共的， 共享的； 社区的
+kick	v.踢
+linguist	n.语言学家?n.语言学家； 通晓数国语言的人
+cortex	n.外皮? （大脑）皮层?n.皮层， 皮质
+objectively	adv.客观地
+chilly	adj.寒冷的?adj.寒冷的； 冷淡的， 不友好的
+artifact	n.人造物品?n.人工制品， 手工艺品
+curator	n.管理者
+tally	n.记分 vi符合?v.吻合?n.记录；账
+corporation	n.公司? 法人
+operator	n.操作员? 技工
+originator	n.创始人? 发起人
+pacifier	n.调停者，和解人
+Indus	n.印度河（印度西北部的河流）
+asymmetrical	adj.不对称的?不均匀的?adj.不均匀的， 不对称的
+lady	n.女士?夫人?小姐
+pul	n.普尔(阿富汗辅币单位)
+humanness	n.为人?人性
+pinniped	adj.鳍足类的
+companionship	n.友谊
+archaeocyte	n.原始(生殖)细胞
+protective	adj.给予保护的? 保护的
+incidental	adj.偶然的；附带的?adj.偶然的； 附带发生的， 伴随而来的
+intruder	n.入侵者
+conjunction	n.联合? 关联
+ornate	adj.华丽的? 装饰的?adj.华丽的， 豪华的
+intentionally	adv.有意地?故意地?adv.有意地， 故意地
+impractical	adj.不切实际的?不实用的
+rhetoric	n.雄辩言辞?修辞学
+clump	n.(树，草)丛?v.使成一丛?v.聚集， 成群； 以沉重的脚步行走?n.丛，簇，束；块，团；群，组
+immaturity	n.不成熟
+understandable	adj.可理解的?能够懂的
+daytime	n.白天? 日间
+overcrowd	v.过度拥挤
+marvelous	adj.令人惊异的? 非凡的
+foolish	adj.愚蠢的，荒谬的
+opportunistic	adj.机会主义的? 投机取巧的
+brine	n.盐水
+jade	n.玉，翡翠
+lapis	n.[化]天青石(常用于化学中的矿物命名)
+manager	n.经理? 管理人员
+compositional	adj.合成的?组成的
+Afghanistan	n.阿富汗(西南亚国家)
+lazuli	n.天青石
+electronically	adv.电子地? 通过电子手段
+sewage	n.污水? 污物?n.污水， 污物
+imagery	n.意象? 肖像
+refreeze	vt.再结冰? 重新冻结
+hydrologic	adj.水文的
+dietary	adj.饮食的?n.规定的食物
+hydropower	n.水力发出的电力
+granule	n.小粒，微粒
+recreational	adj.娱乐的? 消遣的
+insecure	adj.不安全的?不稳固的
+dealing	n.行为? 交易
+circumvent	v.绕行?设法避开
+staff	n.全体职工，全体人员?n.全体职工；行政人员；棍棒?vt.为…配备人员； 任职于
+achondrite	n.不含球粒陨石
+navigable	adj.可航行的?可操纵的
+multiplicity	n.多样性
+figuratively	adv.比喻地
+speaker	n.说话者? 演讲人
+greener	n.生手
+entrepreneurial	adj.企业家的? 企业性质的
+foliage	n.树叶?植物?n.叶
+maximize	v.取最大值? 最佳化
+bushman	n.丛林居民
+grade	n.等级?v.评分?分等级
+marshy	adj.沼泽般的?湿软的
+manifestation	n.显示? 表现?n.显示，表明；
+excitement	n.刺激? 兴奋
+porcupine	n.[动]豪猪
+amaze	v.使吃惊
+keyboard	n.键盘
+percussion	n.碰撞? 打击乐器?n.打击乐器
+crisscross	v.交叉? 来回移动?n.十字形
+rift	n.裂口?v.裂开
+myriad	adj.无数的 n无数?adj.无数的； 大量的?n.无数；大量
+clavichord	n.翼琴(钢琴的前身)
+trilobite	n.[古生]三叶虫
+converter	n.转炉
+claw	n.(脚)爪
+sierra	n.[地]齿状山脊? [鱼]马鲛
+plus	prep.加上 a正的
+octopus	n.章鱼
+temporal	adj.现世的? 暂时的
+unpredictability	n.不可预测性
+minimalist	n.最低限要求者
+magical	adj.魔术的? 神奇的
+storefront	n.店头? 店面
+makeshift	adj.临时的?n.临时替代物
+plight	n.困境?n.困境， 苦境
+cactus	n.[植]仙人掌?n.仙人掌
+improvise	v.即兴创作?v.即兴创作； 临时准备
+showman	n.戏剧制作人? 玩杂耍的
+appointment	n.约会? 指定?n.约会， 约定； 任命， 委派； 职位
+lawyer	n.律师
+Alaskan	n.阿拉斯加人 a阿拉斯加的
+exploitation	n.开发? 开采
+immeasurably	adv.无法计量地? 无限地
+perpetuate	v.使永存? 使不朽?vt.使永存， 使持续
+afterlife	n.来世? 后来的岁月
+bask	v.晒太阳
+shoemaker	n.鞋匠
+prairies	n.大草原
+handicraft	n.手工艺(品)
+logically	adv.符合逻辑地? 逻辑上地
+airstream	n.气流
+unsafe	adj.不安全的
+flashbulb	n.[摄]闪光灯泡
+bovine	adj.(似)牛的，迟钝的
+thoughtful	adj.深思的
+icicle	n.冰柱
+unbroken	adj.不间断的
+funnel	n.漏斗?烟囱
+fastidious	adj.过分讲究的? 挑剔的
+overshadow	v.遮蔽? 使失色
+hare	n.野兔
+inhospitable	adj.不好客的?不适于居住的
+artistically	adv.艺术地? 在艺术上
+pigmentation	n.染色
+quincy	n.昆西(美国伊利诺斯州西部一城市)
+afternoon	n.午后
+rumen	n.瘤胃(反刍动物的第一胃)
+aristocracy	n.贵族（政治）
+advise	v.劝告? 忠告? 警告? 建议
+broadleaf	n.阔叶烟草?阔叶树
+bluish	adj.带蓝色的
+autobiographical	adj.自传的
+Parisian	n&a.巴黎(人)(的)
+halfway	adj.中途的ad半路地
+ring	n.环?v.包围
+postwar	adj.战后的
+orange	n.橘子
+license	n.许可证 vt许可?n.许可证，执照?vt.批准， 许可
+whichever	pron.无论那一个? 任何一个
+brant	n.黑雁
+obsession	n.迷住? 困扰
+scurry	v.疾行?vi&n.急跑， 疾行
+subtropical	adj.亚热带的
+comfort	n./v安慰
+banana	n.香蕉
+Vancouver	n.温哥华（城市名)
+megawatt	n.兆瓦特
+pain	n.痛苦?v.使痛苦
+arboreal	adj.树木的?adj.树栖的； 树木的
+multicellular	adj.多细胞的
+slop	v.溢出? 溅溢
+spontaneously	adv.自发地
+limner	n.素描者
+elective	adj.选举的?随意选择的?adj.选举的； 可选择的； 选修的
+swimmer	n.游泳者
+eagerly	adv.热心地?急切地
+protectionist	n.保护贸易论(者)
+husbandry	n.管理?n.耕种， 务农， 农牧业
+fortification	n.防御工事
+ill	adj.有病的?坏的
+vascular	adj.血管的? 脉管的?adj.血管的， 脉管的
+glassy	adj.象玻璃的
+trunk	n.树干? 行李箱
+tenth	num.第十? 十分之一
+unavailable	adj.难以获得的
+sulfuric	adj.[化] 硫磺的?含硫的
+latest	adj.最近的
+greenhouse	n.温室? 花房
+clearer	adj.更清楚的
+matrix	n.矩阵
+graduation	n.毕业典礼
+epitome	n.摘要?n.摘要， 梗概； 典型， 典范
+subspecies	n.[生]亚种?n.亚种
+celebration	n.庆祝? 庆典
+joy	n.欢乐? 喜悦
+chalk	n.粉笔
+dropstone	n.滴石
+respondent	n.应答者? 被告?adj.回答的?n.回答者，响应者；调查对象；被告
+portrayal	n.描画? 描写
+declare	v.宣布，声明?v.表明； 断言， 声称； 申报
+curtain	n.窗帘
+hexagon	n.六角形? 六边形
+poetic	adj.诗歌的?adj.诗歌的； 诗意的
+undisturbed	adj.未受干扰的
+ascent	n.上升?提高
+Talbot	n.[动]塔尔博特提猎狗
+query	n&v.质问?疑问?v.向…提问； 对…表示怀疑?n.疑问，问题
+amass	v.积累，积聚?vt.积聚
+causal	adj.原因的?adj.原因的， 因果关系的
+metalworker	n.金工工人
+sinuous	adj.蜿蜒的?adj.蜿蜒的； 迂回的
+floral	adj.花的?像花的?adj.花的， 像花的； 饰以花的， 绘有花的
+incongruous	adj.不协调的?不一致的
+personalize	v.个人化? 私人化
+herbaceous	adj.草本植物的
+sap	n.树液 vt耗尽?vt.使衰竭；削弱，逐渐破坏?n.液， 汁； 精力； 笨蛋
+primordial	adj.原始的?最初的?adj.原始的， 最初的； 基本的
+oversee	v.监督，监管
+deity	n.神? 神性
+phosphorus	n.磷
+unearned	adj.不劳而获的
+burrow	n.洞穴?v.挖地洞?v.挖掘，挖地洞；寻找，
+infrequent	adj.不频发的?不常见的
+acclaim	n&v.喝采? 欢呼?n&vt.喝彩， 称赞
+translation	n.翻译? 译文?n.翻译； 译文， 译本
+yarn	n.纱线?v.讲故事?n.纱， 纱线； 故事
+plasma	n.血浆?n.血浆； 等离子体
+London	n.伦敦
+originality	n.独创性
+ford	n.浅滩 v徒涉
+mortise	n.榫眼 v用榫接合
+wander	v.漫步? 徘徊
+mate	n.配偶? 对手?v.交配?n.配偶；朋友，伙伴；同事；大副
+microbial	adj.微生物的? 由细菌引起的
+ironwork	n.铁制品
+unearth	v.掘出?vt.掘出， 发掘； 揭露
+microbiologist	n.微生物学家
+situate	v.位于，坐落在
+mallet	n.槌棒
+guncotton	n.[军]强棉药
+fathom	n.长度单位(6英尺)
+accidental	adj.意外的，偶然(发生)的
+sixth	num.第六? 六分之一
+sex	n.性别?性
+pantomime	n.哑剧
+alligator	n.产于美洲的鳄鱼
+continuum	n.连续统一体?n.统一体
+transparent	adj.透明的? 显然的?adj.透明的； 明显的， 显而易见的； 直率的
+Japan	n.日本
+indirectly	adv.间接地
+domesticate	v.驯养? 教化?vt.驯养， 驯化； 使精于家务， 使喜爱家居
+philosophical	adj.哲学的? 达观的
+aesthetically	adv.有审美能力地
+anthropology	n.人类学
+functionalism	n.功能主义? 机能心理学
+talent	n.天才?才能?n.天赋； 才干； 人才
+continuation	n.继续(部分)；续篇?n.延长， 延续， 持续； 延长物， 扩建物； 延续部分
+hydrodynamic	adj.水力的
+shoreline	n.海岸线
+sedge	n.[植]莎草
+disproportionate	adj.不成比例的
+lament	n.悲伤v哀悼?n.挽歌，悼词?vt.抱怨； 痛惜
+curiosity	n.好奇心?n.好奇心， 求知欲； 罕见而有趣之物， 珍品
+ancestral	adj.祖先的
+pig	n.猪
+afraid	adj.害怕的
+estuary	n.河口? 江口
+seismic	adj.[地]地震的?adj.地震的， 地震引起的； 影响深远的， 重大的
+withdrawal	n.收回? 撤退
+ember	n.灰烬? 余烬
+sorghum	n.[植]高粱属的植物
+paleoecologist	n.古生态学家
+primal	adj.最初的?adj.最初的； 主要的， 首要的
+regulatory	adj.管理的? 控制的
+isotopic	adj.同位素的?合痕的
+captain	n.首领? 船长
+extension	n.延长? 扩充?n.延长； 延伸； 电话分机， 分机号码
+omit	v.省略?遗漏?vt.省略， 删去； 遗漏， 忽略
+snowstorm	n.暴风雪
+macdonald	n.麦当劳快餐店
+locomotion	n.运动? 移动?n.移动； 运动
+persuasively	adv.有说服力的
+livable	adj.适于居住的
+pretty	adj.漂亮的? 可爱的
+dime	n.<美> 一角硬币
+outlying	adj.远离中心的，偏僻的?adj.边远的， 偏僻的； 无关的， 题外的
+dollar	n.元? 美元
+lid	n.盖子?vt给盖盖子
+ethological	n.行为性的? 行为学的
+disruption	n.分裂
+subsistence	n.生存? 生活? 留存?n.生存， 生计
+autumn	n.秋天
+grower	n.种植者，栽培者
+sophistication	n.老练? 精明
+instructive	adj.有益的? 教育性的
+mundane	adj.平凡的? 世俗的?adj.世俗的； 平凡的
+raindrop	n.雨滴? 雨点
+sunflower	n.[植]向日葵
+doorway	n.门口
+injure	v.伤害，损害
+instigate	v.鼓动
+January	n.一月(略作Jan)
+gateway	n.入口；通道
+rigorously	adv.严格地
+onrushing	adj.猛冲的
+tricycle	n.三轮车
+hydrological	adj.水文学的
+constitutional	adj.法治的；体质的
+orogeny	n.[地] 山岳之形成
+administrator	n.管理人?行政官
+trainer	n.训练者
+temporarily	adv.临时
+befit	v.适合
+compost	n.混合肥料
+collaborator	n.合作者?n.合作者， 协作者； 通敌者
+lodge	v.(让)暂住 n乡间小屋，旅舍?v.正式提出； 租住， 借宿； 为…提供住宿； 寄存?n.巢穴；旅社；乡间小屋
+patience	n.耐性? 忍耐
+residency	n.居住? 住所
+cosmopolitan	adj.全球的?四海为家的 n世界主义者
+westerner	n.美国之西部的人
+refrigerate	v.使冷冻? 使冷藏?vt.冷冻， 冷藏； 使冷却， 使变冷
+clergy	n.圣职者? 牧师
+brewster	n.酿造者
+rage	n.愤怒?v.猛烈地继续，激烈进行；发怒，怒斥；迅速蔓延，猖獗?n.风靡一时的事物， 时尚； 狂怒
+skirt	n.裙子
+lithograph	n.石版画? 平版印刷
+yew	n.紫杉? 紫杉木
+wholesale	n.批发?adj.大规模的
+cart	n.大车，手推车?n.运货马车；手推车?vt.用车装运
+adrift	a&ad.漂流的?漫无目的
+mystical	adj.神秘的
+coerce	v.强制
+eccentricity	n.反常，怪癖
+distasteful	adj.味道差的?反感的?adj.令人反感的， 讨厌的； 味道不佳的
+lantern	n.灯笼，提灯
+diagram	n.图表?n.图表； 图解
+spell	v.拼写
+durability	n.经久? 耐久力
+stark	adj.荒凉的；严酷的?adv.完全?adv.十足?adj.赤裸的；严酷的，严峻的；明显的，鲜明的；十足的，极端的
+revere	v.尊敬?敬畏?vt.尊敬， 敬畏
+goose	n.鹅
+please	adv.请 v使高兴
+uniquely	adv.adv独特地? 唯一地
+birch	n.桦树? 白桦
+adaptability	n.适应性
+gram	n.克
+prohibitive	adj.禁止的? 抑制的?adj.禁止的， 抑制的； 高得令人难以承受的
+prospector	n.探勘者? 采矿者?n.勘探者， 采矿者
+auditorium	n.听众席?观众席?n.礼堂； 观众席
+remark	n.备注?评论 vt评论?v.评论；谈论；察觉?n.评论， 评语； 注释
+rote	n.死记硬背
+battleship	n.战舰
+skepticism	n.怀疑论
+economist	n.经济学者
+commandment	n.戒律
+glimpse	n.一瞥v瞥见?n.一看，一瞥?vt.瞥见
+delineate	v.描绘?vt.描绘， 描述； 解释
+rugged	adj.高低不平的? 崎岖的?adj.崎岖的， 凹凸不平的； 艰难的； 粗犷的； 结实的， 耐用的； 粗野的， 不文雅的
+referent	n.指示物
+inadequacy	n.不充分
+Gypsy	n&a.吉普赛人(的)?吉普赛语（的）
+outwash	n.[地质]冰水沉积
+knap	v.敲击
+basaltic	adj.玄武岩的
+carbonic	adj.(含)碳的
+lengthy	adj.冗长的
+intersect	v.贯穿? 交叉
+Yale	n.耶鲁
+redwood	n.[植]红杉
+connoisseur	n.鉴赏家
+seriousness	n.严肃? 认真
+preferentially	adj.优先的? 优待的
+acquisition	n.获得(物)?n.习得， 获得； 收购， 购置
+march	n&v.行军?v.前进， 进发； 行进， 齐步走； 游行示威?n.行进，行军；示威游行；进行曲；进行，进展
+sterile	adj.贫脊的?不结果的?adj.不育的； 贫瘠的； 无菌的； 无结果的， 没有实际价值的； 刻板的
+seaweed	n.海草? 海藻
+preschool	adj.未满学龄的n幼儿园
+smelt	v.熔解，熔炼
+streambed	n.河床
+hint	n.暗示? 线索?v.暗示， 示意?n.暗示，提示；
+luckily	adv.幸运地
+successional	adj.接连著的? 连续性的
+drake	n.公鸭? 蜉蝣类
+salinization	n.盐渍化
+shrinkage	n.收缩
+detachment	n.冷漠? 脱离
+gully	n.小峡谷? 排水沟
+inconclusive	adj.非决定性的?不确定的
+innovator	n.改革者? 革新者
+pulverization	n.弄成粉? 粉碎
+homemaking	n.家政
+rebuild	v.重建? 改造
+intestine	adj.内部的?国内的
+tavern	n.酒馆? 客栈?n.小旅馆， 客栈； 小酒店
+uncompetitive	adj.非竞争性的
+tenfold	adj.十倍的 ad成十倍
+aircraft	n.航行器
+desiccation	n.干燥
+chimney	n.烟囱? 灯罩
+shin	n.胫骨
+mandarin	n.官话?普通话
+guilde	n.行会? 协会
+earn	v.赚得
+Iroquois	n.易洛魁族人
+pen	n.钢笔?v.写
+quietly	adv.平静地?寂静地
+ectotherm	n.[动] 冷血动物?变温动物
+miner	n.矿工
+vas	n.血管? 脉管
+aqueduct	n.沟渠?导水管
+meanwhile	adv.其间
+ravage	n&v.毁坏?vt.毁坏； 抢劫， 掠夺
+befriend	v.待人如友?帮助
+adaptable	adj.能适应的?适应性强的?adj.能适应的； 可改编的
+fortune	n.财富? 运气
+phosphorescence	n.磷光
+Portugal	n.葡萄牙(欧洲西南部国家)
+safely	adv.安全地? 确实地
+invisibly	adv.看不见地? 看不出地
+visibility	n.可见度
+rye	n.裸麦
+unpopular	adj.不流行的? 不受欢迎的
+holocene	n&a.[地]全新世(的)
+titanium	n.[化]钛
+tang	v.有浓味 n特殊气味
+astronaut	n.宇航员
+reuse	v.再使用 n重新使用
+antagonism	n.对抗(状态)? 对抗性
+rehabilitation	n.复原
+canoe	n.独木舟?vi.乘独木舟，划独木舟
+dramatize	v.编写剧本?v.改编成戏剧； 戏剧化， 戏剧性地表现
+leisurely	adj.从容地，慢慢地
+Minneapolis	n.明尼苏达[美国州名]
+apple	n.苹果
+Ontario	n.安大略湖[北美洲]
+June	n.六月(略作Jun)
+delft	n.代夫特(荷兰城市)陶器
+beef	n.牛肉
+unobtainable	adj.无法得到的?难获得的
+reddish	adj.微红的
+chariot	n.战车
+communicative	adj.健谈的?交流的
+conversely	adv.倒地?逆地
+instrumentalist	n.乐器演奏家
+Arab	n&a.阿拉伯人(的)
+platelet	n.[解] 血小板
+accrete	v.共生? 附着? 增加
+bubbly	adj.多泡的
+metalwork	n.金属制品
+useless	adj.无用的? 无效的
+bulldozer	n.推土机
+politically	adv.政治上地
+centigrade	adj.摄氏的?adj.百分度的； 摄氏温度的
+alchemist	n.炼金术士
+mechanic	n.技工?n.技工， 机修工
+presently	adv.目前? 不久
+reelect	v.重选? 改选
+cherry	n.樱桃
+tapeworm	n.[动]绦虫
+languish	v.憔悴? 凋萎?vi.憔悴； 凋谢， 枯萎； 受煎熬
+mythology	n.神话?n.神话； 神话学； 虚幻的想法
+lateness	n.迟? 晚
+amid	prep.在中?prep.在…中， 被…围绕
+mythological	adj.神话(学)的
+newcomer	n.新来的人；移民
+holiday	n.假日
+gravitas	n.庄严(举止)
+foresightedness	n.先见之明
+prerecord	v.事先录音
+brittle	adj.易碎的? 脆弱的?adj.易碎的； 脆弱的； 尖利的
+dispense	v.分发? 分配
+inedible	adj.不能吃的，不宜食用的
+swiftly	adv.很快地? 即刻
+risky	adj.危险的
+gibbon	n.长臂猿
+raccoon	n.<美>[动]浣熊
+peep	n&vi.窥视? 偷看
+arousal	n.觉醒? 激励
+neurotransmitter	n.[生化]神经传递素
+avalanche	n.雪崩?n&v.雪崩； 山崩
+skate	n.冰鞋 vi溜冰
+ibex	n.野生山羊
+monkey	n.猴子
+cessation	n.停止
+steamer	n.汽船? 蒸汽机
+sentimental	adj.感伤的；多愁善感的?adj.情感的； 伤感的， 多愁善感的
+iridescent	adj.闪光的，现晕光的
+eocene	n&a.始新世(的)
+cushion	n.垫子?vt.起缓冲作用
+technician	n.技术员? 技师
+maybe	adv.大概? 或许
+snowdrift	n.雪堆
+seventy	num.七十
+cleaner	n.清洁工人? 清洁器
+accordion	n.手风琴
+manure	n.肥料
+clover	n.[植]三叶草
+circumference	n.圆周? 周围?n.周围， 周边； 圆周； 周长
+treatment	n.待遇? 对待
+entertainer	n.款待者? 表演娱乐节目的人
+violently	adv.猛烈地? 激烈地
+masonry	n.石工术? 石匠职业
+flexibility	n.灵活性? 弹性?n.灵活性； 弹性， 韧性； 适应性
+obstruct	v.阻塞，堵塞?vt.妨碍， 阻挠； 阻塞
+mediocre	adj.平庸的
+tributary	a&n.支流(的)，进贡(的)?n.支流；
+choosy	adj.好挑剔的
+distinguishable	adj.可区别的? 可辨别的
+absenteeism	n.旷课? 旷工?n.旷课； 旷工
+pointillist	n.点彩派画家
+crudely	adv.粗糙地? 粗鲁地
+ride	v.骑? 乘
+epistle	n.书信
+endotherms	n.温血动物? 恒温动物
+disseminate	v.散布，传播?v.散布， 传播
+berg	n.冰山
+corpus	n.资料? 文集?n.文集， 文献， 汇编； 语料库
+unchangeable	adj.不变的?不能改变的
+gel	n.凝胶体 v成冻胶
+ignorant	adj.无知的?adj.无知的， 愚昧的； 无知觉的
+illusory	adj.虚幻的?adj.虚幻的， 幻觉的
+sparsely	adv.稀疏地
+methyl	n.甲基? 木精
+worshipper	n.礼拜者
+saturday	n.星期六
+watercourses	n.水流? 河道
+receptacle	n.容器?n.容器； 插座
+motorcycle	n.摩托车? 机车
+vest	n.汗衫 vt使穿衣服? 授予
+chemurgy	n.[化]农业化工?实用化学
+imitator	n.模仿者
+edifice	n.大厦? 大建筑物?n.大厦， 宏伟的建筑物
+wary	adj.机警的?adj.小心翼翼的， 留神的， 警惕的
+surmise	v.猜测?v.推测， 猜测?n.推测， 猜测
+disdain	n.轻蔑 v蔑视
+anti	n.反对者 a反对的
+continuator	n.继续者
+grid	n.格子? 栅格?n.格子， 栅格； 地图上的坐标方格， 网格； 输电网， 煤气输送网
+predispose	v.(使)易罹患? (使)预先偏向于?v.事先影响某人； 易受感染
+aviator	n.飞行员
+preposterous	adj.荒谬的? 可笑的
+subtlety	n.微妙? 精明
+streetcar	n.路面电车
+oscillate	v.振荡
+underfoot	adv.在脚下面? 踩着地
+ox	n.牛? 公牛
+developer	n.开发者
+worry	n&v.烦恼? 忧虑
+gourd	n.葫芦?n.葫芦； 葫芦制成的容器
+landowner	n.土地所有者
+crossing	n.交叉口?n.十字路口， 人行横道； 过境处； 交叉点； 穿越， 横渡
+pane	n.窗格玻璃；长方块
+undisputed	adj.无可置辩的
+predictability	n.可预见性
+celsius	adj.摄氏的
+uncomfortable	adj.不舒服的，不自在的
+revitalization	n.新生 复兴
+redbud	n.紫荆属植物
+bullrush	n.芦苇
+speculator	n.投机者
+homesteader	n.农场所有权人? 自耕农
+nodule	n.节结
+skillfully	adv.巧妙地?技术好地
+dormancy	n.休眠?n.休眠； 催眠状态； 隐匿
+supposedly	adv.推测地? 大概
+basketry	n.篓编织品
+bark	n.吠声?v.吠叫； 厉声质问?n.树皮；犬吠声
+amuse	v.使发笑?使愉快
+eukaryotic	adj.真核状态的
+emulsion	n.乳状液
+shake	n& v.摇动，颤抖
+condensation	n.浓缩
+rebound	n./v回弹
+handmade	adj.手工的
+Iceland	n.冰岛(欧洲岛名?在大西洋北部?近北极圈)
+incandescent	adj.遇热发光的? 白炽的
+implicitly	adv.含蓄地? 暗中地
+rob	v.抢夺?vt.抢夺， 抢掠； 剥夺， 使失去
+fanciful	adj.想像的? 奇怪的
+deprecate	v.抨击? 反对
+infusion	n.灌输
+carriage	n.马车? 客车
+worsen	v.恶化
+portraitist	n.肖像画家
+rhythmical	adj.节奏的? 合拍的
+exploratory	adj.勘探的? 探索的
+coconut	n.椰子
+infancy	n.幼年?n.幼年； 初期
+credence	n.信任?n.可信性， 真实性； 信任； 信念
+encase	v.装入? 包住?vt.包住
+maroon	n.栗色 a栗色的
+legally	adv.法律上? 合法地
+inspection	n.检查? 视察
+immunity	n.免疫性?n.免疫力； 保护； 免除， 豁免
+restriction	n.限制? 约束
+asthenosphere	n.岩流圈
+violet	n.紫罗兰 a紫色的
+periphery	n.外围?n.外围， 边缘
+insure	v.给保险?确保
+insult	n&vt.侮辱? 辱骂?vt.侮辱， 凌辱?n.侮辱， 凌辱
+supercontinent	n.[地]超大陆
+hieroglyphic	n.象形文字
+condenser	n.冷凝器? 电容器
+bilingual	adj.能说两种语言的
+streptomycin	n.链霉素
+innermost	adj.最里面的? 内心的
+jellyfish	n.水母
+stagnant	adj.停滞的；萧条的?adj.不景气的； 停滞的； 迟钝的； 因不流动而污浊的
+afar	adv.遥远地
+epic	n.史诗? 伟大事迹?adj.史诗般的； 艰苦卓绝的； 壮丽的， 宏大的?n.史诗；史诗般的电影；壮举
+circumscribe	v.在…周围画线；限制
+inactive	adj.不活动的? 怠惰的?adj.不活动的； 怠惰的
+DNA	abbr.[生化]脱氧核糖核酸(=deoxyribonucleic acid)
+alkaloid	n.[化]生物碱
+televise	v.广播? 播映
+reciprocate	v.互换? 交换
+labellum	n.（兰花的） 唇瓣
+fishery	n.渔业? 水产业
+necrosis	n.坏死
+stag	n.牡鹿vi不带女伴参加晚会
+encroach	v.侵占?侵犯?vi.侵占； 侵蚀， 蚕食
+syllable	n.音节
+sequoia	n.[植] 美洲杉?n.美洲杉， 红杉
+humor	n.幽默? 诙谐
+tempera	n.蛋彩画
+dogwood	n.山茱萸
+Switzerland	n.瑞士(欧洲中部国家)
+plank	n.厚木板(条)?n.木板； 政策要点， 政纲的核心
+lighten	v.减轻?点亮
+naked	adj.裸体的? 无遮盖的?adj.裸露的， 无遮盖的； 直白的， 露骨的， 不加掩饰的
+plutonic	adj.火成岩的
+neutralize	v.压制
+memorial	n.纪念物? 纪念馆
+condor	n.[动]秃鹰? 秃鹫
+disappointment	n.失望
+sprout	v.萌芽 n苗芽?v.发芽，抽条，生长；迅速出现，涌现出?n.新芽， 嫩枝， 苗
+badly	adv.严重地? 恶劣地
+attainment	n.达到
+careless	adj.粗心的? 疏忽的?adj.粗心的， 疏忽的； 无忧无虑的； 不关心的， 冷漠的
+progression	n.行进? 级数
+oceanographer	n.海洋学者? 海洋研究者?n.海洋学者
+legitimately	adv.正当地? 合理地
+estuarine	adj.入海的? 在入海口形成的
+cup	n.杯子
+speciality	n.特性? 特质
+waterfront	n.水边地码头区? 滨水地区
+carboniferous	n.石炭层
+believable	adj.可信的
+regularize	v.使有规则? 使有秩序
+skeletal	adj.骨骼的? 梗概的?adj.骨骼的， 骸骨的； 梗概的； 轮廓的
+serpentine	adj.蜿蜒的
+bog	n.沼泽
+toe	n.趾? 脚趾
+tentatively	adv.试验性地?犹豫不决地
+regeneration	n.再生? 重建
+contour	n.轮廓?n.等高线； 轮廓
+kiwi	n.[鸟]几维(一种新西兰产的无翼鸟)
+hummingbird	n.蜂雀?n.蜂鸟
+resolution	n.决心?决议
+unsuitable	adj.不适宜的? 不合适的
+hydroponic	adj.溶液培养的
+currier	n.制革匠
+Semitic	n./a闪族人(语) (的)
+intergalactic	adj.银河间的? 星际间的
+diffuses	v.扩散?弥漫
+synonymous	adj.同义的
+arrow	n.箭? 箭头记号
+discoloration	n.变色? 污点
+laborious	adj.艰苦的? 费劲的?adj.艰苦的， 费力的， 艰难的； 勤劳的
+backdrop	n.背景幕? 背景
+refractory	adj.难控制的?耐火的
+soilless	adj.不用泥土(培植)的
+tight	adj.紧的
+chest	n.胸腔，橱
+nebular	adj.[天]星云的
+chair	n.椅子?主席 vt担任主席
+specially	adv.专门地；特别地
+someday	adv.有朝一日
+journalism	n.新闻业；新闻工作?n.新闻业， 新闻工作
+circuit	n.电路?巡回?n.电路； 线路； 巡回； 环行； 环行路线
+complementary	adj.补充的? 补足的?adj.补充的； 互补的
+nectar	n.[希神] 神酒? 任何美味的饮料? 花蜜?n.花蜜； 甘美的饮料， 琼浆玉液
+USA	abbr.美国(美利坚合众国)
+adornment	n.装饰? 装饰品
+photo	n.照片
+lesley	n.莱斯利（女子名）
+ppm	abbr.百万分率，百万分之…（parts per million）
+purification	n.净化
+assortment	n.分类?混合物?n.分类； 各种各样
+saving	n.存款?adj.搭救的? 节约的
+astound	v.使惊骇? 使大吃一惊
+ID	abbr.身份 (identification? identity)?n.遗传素质
+germinate	v.发芽?使生长?v.发芽， 萌芽； 发展
+nitric	adj.[化]氮的? 含氮的
+viscosity	n.粘质? 粘性
+intrude	v.侵入?强挤入?vi.侵入， 闯入； 打扰， 侵扰
+dating	n.约会?v.约会
+hive	n.蜂房?v.(使)入蜂箱? 群居?v.入蜂箱；群居?n.蜂箱， 蜂房； 闹市， 忙碌之地
+incomprehensible	adj.费解的?不可思议的
+evidently	adv.显然?清楚地
+theropod	adj.兽性的，野兽般的
+supporter	n.支持者? 赡养者
+precarious	adj.危险的?不确定的
+wispy	adj.纤细的? 脆弱的?adj.成束的； 纤细的
+artificially	adv.人工地?不自然地
+vacancy	n.空白? 空缺?n.空房间； 空位， 空缺； 空虚
+rehabilitate	v.修复? 改造?vt.使恢复原状， 修复； 改造， 使恢复正常生活； 恢复…的名誉
+persuade	v.说服? 劝说? (使)相信
+sunset	n.日落? 晚年?n.日落， 傍晚
+intoxication	n.陶醉?中毒?n.醉， 醉酒； 极度兴奋
+auger	n.螺丝钻?vt.用钻子钻洞于
+longtime	adj.(已持续)长时间的?adv.长久地
+validate	v.[律]使有效? 使生效?vt.使有效， 使生效； 证实
+sulfide	n.<美>[化]硫化物
+sensibility	n.敏感性?识别力
+ether	n.天空醚? 大气
+tenon	n.[木工]榫?vt.接榫? 造榫
+whittle	v.切? 削?n.屠刀
+supersede	v.代替? 取代
+dehydrate	v.(使)脱水?v.脱水
+amino	adj.氨基的?n.[化学] 氨基
+fertilization	n.肥沃? 施肥? 授精
+celestial	adj.天上的?n.神仙?adj.天空的， 天上的
+victory	n.胜利?[罗神]胜利女神
+tent	n.帐篷
+petrifaction	n.石化? 化石
+regolith	n.[地质]风化层? 土被
+marrow	n.精华? 活力
+ptarmigan	n.松鸡类
+hydroxyapatite	n.[矿]羟磷灰石
+percolate	n.滤过之液体?滤液?v.过滤?v.过滤；渗入，渗透；逐渐流传，传开?n.滤液
+mudflats	n.泥滩
+mineralize	v.使矿物化?采集矿物
+calcareous	adj.钙质的?石灰质的
+tailor	n.裁缝?v.剪裁? 缝制
+eyebrow	n.眉毛
+bedcover	n.被面
+pillow	n.枕头? 枕垫?v.枕着
+heal	v.治愈? 医治
+vaguely	adv.含糊地? 暧昧地
+hundredfold	adj.百倍的?n.百倍? 百重
+agriculturally	adv.农业上
+pinhead	n.针头? 小东西
+immersion	n.沉浸?专心
+founding	adj.创办的?n.资金
+nail	n.指甲?钉子?v.将钉牢?n.指甲，爪；钉?vt.将…钉牢， 钉住
+entertain	v.娱乐?招待?v.招待， 款待； 使快乐， 娱乐
+scuba	n.水中呼吸器?n.水中呼吸器， 水肺
+sunlit	adj.被日光照射了的? 阳光照射的?adj.阳光照射的
+unsatisfactory	adj.不令人满意的?不满足的
+separately	adv.分别地?分离地
+collectible	adj.可收集的? 可代收的
+rider	n.骑手? 附文? 扶手
+opera	n.歌剧
+orchestral	adj.管弦乐的?管弦乐队的
+landslide	n.[地]山崩? 滑坡?n.山崩， 塌方； 压倒性胜利
+counteract	v.抵消? 中和? 阻碍?vt.消除； 抵消
+stature	n.身高?(精神、道德等的)高度?n.身材， 身高； 地位， 声望， 名望
+relaxation	n.松弛? 放宽
+remediation	n.补习?补救
+unincorporated	n.未联合的?未合并的
+profile	n.侧面?轮廓?n.人物专访；概述，传略，人物简介；面部的侧影；轮廓，外形?vt.扼要介绍， 概述
+spurge	n.[植]大戟
+corner	n.角落? (街道)拐角处?v.迫至一隅?把难住
+calotype	n.光力照像法
+molasses	n.<美>糖蜜
+battlefield	n.战场? 沙场
+dish	n.盘? 碟?v.把…装盘
+needlefish	n.[动] 颌针鱼(一种长嘴便鳞之海鱼)
+fireball	n.火球? 大流星
+improvisation	n.即席创作
+meteor	n.流星? 大气现象?n.流星
+comprehensible	adj.可理解的?adj.可理解的， 能懂的， 能充分理解的
+etch	v.蚀刻
+my	pron.我的
+hay	n.干草
+hale	adj.强壮的?v.硬拖
+instantly	adv.立即地? 即刻地
+ingoing	adj.进入的?n.进入?迁就
+realistically	adv.现实地?逼真地
+artistry	n.艺术之性质
+knowledgeable	adj.知识渊博的? 有见识的
+organically	adv.器官上地? 有机地
+geomagnetic	adj.地磁的?地磁气的
+magnetize	v.使磁化? 吸引
+recess	n.(墙壁等的)凹进处?v.使凹进?休假?n.休会期；休庭；暂停；凹室，
+bonito	n.鲣
+hatchling	n.人工孵化的鱼苗或小鸟
+hilly	adj.多小山的? 多坡的
+elongate	v.拉长? (使)伸长?adj.伸长的?v.延长， 伸长
+linoleum	n.油布? 油毯
+customarily	adv.通常?习惯上
+franklin	n.小地主? 乡绅
+morally	adv.道德上
+inconspicuous	adj.不显眼的?不引人注意的?adj.不引人瞩目的， 不显眼的
+utterance	n.意见? 说话? 发表
+treasury	n.财政部? 国库
+heartbeat	n.心跳
+scat	v.迅速走开?n.爵士音乐中无意义的音节的演唱
+unexplored	adj.[地质] 未勘查过的
+playground	n.运动场? 操场
+upland	n.丘陵地? 高地?adj.高地的?山地的
+friendliness	n.友谊?友善
+wingspan	n.[空]翼展
+campus	n.<美>校园?大学教育?n.校园
+flicker	n&v.闪烁?摇曳
+anvil	n.[解]砧骨
+excellence	n.优秀? 卓越
+loggerhead	n.傻子?铁球棒
+pertain	v.适合? 属于?vi.存在； 适用
+dike	n.堤防?v.筑堤提防
+explosive	adj.爆炸(性)的?暴露?n.爆炸物?adj.爆炸的，爆发的；使人冲动的?n.炸药
+rooftop	n.屋顶?adj.屋顶上的
+interplanetary	adj.太阳系内的?行星间的
+actor	n.男演员?行动者
+lovely	adj.可爱的?有趣的
+caput	n.头? 首
+receptiveness	n.感受性?接受能力
+punish	v.惩罚?处罚
+animate	v.鼓舞?adj.生气勃勃的?adj.活的， 有生命的?vt.赋予生命， 使有活力
+militaristic	adj.军国主义的
+acreage	n.英亩数? 面积
+impersonation	n.扮演
+reabsorb	v.再吸附?重吸收
+squarely	adv.方形地? 直角地
+Henderson	n.亨德森（姓氏）
+prisoner	adj.囚犯的?n.战俘
+October	n.十月(略作Oct)
+rawhide	n.生牛皮?vt.用生牛皮鞭抽打?adj.生牛皮的
+nonagricultural	adj.非农业的
+dale	n.宽谷? 溪谷
+devastation	n.毁坏?荒废
+fletcher	n.<古>造箭者?弗莱彻
+paradoxically	adv.相矛盾地?似非而是地
+flute	n.长笛?v.吹长笛?刻槽
+pedagogy	n.教学? 教授?n.教育学， 教学法
+exuberant	adj.繁茂的?生气勃勃的
+reaper	n.收割者? 收割机
+anxiously	adv.忧虑地? 不安地
+elephant	n.象
+bellow	v.怒吼? 咆哮
+unreal	adj.不真实的? 虚幻的
+fond	adj.喜欢的?温柔的
+receptive	adj.善于接受的?能容纳的?adj.接受得快的； 善于接受的， 能接纳的
+unplanned	adj.意外的?在计划外的
+nomad	n.游牧部落的人?流浪者?adj.游牧的
+Mongolia	n.蒙古
+sexually	adv.性别地?两性之间地
+lifeway	n.生活方式? 生活
+facade	n.正面
+torrid	adj.晒热的?热情的
+kindergarten	n.幼儿园?adj.幼儿园的?启蒙阶段的
+neuron	n.[解]神经细胞?神经元?n.神经元， 神经细胞
+eukaryote	n.〈生〉真核细胞
+commensal	adj.共餐的?n.共食伙伴? 共生物
+living	n.生活?生计?adj.活的?逼真的
+inadvertently	adv.非故意地?不注意地
+volt	n.(马术中的)环骑?[电工]伏特
+roadbed	n.路基
+encompass	v.包围?环绕?vt.包含； 环绕
+metabolize	v.产生代谢变化
+administer	v.管理? 给予? 执行?vt.管理； 执行； 给予， 提供
+fasten	v.扎牢?扣住?v.使固定； 系牢， 扎牢； 握住， 抓牢
+diversify	v.使多样化? 作多样性的投资?v.多样化， 不同
+neurospora	n.[微]脉孢菌
+yellowstone	n.黄石国家公园? 黄石河
+mosquito	n.蚊子
+paucity	n.极小量?n.极小量， 少量
+burin	n.冰凿?雕刻刀
+walrus	n.[动]海象? 海象胡须
+incubator	n.培养的器具? 孵卵器
+poorhouse	n.救济院
+subsidize	v.资助?津贴
+excitation	n.刺激?兴奋? 激动
+amniotic	adj.[昆] 羊膜的
+porpoise	n.[动]海豚? 小鲸
+spew	v.喷涌?呕吐?v.喷涌；射出；呕吐，呕出?n.喷出物
+emanate	v.散发?发出?v.散发； 表现， 显示
+noxious	adj.有害的?adj.有害的； 有毒的
+shun	v.避开?避免
+individually	adv.个别地?单独地
+aggregation	n.集合?集合体
+erectus	adj.[拉丁语]直立的
+sleepiness	n.想睡?瞌睡
+oneness	n.单一? 统一
+excrete	v.排泄? 分泌
+namely	adv.即?也就是
+infection	n.传染病? 影响?n.传染， 感染； 传染病
+piling	n.打桩? 打桩工程
+button	n.钮扣?v.扣住?扣紧
+workforce	n.劳动力?职工总数
+analyst	n.分析家? 分解者
+regulator	n.调整者?调整器
+toolmaking	n.工具(或刀具)制造?机床维修
+essay	n.散文?n.散文， 随笔； 短文； 评论
+morphology	n.[生物]形态学? [语法]词法?n.形态学， 形态论
+hiccup	n.打嗝?v.打嗝
+sow	n.大母猪?v.播种?散布?v.播种， 种； 灌输； 煽动
+platypus	n.[动]鸭嘴兽
+nurse	n.护士?保姆?v.护理?照料
+damp	n.湿气?adj.潮湿的?v.使潮湿?阻尼?n.潮湿；湿气?vt.弄湿； 减弱， 抑制
+halite	n.[化]岩盐
+subsist	v.生存? 存在? 供养?vi.存活， 生存
+July	n.七月(略作Jul)
+balloon	n.气球?v.膨胀
+meteorologist	n.气象学者
+rust	n.铁锈?v.(使)生锈?锈蚀?v.生锈?n.锈， 铁锈； 锈病
+undeveloped	adj.不发达的? 未开发的
+conestoga	n.一种大篷马车
+unexpectedly	adv.出乎意料地?意外地
+nowcasting	n.预告
+readership	n.读者的身分? 读者人数
+pencil	n.铅笔
+individuality	n.个性?(通常用复数)个人的嗜好
+squander	v.浪费?n.浪费?vt.浪费， 挥霍
+cheese	n.干酪
+mesopotamian	n.美索不达米亚（两河流域）
+birdlike	adj.敏捷轻快的?似鸟的
+somerset	n.翻筋斗?vi.翻筋斗
+appetite	n.食欲?欲望?n.胃口， 食欲； 欲望
+dampen	v.使潮湿?沮丧
+textural	adj.组织的?结构的
+ribbon	n.缎带?丝带?v.撕成条?n.带状物； 丝带， 缎带； 绶带； 色带
+derrick	n.起重机? (钻井)井口上的铁架塔
+phoenix	n.凤凰?完人
+impersonal	adj.客观的?没有人情味的?adj.没有人情味的， 冷淡的； 客观的
+secular	adj.长期的?世俗的?adj.现世的； 世俗的； 非宗教的
+onward	adj.向前的?adv.向前?在前面
+pluto	n.冥王星? 阴间之神
+chicopee	n.奇科皮（美国马萨诸塞州西南部城市）
+patchy	adj.补丁的? 不调和的
+clinical	adj.临床的?诊所的
+verbalize	v.用语言描述?累赘?v.用言语表达
+generator	n.发电机? 发生器
+fare	n.费用?票价?v.遭遇? 进展?vi.进展?n.费用
+cellulose	n.纤维素?（植物的）细胞膜质
+Patricia	n.帕特丽夏（女子名）
+yam	n.山药? 洋芋
+sharper	n.磨具?(赌博中的)骗子
+candlelight	n.烛火?黄昏
+allocation	n.分配?安置
+vantage	n.优势?有利情况
+flowerbed	n.花床?花圃
+debatable	adj.成问题的?未决定的?adj.有争议的
+petrochemical	adj.石化的?n.石化产品
+objectify	v.使客观化?具体化
+vacate	v.腾出? 空出?离(职)?退(位)?vt.腾出， 空出； 离， 退
+subtropic	adj.亚热带的?副热带的
+scenic	adj.舞台的? 景色优美的?n.风景照片
+tusk	n.长牙?v.以牙刺戳
+meaty	adj.肉的?多肉的
+resilient	n.帕特森（美国一座城市）
+indigestible	adj.不吸收的?难理解的
+subtitle	n.说明对白的字幕?v.给…加字幕
+prolifically	adj.丰富地?多产地
+elevator	n.电梯?升降机
+rigidity	n.刻板?严格
+riverbank	n.河堤? 河岸
+landslip	n.[地]山崩?塌方
+ephemeral	adj.朝生暮死的? 短暂的?adj.短暂的， 转瞬即逝的
+monotonous	adj.单调的?无抑扬顿挫的?adj.单调的， 无聊的
+aquatic	adj.水的?水生的?n.水生动物?adj.水生的； 水上的
+vibration	n.振动?颤动?n.振动， 颤动
+loop	n.环?回路?v.使成环?打环
+unionization	n.联合? 结合
+aboveground	adj.在地面上的?adv.地面上地
+encroachment	n.侵蚀? 侵犯
+semicircular	adj.半圆的
+handsome	adj.英俊的?大方的
+snout	n.猪嘴?鼻子
+weightlessness	n.无重状态
+suggestive	adj.提示的?暗示的
+rougher	n.粗切机?粗选槽
+peat	n.泥煤? 泥炭块
+mystique	n.神秘性?奥秘
+lengthwise	adj.纵长的?adv.纵长地
+Victorian	adj.维多利亚女王时代的
+grace	n.优美? 雅致?v.使优雅
+Chile	n.智利
+hander	n.支持器?夹头
+ninety	num.九十
+alpha	n.希腊字母的第一个字母
+cousin	n.堂兄弟姊妹? 表兄弟姊妹?n.堂兄弟， 堂姐妹
+sleeper	n.睡眠?枕木
+colonizer	n.殖民者?殖民地开拓者? 移民
+welland	n.韦兰（加拿大东南部港口城市）
+unmatched	adj.无与伦比的?不相配的
+nutritive	adj.营养的?n.营养物
+revision	n.修订?修正?修订本
+inception	n.起初? 获得学位?n.开端， 开始
+morris	n.莫理斯舞(英国传统民间舞蹈)
+nonfiction	n.非小说的散文文学
+brilliantly	adv.辉煌地?灿烂地
+eighty	num.八十? 八十个
+flexibly	adv.易曲地? 柔软地
+sandal	n.凉鞋? 檀香
+creep	v.爬? 蹑手蹑脚?n.爬行?vi.缓慢行进； 爬行； 悄悄地移动
+grotto	n.洞穴?人工洞室
+salad	n.色拉
+prostrate	adj.降伏的?俯卧的?v.使屈服
+protector	n.保护者
+bode	v.预示?vi.预示
+club	n.俱乐部?(扑克牌)梅花?v.募集
+hump	n.驼峰?峰丘?v.(使)隆起
+indecipherable	adj.无法解释的?难辨认的?adj.无法破译的； 难以领悟的
+substantiate	v.使实体化?证实?vt.证实， 证明
+ghost	n.鬼? 幽灵
+faint	n.昏晕?v.昏晕?adj.头晕的?vi.昏厥，晕倒?adj.模糊的，不清楚的；无力的，虚弱的；眩晕的?n.昏厥
+Peru	n.秘鲁
+diva	n.歌剧中的首席女主角
+nonstop	adj.不断的?直达的?adv.不休息地
+bifocal	adj.双焦点的
+cougar	n.[动]美洲狮(尤指Felis concolor)
+smear	v.涂污?弄脏?n.油迹? 涂片?v.胡乱涂抹；弄脏；诽谤，诋毁?n.污迹， 污斑； 诽谤， 诋毁； 涂片
+ocher	n.黄土? 赭土
+mentally	adv.精神上? 智力上
+obliterate	v.涂去? 删除? 使湮没?vt.覆盖； 消灭； 忘却
+conceivable	adj.可能的?想得到的?adj.可能的； 可信的， 可想象的
+internationally	adv.国际性地? 在国际间
+greenish	adj.呈绿色的
+succinct	adj.简洁的? 紧身的
+midway	n.中途?半路?adj.中途的?adv.在中途
+unsung	adj.未唱的?未赞颂的
+fungicide	n.杀真菌剂
+popularize	v.普及
+changeable	adj.可改变的?无常的
+notebook	n.笔记簿? 笔记本
+theoretical	adj.理论的?理论上的?adj.不切实际的； 理论的
+figural	adj.借喻的?比喻的
+determinant	adj.决定性的?n.决定因素
+overtax	v.课税过重? 使负担过度
+youth	n.青春?少年
+custodial	adj.保管的?保管人的?n.[宗]圣物保管容器
+academician	n.院士? 大学生
+cole	n.油菜? 小菜
+impressionistic	adj.印象派的?给人深刻印象的
+fortuitously	adv.偶然地?意外地
+thriller	n.使人毛骨悚然的东西? 使人毛骨悚然的小说
+plentifully	adv.丰富地?富裕地
+breadbasket	n.<俚>胃? 腹
+annihilate	v.消灭?湮灭
+sectional	adj.可组合的?部分的
+routinely	adv.例行公事地
+predicament	n.困境?窘状
+thermometer	n.温度计? 体温计
+divergence	n.分歧
+oceanography	n.海洋学
+outbuilding	n.[建]外屋? (指车库? 谷仓等)
+forbes	n.福布斯（美国著名财经杂志）
+grama	n.美国西部产的一种牧草
+rhyolite	n.[地]流纹岩
+comparably	adv.同等地?可比较地
+transmitter	n.转送者?传导物?发射机
+exponential	n.指数?adj.指数的? 幂数的
+gesso	n.(雕刻、绘画用的)石膏? 石膏粉
+capitalism	n.资本主义
+deference	n.顺从? 尊重
+cumbersome	adj.笨重的?累赘的?adj.笨重的； 麻烦的； 累赘的， 冗长的
+weft	n.[纺]织物?信号旗
+dire	adj.可怕的?极端的
+pendant	n.垂饰? 下垂物?n.垂饰， 下垂物
+basketmaking	n.篮子编织
+generalist	n.多面手?通才
+kennel	n.狗窝?v.置于狗窝?关进狗窝?n.狗窝； 养狗场
+postmaster	n.邮局局长
+interestingly	adv.有趣地
+concomitant	adj.伴随的?n.伴随物
+patient	n.病人?adj.耐心的?adj.有耐心的，能忍耐的?n.病人， 患者
+rigidly	adv.坚硬地? 严格地
+renounce	v.宣布放弃?断绝关系
+observatory	adj.天文台?气象台?n.天文台， 天文观测站
+urbanism	n.都市生活?都市化
+refrigeration	n.冷藏? 致冷
+harshly	adv.严厉地? 苛刻地
+chitin	n.壳质? 角素
+Jules	n.朱尔斯（男子名）
+reviewer	n.批评家?评论家
+triassic	adj.[地]三叠纪的?n.三叠纪
+adjunct	n.附件? 助手?adj.附属的?n.附加物， 附件； 附加语， 修饰语
+glasswork	n.玻璃制品?v.制成玻璃状的
+sate	v.使心满意足
+flier	n.飞行者?快车?宣传单
+deplorable	adj.可叹的?凄惨的
+midday	n.正午
+auto	n.自动?<美口>汽车
+loneliness	n.孤独? 寂寞
+hopeless	adj.没有希望的?不可救药
+interchangeable	adj.可互换的?可交换的
+puncture	n.小孔?v.刺破?v.刺穿；泄气，挫伤?n.小孔； 刺伤
+glandular	adj.腺的?腺状的
+glycoside	n.[化]配醣? 配糖类
+preform	v.预先形成?n.粗加工的成品
+unusable	adj.不能用的?与众不同的
+inducible	adj.可诱导的?可导致的
+sepal	n.萼片
+snippet	n.小片? 片断
+glycoprotein	n.[化]糖蛋白类? 醣蛋白
+cardiac	n.强心剂?adj.心脏的? (胃的)贲门的?adj.心脏的； 心脏病的
+glial	adj.神经胶质的
+autonomic	adj.自治的? 自律的
+ending	n.结尾? 结局
+preoccupation	n.全神贯注?当务之急?n.主要考虑因素； 全神贯注
+coyote	n.一种产于北美大草原的小狼? 山狗
+endowment	n.捐赠?天资?捐款
+puddle	n.水坑? 泥潭?v.搅浊?搅泥泞?n.水坑， 水洼
+proboscis	n.鼻子?[昆] 喙
+crimson	adj.深红色的?v.变深红色?n.深红色
+exhaustion	n.耗尽枯竭?疲惫?竭尽
+winner	n.胜利者?优胜者
+anthropological	adj.人类学的?人类学上的
+structurally	adv.在结构上
+polyphony	n.复调音乐? 多音
+cornet	n.圆锥形纸袋? 短号
+maize	n.玉米? 黄色?adj.玉米色的?n.玉米
+chivalry	n.骑士精神? 骑士制度
+unadorned	adj.朴素的?未装饰的?adj.未装饰的， 朴实的
+brave	adj.勇敢的
+hotelkeeper	n.旅馆经营者
+inn	n.(尤指乡村或公路边的) 旅馆?vi.住旅馆
+paraphrase	v.解释?n.释义?v.解释； 改写
+unselfish	adj.无私的?慷慨的
+disco	n.迪斯科舞厅
+nonself	n.(有机体的)异物
+ragtime	n.拉格泰姆音乐?adj.使人发笑的
+unrestricted	adj.自由的?无限制的
+quasar	n.恒星状球体? 类星体?n.类星体
+concertina	n.类似风琴的六角形的乐器
+bedroom	n.卧室
+quill	n.羽茎?大翎毛?vt.刺穿
+bolster	n.垫子?v.支持?vt.支持；改善?n.垫子， 枕垫
+halt	n.停止?暂停?v.停止?使立定?v.停住， 停下?n.停止，阻止；暂停
+exhale	v.呼气?发出?v.呼出； 散发
+angstrom	n.[物理]埃(长度单位)
+microscopy	n.显微镜检查?显微镜使用
+narcotic	n.麻醉药?镇静剂?adj.麻醉的
+narcosis	n.昏迷状态? 麻醉
+embolism	n.加闰日? 栓塞
+abrasion	n.磨损?n.表面磨损
+proportionally	adv.成比例地?相称地
+virgo	n.室女宫?室女(星)座
+freighter	n.货船?承运人
+thinly	adv.稀疏地?瘦
+Andromeda	n.埃塞俄比亚的公主? 仙女座
+yardstick	n.<美> 码尺? 准绳
+exalt	v.晋升?vt.高度赞扬， 褒扬； 提升， 提拔
+monoxide	n.一氧化物
+ingot	n.[冶]锭铁? 工业纯铁
+grievance	n.委屈? 冤情? 不平
+conjectural	adj.推测的?好推测的
+knot	n.(绳等的)结?v.打结
+notch	n.槽口?刻痕?v.刻凹痕?n.等级，档次；
+oystercatcher	n.〈动〉蛎鹬
+shorebird	n.岸禽类鸟?沙禽
+photogrammetry	n.照相测量法
+mandible	n.下颚? 下颚骨
+attire	n.服装?v.打扮?n.穿着，服饰?vt.给…穿衣， 打扮
+unravel	v.拆开?拆开?v.澄清； 解体， 瓦解； 解开
+glassmaking	n.玻璃(或玻璃器皿等)制造(术)
+Katherine	n.凯瑟琳（女子名）
+malleability	n.有延展性? 柔韧性
+deft	adj.敏捷熟练的? 灵巧的
+baedeker	n.旅行指南? 入门手册
+sword	n.剑
+microfossil	n.微体化石?微化石
+entomb	v.埋葬? 成为的坟墓
+burgher	n.公民? 市民
+puffin	n.[鸟]角嘴海雀
+insoluble	adj.不能溶解的? 不能解决的
+reliability	n.可靠性
+unemployed	adj.失业的? 未被利用的
+immobility	n.牢固?不动
+hydrographic	adj.水道测量数的?水道学的
+portraiture	n.肖像画法?n.画像技法； 肖像， 画像
+talented	adj.有才能的
+homework	n.家庭作业? 副业
+filmmaker	n.电影摄制者
+understate	v.打着折扣说?有意轻描淡写?vt.轻描淡写， 避重就轻地说
+narrate	v.叙述?作解说?v.讲述， 叙述
+lean	n.倾斜?倚靠?v.依靠?倾斜?adj.贫乏的
+consort	v.结交?符合?n.配偶?vi.结交； 鬼混?n.配偶； 团伙
+gannet	n.塘鹅
+underwing	n.后翅? 后翅色彩瑰丽的蛾
+exorbitant	adj.（要价等）过高的?（性格等）过分的?adj.过高的， 不合理的
+gondwanaland	n.[地]冈瓦纳大陆
+gunpowder	n.黑色火药? 有烟火药
+herring	n.青鱼? 鲱
+earner	n.赚钱的人
+angular	adj.[生物] 有角的?生硬的?笨拙的?adj.有角的， 尖角的； 消瘦的， 瘦骨嶙峋的
+wren	n.[动] 鹪鹩
+kinglet	n.<贬>懦弱的国王?小国君主
+uniformity	n.一致?均匀?n.同样， 一致； 一致性
+priestess	n.女祭司? (基督教会以外的)神职人员
+neoclassical	adj.新古典主义的
+thousandfold	adv.千倍地?adj.千倍的
+enjoyment	n.享乐? 快乐
+forester	n.林务官? 森林人
+spoilage	n.损坏
+nonthreatening	adj.非胁迫的
+solder	n.焊料?v.焊接?vt.焊接?n.焊料， 焊锡
+harshness	n.粗糙的事物? 严肃? 刺耳
+collagen	n.胶原质
+idle	adj.空闲的?懒惰的?v.虚度? 闲散?adj.懒散的；没有工作的，闲散的；空闲的；漫无目的的；无用的，无效的?v.无所事事， 虚度
+sumptuous	adj.奢侈的?华丽的?adj.奢华的， 豪华的
+synchrotron	n.同步加速器
+landlord	n.房东?地主
+familiarity	n.熟悉?通晓?精通
+stringent	adj.严厉的?迫切的
+signature	n.签名?信号
+cabinetmaker	n.家具师?细工木匠
+supervisory	adj.监督的
+resentment	n.怨恨?愤恨
+purposely	adv.故意地?蓄意地
+irresponsibly	adv.不负责任地?不可靠地
+grapple	v.格斗?抓住?n.格斗
+revealingly	adv.启发人地?袒胸露肩地
+rearrange	v.再排列?重新整理
+roar	n.吼叫? 怒号?v.滚动?咆哮
+armory	n.兵工厂?军械库
+courtship	n.求爱? 求爱时期
+sleek	adj.圆滑的?使…光滑?adj.光滑而有光泽的；线条流畅的；时髦的?vt.使平整光亮
+corselet	n.盔甲?胸衣
+keel	n.龙骨(船的脊骨)?平底船?v.装以龙骨?倾覆
+secrecy	n.秘密?保密
+lira	n.里拉（意大利货币单位）
+livelihood	n.生计?谋生?n.生计， 谋生手段
+impediment	n.妨碍?口吃? 障碍物
+bow	n.弓?弓形?v.鞠躬?弯腰
+silhouette	n.侧面影象?轮廓?v.使…照出影子来
+inward	adv.向内?在内?adj.向内的?内在的
+marketable	adj.市场的?可销售的
+mudstone	n.[地]泥岩
+carcass	n.(屠宰后)畜体
+meteoritic	adj.陨星的?陨石的
+offshoot	n.分支? 支流
+inborn	adj.天生的?生来的
+stereotypical	adj.老一套的?陈规的
+manipulation	n.处理?操纵
+lifelike	adj.栩栩如生的?逼真的
+bipedal	adj.两足动物的?两足的
+antiquate	adj.旧式的?过时的
+chondritic	adj.球粒状陨石的
+replicate	v.复制?adj.复制的?v.复制； 再制， 再生
+painful	adj.疼痛的?使痛苦的
+weldon	n.韦尔登（男子名）
+stonework	n.石雕工艺? 做石工的场所
+uncle	n.伯父?叔父?援助者
+unanswered	adj.未答复的?无反应的
+greet	v.问候?向致意
+journalist	n.新闻记者?从事新闻杂志业的人
+mantel	n.壁炉架
+desalination	n.减少盐分? 脱盐作用
+reappear	v.再出现
+carton	n.硬纸盒? 纸板箱
+wan	adj.苍白的?病态的?v.(使)变苍白?adj.苍白的， 无血色的； 憔悴的
+elegance	n.高雅?典雅
+horsepower	n.马力
+airport	n.机场?航空站
+duchenne	n.杜氏营养不良症
+reopen	v.重开?再开始
+immutable	adj.不变的?不可变的?adj.不可改变的， 永恒不变的
+permeability	n.渗透性
+afterwards	adv.然后? 后来地
+consolidation	n.巩固? 合并
+waterfowl	n.水鸟? 水禽
+efficacious	adj.有效的?灵验的
+permeable	adj.有浸透性的? 能透过的
+fanwise	ad&?adj.呈扇形展开的
+riverbed	n.河床
+expertly	adv.熟练地
+stipulate	v.规定? 保证?v.规定， 明确要求； 约定
+sandbar	n.沙洲
+contingent	adj.可能发生的? 附随的?n.偶然的事情
+congenial	adj.意气相投的?性格相似的?adj.情投意合的； 相宜的， 适宜的； 适当的， 合适的
+faucet	n.龙头? (连接管子的)插口?n.龙头， 旋塞
+preponderance	n.优势?占优势?n.优势
+imperfect	adj.有缺点的?未完成的?n.未完成体
+homeotherm	n.<主美>恒温动物
+envy	n.羡慕?嫉妒?v.羡慕?嫉妒
+drape	n.窗帘?v.使褶皱
+drip	n.水滴?v.(使)滴下
+jewel	n.宝石
+practicality	n.实用性?实际
+pictorial	adj.图示的?n.画报?adj.图示的，有图片的；绘画的，图画的?n.画报， 画刊
+bland	adj.温和的?乏味的?v.变得乏味?adj.平淡的， 乏味的； 清淡的； 沉稳的
+unschooled	adj.天生的?未受学校教育的
+harmless	adj.无害的
+burgeon	n.嫩芽?v.萌芽?vi.迅速成长， 发展
+ashcan	n.垃圾桶? 深水炸弹
+literalness	n.文字的?表面意义上的
+flyspeck	n.污点?小斑?v.弄脏
+rennin	n.高血压蛋白原酶
+hormonal	adj.荷尔蒙的?激素的
+angiotensin	n.[医]血管紧缩素
+aldosterone	n.[生化]醛甾酮?醛固酮
+mandate	n.(书面)命令?训令?v.委任统治?v.强制执行； 授权?n.授权；委托书，授权令；任期
+mammalian	n.哺乳动物?adj.哺乳动物的
+unfairly	adv.不公平地?不正当地
+burdensome	adj.繁重的?难以承担的
+confederate	n.同盟者?同盟国?adj.同盟的?v.(使)联盟? 联合
+pardon	v.原谅?宽恕?n.原谅
+gymnastic	adj.体操的?体育的?n.训练课程
+peacetime	n.和平时期?adj.和平时期的
+nobility	n.高贵?贵族
+ponderous	adj.笨重的?沉闷的?adj.笨重的； 笨拙的； 沉闷的
+thresher	n.打谷者? 打谷机? [鱼]长尾鲨
+intentional	adj.故意的?策划的
+enactment	n.设定?制定?n.制订， 颁布； 法律， 法规
+seafood	n.海产食品? 海味
+besiege	v.围困?围攻?vt.包围； 使应接不暇
+unsubstantiated	adj.未经证实的?无事实根据的?adj.未经证实的， 无事实根据的
+unaware	adj.不知道的? 没觉察到的
+semimolten	adj.半熔的
+incinerate	v.把烧成灰?烧弃?vt.焚化， 焚毁
+topographical	adj.地志的?地形学的
+festival	n.节日?喜庆日?adj.节日的?快乐的
+canyon	n.<美>峡谷? 溪谷?n.峡谷
+falconer	n.以鹰狩猎者?养鹰者
+lien	n.留置权?抵押品所产生的利息
+starfish	n.海星
+dismember	v.肢解?割断手足
+unquestionably	adv.无可非议地?确凿地
+phylum	n.(生物分类学上的)门? 语群
+spinet	n.古时的小型竖琴? 小型立式钢琴?n.小型立式钢琴
+supremacy	n.地位最高的人?至高?霸权
+rumor	n.流言?谣言?v.谣传? 传闻?n.传闻， 谣言
+passageway	n.过道?出入口
+Gothic	n.哥特式?adj.哥特式的?野蛮的?adj.哥特式的，哥特风格的?n.哥特式建筑
+bluff	n.断崖?诈骗?adj.绝壁的?v.诈骗?v.虚张声势，吓唬?adj.直率的， 坦率的?n.悬崖，峭壁；虚张声势，唬人
+versatility	n.多功能性
+tonal	adj.音调的
+inconvenient	adj.不便的?打扰的?adj.不便的； 让人不舒服的
+contributor	n.贡献者?捐助者?n.投稿者； 贡献者， 捐助者； 促成物
+overcultivation	n.耕种过度
+saguaro	n.仙人掌之一种
+taproot	n.[植]主根? 直根
+firing	n.开火? 生火?v.开火?烧制
+distributor	n.发行人?经销商
+heed	n.注意?留意?v.注意?留意?n&v.注意， 留心
+dissatisfy	v.使感觉不满? 不满足
+adequacy	n.适当? 足够
+uninteresting	adj.无趣味的，乏味的
+minstrel	n.吟游诗人(或歌手)
+ling	n.鳕鱼? 石南之一种
+phosphate	n.磷酸盐
+apiece	adv.每个? 每人? 各
+walker	n.徒步者? 参加竞走者
+taut	adj.(绳子)拉紧的?紧张的?vt.使纠缠?adj.绷紧的； 肌肉结实的； 结构严谨的， 紧凑的
+spur	n.踢马剌?v.鞭策? 刺激?n.刺激；激励；马刺?vt.激励， 鼓舞； 刺激， 促进
+stretcher	n.担架? 延伸器
+hoof	n.蹄 v踢?n.蹄
+discolor	v.使脱色? (使)变色?(使)退色
+foreleg	n.前肢(指四肢或多肢动物的)前脚
+buckskin	n.鹿皮裤? 鹿皮
+fortify	v.增强(体力?结构等)?v.筑防御工事?vt.支持， 给…以勇气； 加强， 增强； 筑防御工事于
+suspender	n.吊裤带? 悬挂物? 吊杆? 袜吊
+buckle	n.带扣 v扣住? 变弯曲?v.扣紧； 变形， 弯曲?n.皮带扣环
+chafe	v.(将皮肤等)擦热? 使恼火?v.擦破， 擦痛； 恼怒， 焦躁
+tourniquet	n.止血带? 压脉器
+bandanna	n.大手帕?n.色彩鲜艳的围巾
+vestigial	adj.退化的?发育不全的
+harem	n.（伊斯兰教教徒之）闺房? 为一个雄性动物所控制的许多雌性动物
+nonfunctional	adj.不运行的
+everest	n.珠穆朗玛峰(世界最高峰)
+Monroe	n.门罗(m)
+jawbone	n.颚骨? 下颚骨? 信用 v赊买
+selective	adj.选择的? 选择性的?adj.选择的， 选择性的； 精挑细选的
+Iraq	n.伊拉克共和国
+grande	adj.重大的，显要的
+facelift	n.整容手术（除去面部皱纹）
+massif	n.山丘
+wireless	adj.无线的?n.无线
+sterilize	v.杀菌? 消毒? 使成不毛
+reenter	n.重进入? 再加入?v.重返
+logic	n.逻辑? 逻辑学?adj.逻辑的
+rapport	n.和谐? 亲善
+gripe	n.紧握? 柄?v.握紧
+socialization	n.社会化? 社会主义化
+Irish	n&a.爱尔兰人(的)?爱尔兰语（的）
+conglomerate	v.聚结?n.企业集团
+gang	n.(一)伙? (一)群?vi.合伙?n.一帮，一伙；帮派
+railhead	n.铺设中的铁路末端? 终点
+preferential	adj.优先的；选择的
+cerebral	adj.脑的? 大脑的?adj.大脑的； 理智的
+Kenya	n.肯尼亚
+alphabet	n.字母表
+cleanly	adv.干净地? 清洁地
+quina	n.[植]金鸡纳树皮? 奎宁
+unresolved	adj.未解决的，未决定的
+lunch	n.午餐
+exhilarate	v.使高兴? 使愉快
+choreography	n.舞蹈术? 舞台舞蹈
+teem	v.大量出现?vi.充满， 到处都是
+lately	adv.近来? 最近
+premiere	v.初次公演?n.初次的演出?adj.杰出的
+screening	n.放映?v.遮蔽?筛选
+Austrian	n.奥地利人?adj.奥地利的? 奥地利人的
+watershed	n.分水岭
+periodization	n.(历史等的)时期(或时代)划分
+homemaker	n.主妇
+substrate	n.（土地）底层?基础
+sustenance	n.食物? 生计? (受)支持?n.食物； 生计； 维持
+charitable	adj.慈善事业的?慷慨的?仁慈的
+tremendously	adv.非常地?可怕地?惊人地
+outlook	n.景色? 展望
+perceptive	adj.感知的?知觉的?adj.感知的， 知觉的； 有洞察力的， 理解力强的
+legacy	n.遗赠(物)? 遗产
+painstaking	n.辛苦?adj.辛苦的? 辛勤的?adj.煞费苦心的， 勤勉的
+unsure	adj.没有自信的? 不确定的
+loess	n.黄土
+reflectivity	n.反射率
+dishabituate	vt.使戒除(或放弃)习惯?使不习惯
+roughness	n.粗糙? 未加工? 粗糙程度
+responsiveness	n.响应能力?有同情心
+electro	n.电镀物品? 电版
+alkaline	adj.碱性的，碱的
+ballad	n.民歌? 流行歌曲
+ratify	v.批准? 认可?vt.正式批准， 使正式生效
+conflate	v.合并
+cardboard	n.纸板
+catechism	n.问答教学法? 问答集
+convection	n.传送? 对流?n.对流； 传送
+rewrite	v.重写? 改写
+counterbalance	v.使平均? 弥补?n.平衡量? 平衡力
+creditor	n.债权人
+regionalization	n.分成地区? 按地区安排
+cany	adj.藤的?状似手杖的
+telescopic	adj.望远镜的?[眼科] 远视的
+crayfish	n.小龙虾
+geophysical	adj.地球物理学的
+synchronize	v.同步?v.同步， 同时发生
+fluffy	adj.绒毛似的? 蓬松的
+militarily	adv.以武力? 以军事行动
+enforcer	n.实施者?强制执行者
+ostracize	v.(古希腊)贝壳放逐法? 放逐? 排斥
+chronobiology	n.[生]时间生物学? 生物钟学
+thinker	n.思想者? 思想家? 心智
+songwriter	n.歌曲作家，歌曲作者
+spotlight	n.聚光灯
+inducement	n.诱因? 刺激物
+vogue	n.、a流行（的）? 时髦（的）?adj.流行的， 时髦的?n.时尚，风气，流行
+overgeneralize	v.太笼统地概括
+keplerian	adj.开普勒理论的?开普勒定律的
+grinder	n.磨工? 研磨者
+Galilean	adj.伽利略的? 加利利的（位于巴基斯坦北部）
+align	v.排列，使结盟?v.结盟； 排整齐； 校准； 使一致
+diffusely	adv.广泛地?扩散地
+caucasian	n.高加索人?adj.高加索的? 白种人的
+Korean	n.韩国人? 韩国语 a朝鲜人的? 朝鲜语的
+crescent	n.新月? 月牙?adj.新月形的；逐渐增强的?n.新月； 新月形， 月牙形
+surrender	v&n.放弃? 投降?v.投降；放弃，交出?n.投降； 屈服， 屈从； 放弃
+gospel	n.〈圣经·新约〉福音书?n.准则， 信条； 绝对真理； [G-]福音； 福音音乐； 训示
+thirst	n.口渴?热望?v.渴望
+ductless	adj.无导管的
+garland	n.花环 vt戴花环
+recreate	v.(使)得到休养? (使)得到娱乐
+uncritical	adj.无批判力的?不加批判的
+resonator	n.共鸣器
+Jewett	n.朱厄特（姓氏）
+chaotic	adj.混乱的? 无秩序的?adj.混乱的， 无秩序的
+fen	n.沼泽? 沼池
+pretension	n.借口? 要求? 自负?n.要求， 主张； 自命不凡； 虚饰
+remuneration	n.报酬
+expressiveness	n.表现? 表示
+scant	adj.缺乏的?不足的 v节省?减少
+pancreatic	adj.胰的?胰腺的
+pancreas	n.[解]胰腺?n.胰腺
+juice	n.(水果)汁? 液?vt.榨出汁液?n.汁， 液
+celebratory	adj.快乐的
+digestion	n.消化力? 领悟
+endocrinology	n.内分泌学
+intestinal	adj.肠的
+secretin	n.分泌素
+hamlin	n.哈姆林（姓氏）
+crustacean	adj.甲壳类的?n.甲壳纲动物?n.甲壳类动物
+dragon	n.龙? 凶暴的人
+lobster	n.龙虾
+bliss	n.福佑? 天赐的福?v.狂喜
+empress	n.皇后? 女皇帝? 皇太后? 极有权力的女人?n.女皇， 皇后
+pomegranate	n.[植]石榴
+misunderstand	v.误解? 误会
+spatter	v.溅污 n滴落
+refurbish	v.再磨光? 刷新?vt.再装修， 重新装饰
+mottle	v.使有斑点 n杂色? 斑点
+doubtful	adj.可疑的? 不确的? 疑心的
+idealization	n.理想化? 理想化的事物
+fidelity	n.忠实? 诚实? 忠诚? 保真度? (收音机? 录音设备等的)逼真度? 保真度? 重现精度?n.忠诚， 忠实； 精确， 逼真
+appreciably	adv.略微? 有一点
+interdependent	adj.相互依赖的?互助的
+understandably	adv.可理解地
+misunderstanding	n.误会? 误解
+emblem	n.象征? 徽章?vt.用象征表示?n.徽章； 标记， 象征
+lyrical	adj.抒情诗调的? 充满感情的
+Yuan	n.元(中国货币单位)
+victimize	v.使牺牲?使受害
+uppermost	a&ad.至上的，最高的?adv.在最上面， 在最重要的位置?adj.最高的，最上面的；最重要的
+cheater	n.骗子? 欺诈者? 背叛者
+beggar	n.乞丐
+siliceous	adj.硅酸的；硅土的
+ape	n.猿
+discontent	n.不满a不满的vt使不满
+tressed	adj.有一绺绺长发的
+rib	n.肋骨vt戏弄
+bongo	n.非洲产大羚羊? 一种用手指敲的小鼓
+recital	n.朗诵? 背诵? 独奏会?n.音乐演奏会； 诗歌朗诵会； 赘述
+restaurant	n.餐馆? 饭店
+stir	n.轰动? 搅动?v.搅拌?激起?v.搅拌；煽动；激发，打动；行动，活动?n.搅拌， 搅动； 激动， 震动
+woodwind	n.木管乐器
+unsuccessful	adj.不成功的?失败的
+seeker	n.搜索者? 探求者
+unfavorably	adv.不利地?不适宜地
+chronological	adj.按年代顺序排列的?adj.按年代顺序排列的， 年代学的
+pylon	n.塔门? 路标塔
+decease	n.死亡?v.死
+cult	n.祭仪? 礼拜式
+colonel	n.陆军上校? 团长
+federalist	n.联邦党?联邦制拥护者
+biographical	adj.传记的?传记体的
+sonar	n.声纳? 声波定位仪
+perennial	adj.终年的? 长期的
+infiltration	n.渗透
+breakage	n.破坏? 破损? 破损量
+apace	adv.快速地? 急速地
+herbicide	n.除草剂
+compactness	n.紧密? 简洁
+springboard	n.跳板vi利用跳板
+genu	n.膝
+localization	n.地方化? 局限? 定位
+airborne	adj.空运的? 空气传播的?adj.空气传播的； 空运的
+rarity	n.稀有
+fend	v.保护? 供养
+beneficiary	n.受惠者? 受益人
+genotype	n.基因型
+affordable	adj.负担得起的
+myxoma	n.[医]粘液瘤
+reply	n.答复? 答辩v答复? 回击
+importation	n.进口? 输入品
+intaglio	n.凹雕? 阴雕vt凹雕
+elaboration	n.苦心经营? 详尽的细节
+congenital	adj.先天的?天生的?天赋的
+blockage	n.封锁? 妨碍
+photodissociation	n.[物][化]光离解?光解 (作用)?n.光解
+survivor	n.生还者? 残存物
+uninhabited	adj.无人居住的?杳无人迹的
+aphid	n.[动]蚜虫
+weekend	n.周末? 周末休假 a周末的
+Miami	n.迈阿密(美国佛罗里州达东南部港市)
+weekday	n.周日? 平日
+airway	n.空中航线? 通风孔
+outgassing	n.除气 v除气 a释气的
+overrun	n.泛滥成灾 v超过? 泛滥?v.超过，溢出；泛滥；横行?n.泛滥； 超出的部分
+fever	n.发烧? 狂热 v(使)发烧? 狂热
+Netherland	n.荷兰
+incorrectly	adv.错误地?不适当地
+Athens	n.雅典(希腊首都)
+tollgate	n.征收通行税的关卡? 关门
+bravely	adv.勇敢地
+unwilling	adj.不愿意的?不情愿的
+impressively	adj.令人难忘地? 令人印象深刻地
+overkill	n.过度的杀伤威力?v.超量杀伤
+Athenian	n./a雅典(人)(的)
+outskirt	n.外边? 郊区
+milligram	n.毫克
+supplier	n.供应者? 补充者?n.供应者， 供应商， 供货方
+closeness	n.紧闭? 狭窄
+stately	adj.庄严的? 堂皇的
+infinitesimally	adv.极小地
+viability	n.生存能力
+lyric	n.抒情诗? 歌词?adj.抒情的?n.抒情诗；
+uranus	n.天王星
+rocket	n.火箭
+keelboat	n.一种河船
+manageable	adj.易处理的，易管理的
+metaphor	n.隐喻? 暗喻?n.隐喻， 暗喻
+disaffection	n.不满
+requisition	n.正式请求；征用
+reprint	v.再版
+cheerful	adj.愉快的? 高兴的
+entwine	v.(使)缠住? (使)盘绕
+impermeable	adj.不能渗透的?adj.不可渗透的， 不透水的
+condenses	v.浓缩? 压缩
+pork	n.猪肉
+looseness	n.松开? 解除
+anchor	n.锚 v抛锚?v.抛锚；使固定；扎根，基于；主持?n.锚； 给人安全感的物， 精神支柱
+governmental	adj.政府的
+obey	v.服从? 顺从
+romanize	v.古罗马化? 用罗马字书写
+teacup	n.茶杯
+allay	v.减轻? 减少?vt.减轻， 减少
+characterization	n.描述? 人物之创造
+earthen	adj.土制的? 陶制的
+insistence	n.坚持? 坚决主张?n.坚持， 坚决主张
+whence	adv.从何处；从那里
+nonporous	adj.无细孔的
+fork	n.叉? 叉状物 vi分叉
+deed	n.行为，事迹；契约
+southernmost	adj.最南的
+landless	adj.无土地的，无陆地的
+enhancement	n.增进? 增加
+indeterminate	adj.不确定的? 含混的
+unbalance	v.使失衡?使精神紊乱n失衡
+conclusively	adv.最后地? 确定地
+fortuitous	adj.偶然的? 幸运的?adj.偶然的， 意外的
+hieroglyph	n.象形文字? 图画文字?n.象形文字， 象形符号
+admirable	adj.令人钦佩的?令人赞赏的
+democratization	n.民主化
+peacefully	adv.平静地? 和平地
+upheaval	n.剧变?n.剧变， 动乱， 大变动
+inflection	n.变形
+stocking	n.长袜
+radiometric	adj.辐射测量的? 辐射度的
+balkan	n&a.巴尔干半岛(的)
+thwart	v.阻挠?vt.阻碍； 使…受挫
+hieratic	adj.僧侣的? 僧侣用的?adj.僧侣的；
+fibrous	adj.含纤维的? 纤维性的?adj.含纤维的； 纤维状的
+pedagogic	adj.教师的? 教育学的? 教授法的
+floe	n.大浮冰? 浮殡冰块
+bony	adj.多骨的? 瘦骨嶙峋的?adj.瘦骨嶙峋的； 似骨的； 多骨的
+synonym	n.同义字?n.同义词
+listener	n.收听者? 听众
+conductivity	n.传导性? 传导率?n.传导性； 传导率
+physiology	n.生理学?n.生理学； 生理机能
+miocene	adj.中新世的? 中新统的
+eletricity	n.电? 电学
+nowhere	adv.无处?任何地方都不
+depiction	n.描写? 叙述
+gun	n.炮? 枪
+groom	v.刷洗 n新郎；马夫?v.刷洗；梳理毛发；培养，
+unfair	adj.不公平的
+prickly	adj.多刺的
+recurrent	adj.再发生的? 周期性的
+pear	n.梨子? 梨树
+monoid	n.独异点
+affront	v.侮辱，冒犯
+harper	n.弹竖琴者? 竖琴师
+discernible	adj.可辨别的
+selfish	adj.自私的
+Maine	n.缅因州(美国东北角的州)
+fad	n.时尚? 一时流行的狂热
+secretary	n.秘书? 部长
+shy	adj.怕羞的? 畏缩的
+catchment	n.排水?集水
+tambourine	n.小手鼓
+fluidity	n.流动性?变移性
+unhindered	adj.无阻的? 不受阻碍的
+fleet	n.舰队 v疾驰?掠过
+almanac	n.历书? 年鉴
+breathtaking	adj.令人赞叹的? 壮观的
+coniferous	adj.松类的? 结球果的
+loyalist	n.忠诚的人? 反对独立者
+pray	v.祈祷? 恳求
+incoming	adj.引入的?adj.引入的；新任的；正来临的，刚收到的?n.进来，到来；
+unpredictably	adv.不可预见地? 不能预料地
+scraping	v&n.刮，擦
+reorganize	v.改组? 整顿
+Turkic	n.土耳其语(的)? 土耳其语系者(的)
+immature	adj.不成熟的? 未完全发展的?adj.未成熟的， 未充分发展的
+accuracy	n.精确性? 正确度?n.准确， 精确
+momentarily	adv.暂时地? 立刻地
+overconfident	adj.自负的? 过于自信的
+expansionist	n&a.扩张主义(的)
+boss	n.老板? 上司 vt指挥
+crowbar	n.撬棍? 铁橇
+interdependence	n.互相依赖
+till	prep.直到? 在以前
+inappropriate	adj.不适当的? 不合宜的
+jar	n.罐子 v刺激，震动?v.震动；冲突，抵触；感到不快?n.坛子； 广口瓶
+residue	n.残渣? 剩余物?n.剩余物， 残余物
+enterprising	adj.有事业心的? 有进取心的
+moisten	v.弄湿 vi变潮湿
+medicinal	adj.药物的，治疗的
+tribespeople	[复]n.部落(或宗族等)成员
+unattractive	adj.无魅力的? 无吸引力的
+envelope	n.信封? 封套?n.信封
+crucible	n.坩锅? 严酷的考验
+misty	adj.有薄雾的
+unbreakable	adj.不易破碎的? 牢不可破的
+thumb	n.拇指
+intermittently	adv.间歇地
+flotation	n.浮选
+healthful	adj.有益健康的
+hydration	n.水合作用
+leafcutter	n.[昆]南美切叶蚁
+zagros	n.扎格罗斯山脉[伊朗西南部]
+Arabian	n.阿拉伯人 a阿拉伯(人)的
+willingness	n.乐意? 愿意
+marketplace	n.集会场所? 市场
+unconsciously	adv.无意识地；不觉察地
+forebear	n.祖先? 祖宗
+topography	n.地形学?n.地形学； 地形， 地貌
+clergyman	n.牧师? 教士
+perm	v./n电烫（头发）
+Haiti	n.海地
+disintegrate	v.分裂成小片，瓦解?v.瓦解； 碎裂
+moody	adj.易怒的? 情绪化的
+faithful	adj.守信的? 忠实的
+kink	n.结 v纠结?纽绞
+hydroelectric	adj.水力电气的
+favorably	adv.赞同地? 亲切地
+proud	adj.自豪的? 得意的
+preferably	adv.更好地?宁愿
+driveway	n.车道
+spacecraft	n.太空船?n.航天器， 宇宙飞船
+hermit	n.隐士? 隐居者
+hurry	v.赶紧?匆忙?v.使加快，催促；赶快，匆忙?n.急忙， 匆忙， 仓促
+pathway	n.路? 径
+guideline	n.方针?n.指导方针，指导原则
+November	n.十一月(略作Nov)
+lvory	n.象牙
+deluge	n.洪水? 豪雨
+minutely	adj.每分钟的?持续的
+landlocked	adj.陆地包围的? 内陆水域的
+monolithic	n.单片电路? 单块集成电路
+cohesiveness	n.粘合? 凝聚性
+peculiarly	adv.古怪地? 特有地
+oceanographic	adj.海洋学的
+turnip	n.[植]芜箐(甘蓝)
+deck	n.甲板? 舰板
+congestion	n.拥塞? 充血
+engender	v.造成
+workplace	n.工作场所
+meticulous	adj.一丝不苟的? 缜密的?adj.细心的， 小心翼翼的
+fluent	adj.流利的? 流畅的
+impermanence	n.暂时? 无常
+impenetrable	adj.不能穿过的? 不可理喻的?adj.不能穿透的； 不可理解的， 高深莫测的
+expendable	n.消耗品? 可牺牲的
+undeniable	adj.不可否认的? 无可辩驳的
+backbreaking	adj.非常辛苦的?极累人的
+commercialize	v.使商业化
+landsman	n.同胞?同乡
+albedo	n.[天文](星体)反照率
+verbalizable	adj.可用言辞表达的
+gist	n.要点? 要旨?n.主旨， 要点， 大意
+doll	n.洋娃娃? 玩偶
+forefront	n.最前部? 最前线?n.最前沿， 最前线； 中心
+classicism	n.古典主义?古典风格
+foresight	n.远见? 深谋远虑
+infertile	adj.贫瘠的? 不能生育的
+horticultural	adj.园艺的
+parcel	n.包裹 vt打包? 捆扎
+hospitalize	v.就医? 使住院
+scanty	adj.缺乏的?不足的
+verbally	adv.用言辞地? 口头地
+juicy	adj.多汁(液)的
+physiologically	adv.生理上? 在生理学上
+chipmunk	n.[动] 花栗鼠
+birthday	n.生日
+jay	n.松鸡；鸟
+wine	n.(葡萄)酒
+circumstantially	adv.因情形地? 附随地
+repute	n.名誉? 名声 v认为?v.称为，认为?n.名声， 名誉
+grizzly	adj.灰(白)色的
+zoo	n.动物园
+Americanism	adj.美国所创? 美国风俗? 美国精神
+implicate	v.含意? 暗示
+shortwave	n.短波
+processor	n.加工业者；处理机
+fleshy	adj.肉的? 多肉的
+fallout	n.辐射微尘? 原子尘? 附带结果
+pluralism	n.复数? 兼职?n.多元化， 多元性； 多元主义
+alumnus	n.男毕业生? 男校友?n.校友，毕业生
+tenet	n.原则?n.原则； 信条； 教义
+logger	n.樵夫? 圆木装车机
+geochemical	adj.地球化学的
+cloudlike	adj.云雾状的
+aide	n.助手? 副官
+vegetative	adj.植物生长的?植物人状态的?adj.植物的； 有生长力的
+quickest	adj.最快的
+overgrow	v.长满
+enlargement	n.放大
+downhill	adv.下坡；向下
+idiomatic	adj.地道的 成语的
+chromosphere	n.色球
+nonproductive	adj.非生产性的
+grammar	n.文法
+caliber	n.口径? 才干
+photosphere	n.光球
+millet	n.[植]稷? 粟
+ruler	n.统治者? (直)尺
+intimacy	n.亲密? 隐私
+coalescence	n.合并? 接合
+tantamount	adj.同等的?相当于
+rag	n.抹布
+zero	num.零点? 零度
+forever	adv.永远? 永恒
+preen	v.整理羽毛，(人)打扮修饰
+marvelously	adv.奇迹般地?奇异地
+cavalry	n.骑兵
+unacceptable	adj.不能接受的? 不受欢迎的
+unprofitable	adj.没有利润的? 无益的
+fray	n.吵架?v.磨破，恼火?vi.磨损，磨破；烦躁，恼火?n.争斗
+reradiate	vt.再辐射(转播)
+tinge	n.(清淡的)色调 vt给…着色
+weld	v& n.焊接，焊缝
+fanners	n.电风扇?通风机
+attractiveness	n.魅力? 吸引力
+unparalleled	adj.无比的? 空前的?adj.空前的， 无比的
+saddle	n.鞍；(自行车)座 vt装鞍?n.马鞍；车座?vt.给…备鞍
+dyestuff	n.染料
+disadvantageous	adj.不利的
+southerner	n.南方人? 居住在南方的人
+drab	adj.土褐色的? 单调的
+resourcefulness	n.足智多谋
+micronesian	n&a.密克罗尼西亚人(的)
+outrigger	n.(承力外伸)支架
+ere	pron&conj.在…之前
+usable	adj.[亦作useable] 可用的? 合用的
+anew	adv.重新? 再
+ironically	adv.具有讽刺意味地；嘲讽地
+genre	n.类型? 流派?n.类型； 流派
+visually	adv.在视觉上地? 真实地
+primacy	n.首位
+sago	n.西米? 西米椰子
+breadfruit	n.面包果树
+taro	n.芋头
+sugarcane	n.[植]甘蔗
+predetermine	v.预先确定
+nobody	pron.无人? 没有任何人
+unsuspected	adj.未知的? 未被怀疑的
+nitrate	n.[化]硝酸盐? 硝酸钾
+exportation	n.出口
+extremity	n.极度，绝境?n.末端； 极端， 极度
+converse	v.交谈 n反面说法 a相反的?vi.交谈，会话?adj.逆向的，相反的?n.相反的事物； 反面
+grounding	n.基础训练? 染色的底色? [电]接地
+spillage	n.溢出? 溢出量
+curiously	adv.好奇地
+redesign	v&n.重新设计
+citizenry	n.公民成市民(集合称)
+scenario	n.剧情说明书，剧本
+wad	n.填料 vt填塞
+smelter	n.熔炉? 熔炼工
+diamond	n.钻石?金钢石
+crook	v.使弯曲
+pennycress	n.[植]菥蓂
+hydroponically	n.水耕法? 水栽培
+petiole	n.叶柄? 柄部
+conveniently	adv.方便地；合宜地
+paramount	adj.极为重要的?adj.至为重要的； 最高权力的， 至尊的
+Shoshone	n.美国休休尼族印第安人?休休尼语
+oxfordshire	n.牛津郡[英国]
+gaslit	adj.以煤气灯照明的
+londoner	n.伦敦人
+microbe	n.微生物? 细菌?n.微生物， 细菌
+tepee	n.美国印第安人的圆锥形帐篷
+Pawnee	n.波尼族人(语)
+experimenter	n.实验者
+inter	v.埋葬
+spare	adj.备用的；多余的?adj.备用的；空闲的?vt.抽出；免除?n.备用品
+handsomely	adv.漂亮地?慷慨地
+outcrop	n.露出地面的岩层
+breadth	n.宽度? (布的)幅宽? (船)幅
+parish	n.教区
+nucleic	adj.核的
+pavement	n.人行道? 公路
+avid	adj.渴望的
+pity	v.可怜 n怜悯? 同情
+totality	n.全部，总数
+emigration	n.移民出境? 侨居
+patriarch	n.家长? 族长? 创办人?n.家长， 族长
+grandeur	n.庄严? 伟大
+detritus	n.碎石
+abound	v.富于? 充满?vi.富于； 大量存在； 充满
+lipid	n.脂质? 油脂?n.脂质， 类脂
+smoky	adj.冒烟的? 烟状的
+primeval	adj.原始的? 早期的
+viral	adj.滤过性毒菌的?adj.病毒的， 病毒引起的
+subtraction	n.减少
+concentric	adj.同中心的? 同轴的?adj.同心的
+iconography	n.肖像学? 肖像画法
+mite	n.微小的东西
+innate	adj.先天的? 天生的?adj.天生的， 固有的； 内在的， 直觉的
+indigenous	adj.本地的? 天生的?adj.本地的， 本土的； 土产的； 土著的
+fog	n.雾? 烟雾
+graceful	adj.优美的
+toehold	n.（攀岩时的）立足点?（发展的）起点
+wise	adj.英明的? 明智的
+eon	n.永世? 无数的年代
+cuspidor	n.痰盂
+activist	n.激进主义分子? 行动主义分子
+hue	n.色彩，色调?n.颜色； 色度， 色调； 信仰， 观点； 形式， 样子
+weakly	a&ad.虚弱地? 软弱地
+doorknob	n.门把手
+incessant	adj.不断的? 无尽的?adj.不断的， 不停的
+fancy	v.喜欢n爱好；想象力
+widow	n.寡妇
+tieback	n.牵索? 拉条
+afloat	a&ad.飘浮的? 传播的?adv.漂浮地?adj.漂浮的；有偿债能力的，能维持下去的
+mistrust	n&v.不信任? 猜疑
+interviewer	n.会见者
+affectional	adj.情感上的? 爱情的
+southerly	adj.向南方的 ad在南方
+covering	n.遮盖物
+shopper	n.购物者
+correspondingly	adv.相应地
+varicolored	adj.杂色的? 多色的
+psychoanalyst	n.心理分析学者
+stagecraft	n.编剧才能?演出技术
+lifeblood	n.生命必须的血液? 活力的源泉
+autobiography	n.自传
+bedpan	n.便盆? 睡床用脚炉
+duet	n.二重奏
+daughter	n.女儿
+sentimentalized	v.流于感伤? 变多愁善感
+rentable	adj.可出租的
+voluminous	adj.卷数多的?大量的
+stint	v.紧缩?节省
+wand	n.魔杖；[乐]指挥棒
+cud	n.反刍的食物
+inhibition	n.禁止? 阻止
+innocent	adj.清白的? 无罪的? 天真的?adj.天真的； 清白的； 无恶意的
+chomp	v.大声地咀嚼? 反复咀嚼
+civic	adj.市的? 市民的
+inconsistency	n.矛盾
+perceivable	adj.可知觉的
+posit	v.安置?vt.安排； 假定
+incompletely	adv.不完全地
+subjugate	v.使屈服，征服?vt.征服， 制伏， 使服从
+lamina	n.薄板? 薄层
+uniformitarianism	n.[地质]均变论
+guidance	n.指导? 领导
+disappoint	v.使失望?v.失望， 扫兴
+wit	n.智力? 才智?n.智力， 才智； 风趣； 机智幽默的人
+contributory	adj.贡献的? 捐助的?adj.贡献的； 捐助的； 促进的
+beloved	adj.心爱的 n所爱的人
+ration	n.定额? 定量?n.配给量，定量；给养，口粮?vt.配给， 定量供应
+sunshine	n.阳光
+exponent	n.阐述者?倡导者?n.解释者； 倡导者， 拥护者； 指数， 幂
+intellectually	adv.理智地? 与智力(或思维)有关地
+concoct	v.编造；调制
+darling	n.心爱的人? 亲爱的
+leaning	n.倾斜? 倾向
+seclusion	n.隔离?n.独处， 隐居； 隔离； 与世隔绝， 归隐
+vulnerability	n.弱点? 攻击
+candid	adj.率直的? 坦诚的?adj.坦白的， 直率的， 直言不讳的
+puritan	n.清教徒 a清教徒的
+regurgitate	v.反刍?（液体）回流
+ruminate	v.反刍? 沉思
+milkweed	n.乳草属植物
+divergent	adj.分歧的?分开的? 偏离的
+unproven	adj.未经证明的? 未经检验的
+permafrost	n.[地]永久冻结带
+stocky	adj.矮壮的? 健壮结实的
+convergence	n.集中? 收敛
+conceivably	adv.可想到地? 想象中
+rat	n.老鼠
+statistical	adj.统计的? 统计学的
+Venice	n.威尼斯(意大利港市)
+tiffany	n.纱的一种
+hardware	n.五金器具?n.五金制品， 金属制品； 硬件
+bunch	n.串? 束 v捆成一束?v.捆成一束； 聚集?n.簇，束，捆；帮，伙
+uproot	v.连根拔起? 根除?v.根除； 离开家园
+unnatural	adj.不自然的? 反常的
+powerfully	adv.非常地?强有力地
+nursing	n.看护? 养育
+enamel	n.珐琅? 瓷釉
+gossamer	n.蛛丝，薄纱 a轻而薄的
+unnecessarily	adv.不必要地? 徒然
+cube	n.立方体? 立方?n.立方体； 立方形的东西； 立方
+monogamous	n.一夫一妻的? 单配的?adj.一夫一妻制的； 单配的
+unwieldy	adj.笨重的，笨拙的
+coloration	n.染色? 着色
+butler	n.仆役长? 男管家
+Caribbean	n.加勒比海
+anatomy	n.剖析? 解剖学?n.解剖； 解剖构造； 剖析
+flop	v.猛落，惨败
+pulse	n.脉搏? 脉冲?n.脉搏， 脉率； 脉冲
+genuinely	adv.真正地? 由衷地
+bomb	n.炸弹 vt投弹于
+flint	n.打火石? 燧石?n.燧石， 打火石
+vicissitude	n.变迁兴衰
+suitably	adv.合适地? 适宜地
+colorless	adj.无色的? 无趣味的
+cider	n.苹果酒?n.苹果酒； 苹果汁
+bard	n.吟游诗人
+presage	n.预兆 v预示
+flatboat	n.(浅水)平底船
+onion	n.洋葱
+peal	n.钟声 v(使)鸣响
+mow	v.割(草)
+professionalism	n.职业水准或特性? 职业化
+monochrome	n.单色 单色的
+incessantly	adv.不间断地?adv.不断地
+damper	n.风阀? 减音器
+lightweight	n.轻量级选手? 不能胜任者
+polychrome	adj.彩饰的 n多彩艺术品
+coriander	n.[植]胡荽
+tedium	n.厌烦? 沉闷?n.单调， 乏味
+foothill	n.山麓小丘? 丘陵地带
+momentous	adj.重要的? 重大的?adj.重大的， 重要的
+chateau	n.城堡
+provincialism	n.地方风尚?n.地方主义， 乡土性
+husk	n.外壳；v剥壳?削皮?n.外壳，外皮?vt.去壳， 削皮
+seashell	n.海贝壳
+emigrant	n.移居外国者? 移民
+quitter	n.轻易停止的人? 懦夫
+unsettle	v.不安
+unending	adj.不断的? 不断重复的
+eradication	n.连根拔除? 根除
+fun	n.娱乐? 玩笑
+upriver	adj.上游的 ad在上游
+reorient	v.重定的方向(或方位)
+portend	v.预示
+neatness	n.整洁? 干净
+nonnative	n.非本地的? 非本地人
+chug	n.轧轧响声?v.发出轧轧声
+intercommunity	n.共同性? 共有
+shear	v.剪? 剪切?v.剪； 切断， 剪切
+townspeople	n.市民? 镇民
+biogeochemical	adj.生物地球化学的
+loder	n.[计]装填器
+homespun	n.手织物
+unwelcome	adj.不受欢迎的? 讨厌的
+avoidable	adj.可避免的
+predetermined	adj.预订的
+unselective	adj.非选择性的
+sensitively	adv.易感知地? 神经过敏地
+authenticity	n.确实性? 真实性
+discredit	v.怀疑 n丧失名誉?vt.使丧失声誉；使怀疑?n.名誉丧失
+superorganisms	n.[生]超个体(指群居昆虫等的群体)
+exclusion	n.排除? 除外
+floodplain	n.泛洪平原? 漫滩
+preservative	n.防腐剂
+sill	n.基石(岩床底面)
+insightful	adj.有深刻见解的? 富有洞察力的
+misdeed	n.罪行? 犯罪
+salmonberry	n.美洲大树莓
+optimization	n.最佳化? 最优化
+snugly	adv.舒适温暖地? 整洁地
+dripstone	n.滴水石
+counterexample	n.反例
+dapple	n.斑纹? 斑点?v.(使）有斑纹
+multifaceted	adj.多层面的
+flesh	n.肉，果肉
+alluvial	adj.冲积的? 淤积的
+welt	n.鞭痕? 贴边vt贴边于
+rootless	adj.无根的? 无根据的
+fecund	adj.生殖力旺盛的? 多产的
+proliferation	n.增殖? 分芽繁殖
+loam	n.肥土
+petticoat	n.衬裙? 裙子
+stratify	v.(使)成层
+basketwork	n.编织物
+commercialization	n.商品化
+acidity	n.酸度? 酸性? [医]酸过多? 胃酸过多?n.酸度； 酸性
+tray	n.盘? 碟
+intently	adv.专心地? 集中地
+separable	adj.可分离的? 可分的
+breast	n.胸脯，乳房
+thimble	n.顶针；嵌环
+cyclic	adj.循环的?周期性的
+worst	a& ad.最坏(的)，最差(的)
+buyer	n.买主? 顾客
+lop	v.剪去? 砍掉
+harmfully	adv.伤害地?有害地
+boxlike	adj.象箱子一样的
+amazingly	adv.惊奇地? 惊人地
+pinhole	n.针孔? 小孔
+admittedly	adv.不可否认的? 公认地
+maternal	adj.母亲的? 母系的?adj.母亲的， 母系的
+wintertime	n.冬? 冬季
+pliable	adj.柔顺的?adj.易弯曲的， 柔韧的； 易受影响的； 顺从的
+anthropologically	adv.人类学上
+cobble	n.圆石?鹅卵石?v.修补
+literate	adj.有读写能力的；有文化修养的
+totemism	n.对图腾的信仰? 图腾制度
+enigmatic	adj.谜的? 莫明其妙的
+allusion	n.提及? 暗示
+proclivity	n.倾向
+awkwardly	adv.笨拙地? 无技巧地
+recount	v.叙述?v.讲述， 描述； 重新清点， 重计
+sorrow	n.悲哀? 悲痛
+escutcheon	n.有花纹的盾? 锁眼盖? 孔罩
+horticulturalist	n.园艺家
+alphabetically	adv.按字母表顺序地
+carelessly	adv.粗心地；疏忽地
+supermodel	n.超级名模
+brusquely	adv.唐突地? 粗率地
+stubble	n.短须? 麦茬
+solely	adv.独自地? 单独地
+flout	vt&n.轻视? 嘲笑
+chihuahua	n.吉娃娃(一种产于墨西哥的狗)
+morphological	adj.形态学的
+reactive	adj.反应的? 反作用的
+Philippine	adj.菲律宾的? 菲律宾人的
+geothermally	adj.地热的
+inflow	n.流入? 流入物
+subfreezing	adj.低于冰点的
+anthropomorphism	n.拟人论?拟人观
+confinement	n.限制? 禁闭
+centrally	adv.在中心? 在中央
+incapacitated	vt.使不能
+onslaught	n.冲击?n.冲击； 攻击， 猛攻
+industrialist	n.工业家? 实业家
+soloist	n.独奏者? 独唱者?n.独奏者， 独唱者， 单独表演者
+interstitial	adj.空隙的? 裂缝的
+intertidal	n&a.潮间带(的)
+sickness	n.疾病? 呕吐
+noble	adj.高尚的?贵族的
+pony	n.矮种马，小马
+morale	n.士气? 民心?n.士气， 斗志
+buddy	n.<美口>密友? 伙伴?n.密友； 搭档， 伙伴
+pristine	adj.质朴的
+sludge	n.软泥? 淤泥
+Swiss	n./ a瑞士(的)? 瑞士人(的)
+hallmark	n.特点
+beau	n.花花公子
+vibrato	n.颤音? 振动
+sparrow	n.[鸟]麻雀
+blackbird	n.山鸟类
+rhythmic	adj.节奏的? 合拍的
+waling	n.横撑
+lacuna	n.空白? 空隙
+enigma	n.谜? 难以理解的事物
+tendon	n.[解]腱?n.腱
+fiddler	n.拉提琴的人?游手好闲的人
+carnival	n.狂欢节? 饮宴狂欢
+assemblage	n.集合? 集会
+saucer	n.茶托? 碟子
+dedication	n.贡献? 奉献?n.献身， 奉献； 献词； 奉献仪式
+qualitatively	adv.质量上
+redwing	n.[动](欧洲产的)红翼鸫
+vigilance	n.警戒? 警惕?n.警戒， 警惕
+adventurous	adj.冒险的；惊险的
+telltale	adj.泄密的
+ordinance	n.法令，条例
+tether	n.范围
+syrup	n.糖浆? 果汁?n.糖浆
+gild	v.镀金
+ductile	adj.易延展的? 易教导的?adj.有延性的， 韧性的； 易引导的， 易受影响的
+sewerage	n.排水设备? 污水?n.排水系统； 污水处理； 污水
+dissolution	n.分解? 解散
+urbanity	n.有礼貌? 文雅
+avoidance	n.避免
+permineralization	n.完全矿化
+amenable	adj.顺从的；对…负有责任(义务)的?adj.顺从的， 服从劝导的； 有服从义务的
+binge	n.狂闹? 狂欢
+quicksand	n.流沙? 敏捷
+modernization	n.现代化
+cabbage	n.[植]甘蓝? 卷心菜
+malleable	adj.有延展性的? 可锻的?adj.有延展性的， 易成型的； 易受影响的， 可塑的
+einkorn	n.单粒小麦
+carrot	n.胡萝卜
+unanticipated	adj.不曾预料到的
+pistachio	n.[植]阿月浑子树
+dredge	n.挖泥机 v挖掘
+propriety	n.适当
+glassware	n.玻璃器具类
+affluent	adj.丰富的? 富裕的?adj.丰富的； 富裕的
+courtyard	n.庭院? 院子
+singleton	n.一个? 独身
+nationalistic	adj.国家主义的
+deteriorates	v.恶化，变坏
+stabilization	n.稳定性
+aspire	v.热望? 立志?v.有志于； 热望， 向往
+joinery	n.木工职业
+mechanically	adv.机械地；无意识地
+windswept	adj.风刮的? 被风吹扫的
+swiftness	n.迅速，敏捷
+radioactivity	n.放射能
+seabird	n.海鸟(如海鸥)
+Reykjavik	n.雷克雅末(冰岛首都)
+brook	n.小溪 vt容忍
+polarize	v.(使)偏振? (使)极化
+degas	v.除去瓦斯
+midnight	n.午夜
+Utah	n.犹他州(略作Ut?UT)
+trickle	v.滴流
+admiral	n.海军上将? 舰队司令
+slat	n.板条v打击
+hydrosphere	n.水圈? 水气
+geyser	n.天然热喷泉
+stabilizer	n.稳定器? 安定装置
+exoskeleton	n.[动] 外骨骼
+dimply	adj.有酒窝的? 有凹处的
+clamor	n.喧闹?n.吵闹， 喧哗
+enjoyable	adj.有趣的? 愉快的
+reluctantly	adj.不情愿地；勉强地
+overbalance	v.失去平衡
+carbonization	n.碳化(物)
+marshland	n.沼泽地
+viscera	n.内脏?内部的东西
+lethal	adj.致命的 n致死因子?adj.致命的； 破坏性极大的， 极其有害的
+superbly	adv.雄伟地? 壮丽地
+shipwright	n.造船者?n.造船者， 造船工人； 修船工
+ghostly	adj.可怕的
+thrift	n.节俭
+conservatism	n.保守主义
+leaky	adj.漏的
+blacken	v.使变黑? 诽谤
+fiercely	adv.猛烈地? 厉害地
+fox	n.狐狸 v奸狡地行动
+verb	n.[语]动词
+faultfinding	n.找茬?挑剔
+steadfastly	adv.踏实地? 不变地
+untold	adj.未说过的?未透露的
+venue	n.审判地? 集合地
+encapsulate	v.装入胶囊，压缩
+evanescent	adj.迅速消失的? 短暂的
+archipelago	n.群岛? 多岛海
+usefully	adv.有用地
+encyclopedia	n.百科全书
+multivolume	adj.多卷的
+supportive	adj.支持的
+anathema	n.诅咒
+patty	n.小馅饼
+workmanship	n.手艺? 技艺
+untraditional	adj.非传统的?不符合传统的
+modernist	n.现代主义者? 现代人
+bergere	n.围手椅
+mainstream	n.主流?n.主流， 主要倾向； 主流思想
+photojournalism	n.摄影新闻工作
+regionalist	n.地方主义者? 地方主义作家
+reportedly	adv.据传说? 据传闻
+reachable	adj.可达成的? 可获得的
+stratosphere	n.平流层? 高层次
+Americana	n.有关美国的文物? 史料
+desirability	n.愿望? 希求
+inflexibly	adv.不弯曲地? 不屈地
+implausible	adj.难信的? 似乎不合情理的
+convincingly	adv.令人信服地? 有说服力地
+unwillingness	n.不愿意? 不情愿
+generically	adv.属类地? 属类上
+stronghold	n.要塞? 据点
+drench	v.湿透?vt.使湿透
+industrially	adv.企业[工业]地
+restatement	n.再声明? 重述
+constituency	n.(选区的)选民? 支持者
+eclectic	adj.折衷的?n.折衷主义者
+preparedness	n.有准备? 已准备
+eyeball	n.眼球? 眼珠子
+persuasive	n.说服者a善说服的?adj.有说服力的， 让人信服的
+seedy	adj.多种子的? 结籽的
+thoughtfully	adv.思虑地? 仔细地
+square	adj.正方形的?平方的 n正方形；广场?adj.正方形的；成直角的，方的；平方的?n.正方形；广场；平方?vt.使成正方形； 求平方； 使打成平局
+plethora	n.过剩?过量
+openly	adv.不隐瞒地? 公然地
+conditioner	n.调节者? 调节装置
+dung	n.粪 vt施粪肥于
+substantive	adj.独立存在的，直接的
+replenishment	n.补给? 补充
+fanner	n.通风机
+globally	adv.世界上? 全世界
+invigorate	v.鼓舞
+civet	n.[动物]麝猫
+setup	n.装备? 安装?计划
+untrue	adj.不真实的? 不正确的
+rephrase	v.改述
+overproduction	n.生产过剩
+moat	n.护城河? 城壕
+replica	n.复制品
+aridity	n.干旱? 乏味
+purge	v.清洗(除) n清洗
+therapist	n.临床医学家
+attacker	n.攻击者
+regrettable	adj.可惜的? 遗憾的
+cheer	n& v.欢呼
+schist	n.[地]片岩
+Thai	n.泰国人? 泰国语
+rime	n.结晶? v使蒙霜
+loyally	adv.忠诚
+artiste	n.技艺家
+symbolically	adv.象征(性)地
+misinterprete	v.误解
+controllable	adj.可管理的? 可控制的
+categorically	adv.断然地? 明确地
+outwit	v.瞒骗? 以智取胜
+intelligently	adv.聪明地；理智地
+problematic	adj.问题的? 有疑问的
+restlessness	n.辗转不安? 烦躁不安
+uncarved	adj.没雕刻的
+macaque	n.短尾猿
+villager	n.村民
+fallacy	n.谬误? 谬论
+vitascope	n.老式放映机
+unfocused	adj.未聚焦的?无焦点的
+anyplace	adv.任何地方
+stealthy	adj.鬼鬼祟祟的? 秘密的
+beng	n.大麻
+hut	n.小屋? 棚屋
+douse	v.熄灭；浸，洒
+silvery	adj.含银的?银色光泽的
+healer	n.医治者? 治病术士
+holy	adj.神圣的? 圣洁的
+diviner	n.占卜者? 占卦的人
+panhandle	n.狭长地带 v乞讨
+belter	n.非常好? 出色的例子
+foe	n.敌人?危害物
+terylene	n.涤纶
+humorously	adv.幽默地? 滑稽地
+nylon	n.尼龙
+nowadays	adv.现今? 现在
+permission	n.许可? 允许?n.允许， 同意； 许可证， 书面许可
+crease	n.折缝，皱褶 v(使)起皱
+rayon	n.人造丝? 人造纤维?n.人造丝， 人造纤维
+indigo	n.靛? 靛青
+woad	n.[植]菘蓝
+needlelike	adj.针状的
+mote	n.尘埃? 微粒
+salal	n.[植](产于北美洲太平洋沿岸的)沙龙白珠树
+abnormality	n.变态 畸形
+hugely	adv.巨大地? 非常地
+acetate	n.[化]醋酸盐
+micronutrient	n.[生]微量营养素
+turmeric	n.[植]姜黄? 姜黄根? 姜黄根粉末
+saffron	n.[植]藏红花
+overprint	vt& n.套印? 印戳
+religiously	adv.虔诚地? 笃信地
+storyteller	n.说故事的人? 作家
+ritualize	v.使仪式化? 奉行仪式主义
+teller	n.讲话的人? 告诉的人
+abruptness	n.唐突?粗鲁
+pantomimic	adj.哑剧的
+slider	n.滑雪者? 滑冰者
+subglacial	adj.冰川下的
+rhythmically	adv.有节奏地
+cleverness	n.聪明? 机灵
+bombardment	n.炮击? 轰击
+lounger	n.漫步的人? 懒人
+northward	adv.向北?adj.向北的
+dugout	n.防空洞? 独木舟
+moccasin	n.鹿皮鞋? 软拖鞋
+interruption	n.中断? 打断
+chronologically	adj.按年代的
+episodic	adj.插曲式的?短暂的
+fiord	n.(尤指挪威的)海湾? 峡湾
+colosseum	n.罗马圆形大剧场(建于公元80年?耗时5年?至今大部分尚存)
+holder	n.持有者? 占有者
+achievable	adj.做得成的? 可完成的
+fixation	n.固定? 注视
+uncooperative	adj.不合作的? 不配合的
+hub	n.中心?轮轴
+meteoroid	n.流星体
+threadlike	adj.线状的
+pulp	n.酱；果肉；纸浆?vt.使成浆状?n.纸浆； 浆状物
+physician	n.医师? 内科医师?n.内科医生
+sod	n.草地
+clench	v.捏紧；紧紧握住?v&n.握紧， 抓牢； 咬紧
+fist	n.拳头
+supplementation	n.增补?补充
+disrepute	n.坏名声?n.坏名声， 不光彩
+herein	adv.在此处? 此中
+sugarlike	adj.类糖的(糖似的)
+rake	n.耙子? 斜度
+survivability	n.残存性
+theological	adj.神学(上)的
+dorsal	adj.背的? 脊的?adj.背部的， 背脊的
+irritability	n.过敏性? 兴奋性
+neurilemmal	adj.神经膜的? 神经鞘的
+neuroglia	n.[解]神经胶(质)
+mushroom	n.蘑菇?vi.迅速成长
+concurrent	adj.一致的；同时的
+stratification	n.分层? 成层法
+microcosm	n.微观世界
+unsureness	n.不确定? 缺乏自信
+belie	v.掩饰?vt.给人以错觉； 掩饰； 证明…不正确
+hesitant	adj.迟疑的? 犹豫不定的?adj.犹豫的， 吞吞吐吐的， 犹豫不定的
+sewer	n.排水沟，下水道
+anytime	adv.任何时候? 无论何时
+undernutrition	n.营养不良
+hohokam	adj.霍霍坎文化的
+irresponsible	adj.不负责任的? 不可靠的
+flatfish	n.比目鱼
+attic	n.阁楼
+sundial	n.日昝仪? 日规
+butte	n.孤立的丘
+lightly	adv.轻轻地? 轻松地
+uneducated	adj.没受教育的；文盲的
+securely	adv.安全地；无疑地
+uncorrupt	adv.不腐败的?廉洁的
+landscapist	n.风景画家
+scenery	n.风景? 景色
+complimentary	adj.称赞的；免费的
+incorporation	n.合并；组建公司
+sobriquet	n.假名? 绰号
+socialize	v.使社会化? 使社会主义化
+rename	v.重新命名? 改名
+awaken	v.唤醒? 醒来
+governance	n.统治? 管理
+methodically	adv.有条不紊地? 有方法地
+feverishly	adv.兴奋地? 发热地
+antifungal	adj.抗真菌的? 杀真菌的
+senior	adj.年长的? 资格较老的?adj.地位较高的；
+flashy	adj.浮华的
+dimly	adv.微暗? 朦胧
+earthward	adv.向地球? 向地面
+overwhelmingly	adv.压倒性地? 不可抵抗地
+assembly	n.集会，集合?组装?n.集会； 集会者； 装配， 安装； 立法机构， 议会
+stressful	adj.紧张的? 压力重的
+deformity	n.残缺? 畸形
+disruptive	adj.使破裂的? 分裂性的
+girder	n.梁?n.主梁， 大梁
+bustle	v.匆匆忙忙?vi.奔忙， 匆匆忙忙?n.忙乱嘈杂，喧嚣
+unforeseen	adj.无法预料的
+conversational	adj.会话的? 对话的
+governor	n.统治者? 管理者
+abbreviate	v.缩写? 简化?vt.缩略， 缩写
+broadcaster	n.播送设备? 广播员
+adviser	n.顾问
+clarification	n.澄清? 净化
+speechwriter	n.演讲稿撰写人
+televisual	adj.电视的
+legislative	adj.立法的? 立法机关的?adj.立法的， 有立法权的； 根据法规执行的?n.立法机关
+melodic	adj.有旋律的?调子美妙的?adj.旋律的， 曲调的； 音调优美的
+predictably	adv.可预言地? 不出所料地
+climatically	adv.气候上? 风土上
+lethargic	adj.昏睡的
+chicken	n.小鸡
+pathology	n.病理学?n.反常， 变态； 病理学； 病状
+offend	v.犯罪? 冒犯
+disk	n.磁盘?圆盘
+helper	n.帮忙者? 助手
+programme	n.程序? 编程
+curvature	n.弯曲? 曲率
+endpoint	n.端点
+datebase	n.数据库? 资料库
+shyness	n.羞怯? 胆怯
+lethargy	n.无生气?n.死气沉沉； 无精打采， 倦怠
+credential	n.外交使节所递的国书? 信任状?n.证书； 文凭； 资格
+disorientation	n.迷失方向? 迷惑
+additionally	adv.另外? 同时
+uninterrupted	adj.不停的? 连续的
+bureaucratization	n.官化
+dissension	n.意见不同? 纠纷
+embryonic	adj.胚胎的，萌芽期的
+breakup	n.破裂? 崩溃
+necklace	n.项链
+bylaw	n.附则? 法规
+republish	v.再版? 重新发表
+publicly	adv.公然地? 舆论上
+distantly	adj.疏远的? 遥远的
+oily	adj.油的? 油滑的
+categorize	v.加以类别? 分类?vt.将…分类， 把…加以分类
+definitively	adv.决定性地? 最后地
+lineage	n.血统? 世系?n.宗系， 世系， 血统
+slam	v.砰地关上(放下)
+flaming	adj.熊熊燃烧的；热情的
+pique	n.生气? 愤怒?vt.激怒；激起，引起?n.恼怒， 生气； 怨恨
+internet	n.国际互联网，因特网
+newscast	n.<美>新闻广播
+fateful	adj.重大的；不幸的
+antipathy	n.憎恶? 反感
+hurtle	v.急飞
+glisten	v.闪光
+predate	v.提早日期? 居先
+Finnish	adj.芬兰的
+cenote	n.天然井
+empathy	n.移情作用? 共鸣
+hardwood	n.硬木? 阔叶树
+sash	n.腰带，肩带
+foment	v.[医]热敷?vt.煽动， 挑起， 激起
+pretentious	adj.自命不凡的，自负的?adj.自负的
+heredity	n.遗传? 形质遗传
+yean	v.生产? 生育
+dining	n.吃饭
+amenity	n.宜人? 礼仪?n.生活设施；便利设施
+changeover	n.转换? 大变更
+meander	v.蜿蜒而行
+skylight	n.天窗
+palatable	adj.味美的?adj.美味的， 可口的； 合意的， 认可的
+contender	n.竞争者?n.竞争者， 争夺者， 对手
+invariable	n&a.不变的? 永恒的
+depreciation	n.贬值? 减价
+unspecified	adj.未详细说明的
+disability	n.无力? 残疾
+helplessness	n.无能为力
+retentive	adj.有记忆力的
+amplifier	n.扩音器? 放大器
+unfailingly	adv.无穷尽地? 可靠地
+needless	adj.不需要的? 不必要的
+bulge	n&v.膨胀，鼓起
+undiscovered	adj.未被发现的
+helplessly	adv.无能为力地
+overnight	ad& a.(在)整夜(的)；突然(的)?adv.整夜； 一夜之间?adj.通宵的， 一整夜的； 一夜之间的
+optometrist	n.验光师? 视力测定者
+merciless	adj.残忍的；无情的
+strenuous	adj.奋发的? 费力的? 积极的?adj.费劲的， 费力的， 艰苦的； 精力充沛的； 奋力的
+emancipate	v.释放? 解放?vt.解放， 解除
+protagonist	n.提倡者，支持者?n.主角， 主人公； 领导者， 倡导者
+leo	n.[天]狮子座，狮子宫
+cruel	adj.残酷的? 悲惨的
+grimly	adv.严格地?冷酷地?adv.冷酷地； 严肃地； 坚定地
+apportion	v.分配?vt.分配； 分派
+earning	n.所得?收入
+bankruptcy	n.破产
+subjugation	n.镇压? 平息
+uncontrollably	adj.无法管束的? 控制不住的
+lazily	adv.懒洋洋地
+consortium	n.财团? 联合? 合伙
+preventive	adj.预防性的
+multidirectional	adj.多方向的
+curio	n.古董? 古玩
+chandler	n.杂货零售商
+speck	n.斑点
+stair	n.楼梯
+encircle	v.环绕? 围绕
+surmount	v.克服；置于…顶上
+Californian	n.加利福尼亚州人 a加州的
+reaumur	n&a.列氏温度计(的)
+mycology	n.[植]真菌学
+glean	v.拾落穗? 收集?vt.点滴搜集， 四处收集
+nevus	n.[医]痣
+watcher	n.监票员? 看守人
+ostrich	n.鸵鸟
+faintly	adv.微弱地? 朦胧地
+dazzlingly	adv.灿烂地? 耀眼地
+tint	n.色彩
+varve	n.[地质]纹泥
+benign	adj.仁慈的? 温和的? 良性的?adj.良性的； 有利的； 善良的， 和蔼的
+feathery	adj.生有羽毛的?柔软如羽毛的
+churn	v.搅拌? 搅动
+awhile	adv.片刻? 一会儿
+proudly	adv.骄傲地
+oilskin	n.油布? 防水布
+unnoticed	adj.不被注意的? 被忽视的
+thunderous	adj.打雷的? 雷鸣般的
+faraway	adj.遥远的
+ploy	n.花招，手段
+noisily	adv.吵闹地
+squeak	n.吱吱声?v.吱吱叫
+crouch	v.蜷缩? 蹲伏
+heroism	n.英雄品质? 英雄主义
+inconspicuously	adv.难以觉察地? 不显著地
+matron	n.主妇；护士长
+stratagem	n.战略? 计谋
+vole	n.田鼠
+mimic	v.模仿? 模拟?adj.模仿的， 模拟的?vt.模仿；像?n.模仿者；小丑
+unmanageable	adj.难处理的? 难控制的
+rivet	n.铆钉 v固定
+hairy	adj.毛发的，多毛的
+flyway	n.候鸟迁徙所经的路径
+nozzle	n.管口? 喷嘴
+bonanza	n.走运，发财?n.富矿带； 带来好运的事； 兴盛， 繁荣
+overburden	v.装载过多? 负担过多
+lavish	adj.无节制的；浪费的 vt慷慨给予，挥霍?adj.大方的， 慷慨的； 大量的； 浪费的?vt.慷慨给予，滥用；浪费，挥霍
+bravery	n.勇敢
+creek	n.小溪? 小河
+waster	n.挥霍者? 废品
+Stamford	n.斯坦福德[美国康涅狄格州西南部城市]
+gallon	n.加仑
+beer	n.啤酒
+trapper	n.捕兽者? 捕捉器
+romantically	adv.浪漫地? 空想地
+sonic	adj.音速的
+enthusiast	n.热心家? 狂热者
+smoothly	adv.平稳地?adv.顺利地； 平稳地； 平静地
+gingham	n.条纹棉布
+slipper	n.拖鞋
+shoeshine	n.鞋油? 擦皮鞋
+politely	adv.有礼貌地
+modestly	adv.谨慎地? 适当地
+loudspeaker	n.扩音器? 喇叭
+confluence	n.汇合
+crunch	vi&n.嘎吱嘎吱地响(声)
+juggle	v&n.玩杂耍
+seize	v.抓住?夺取
+mormon	n.摩门教徒? 一夫多妻主义者
+atheist	n.无神论者
+gallop	n./v疾驰? 飞奔?v.飞奔， 疾驰
+trestle	n.架柱? 支架
+ravine	n.沟壑? 峡谷?n.沟壑， 溪谷
+spidery	adj.蜘蛛(网)一般的? 细长足的
+wildcatter	n.投机份子
+onlooker	n.旁观者
+folly	n.愚蠢? 荒唐事
+trespasser	n.侵入者? 侵犯者
+waxes	n.蜡，蜂蜡 vt给…上蜡
+refiner	n.精炼者? 精炼机
+richly	adv.富裕地? 丰富地
+remodel	v.重新塑造? 改造?vt.重新塑造， 改造； 改编； 改变
+kier	n.漂煮锅
+seepage	n.渗流? 渗出的量
+ponytail	n.马尾辫(一种发型)
+disuse	n&v.废弃? 废止
+adequately	adv.充分地
+facsimile	n.摹写? 传真
+unproductive	adj.不生产的? 徒劳的
+methodical	adj.有条理的，井然的
+bike	n.脚踏车? 自行车
+unnoticeable	adj.不引人注意的(
+termination	n.终止
+irreparable	adj.无法修复的，不能挽回的
+birthright	n.生来就有的权利? 长子继承权
+fruitless	adj.不结果实的
+conscription	n.征召
+aloof	adj.冷漠的?adj.远离的； 冷淡的， 冷漠的
+downtown	adv.在市区?adj.市区的?adv.在市中心； 往市中心?adj.市中心的
+delectable	adj.使人愉快的?adj.美味可口的； 有吸引力的； 令人喜爱的， 赏心悦目的
+hatchery	n.孵卵所
+doggedly	adv.固执地? 顽强地
+depot	n.贮藏所? 仓库?n.库房， 仓库； 公共汽车站， 火车站
+Minnesota	n.明尼苏达州(美国州名)
+truck	n.卡车? 敞棚货车
+phonetic	adj.语音的?语音学的
+lap	n.膝上；一圈?v.舔(食)；拍打
+chic	adj.别致的? 时髦的
+slapstick	n.闹剧? 趣剧
+hairdo	n.发型
+maraca	n.[音]沙球
+beater	n.搅拌器
+picnic	n.野餐
+craze	n.狂热
+synthesizer	n.综合者? [电子]合成器
+thunder	n.雷?雷声
+blip	n.（在雷达屏幕显示出的）物体光点? 尖音信号
+indiscernible	adj.看不清的
+lopsided	adj.倾向一方的? 不平衡的
+hippopotamus	n.河马
+laugh	v&n.笑? 笑声
+tapir	n.[动]貘
+scream	v./n尖声叫? 尖叫声
+horsefly	n.马蝇
+nonelectronic	adj.非电子的
+vestige	n.痕迹?n.遗迹， 残余； 丝毫， 一点儿
+reverently	adv.恭敬地? 虔诚地
+homeless	adj.无家的? 无家可归的
+mystify	v.迷惑
+mesmerize	v.施催眠术?vt.施催眠术； 使入迷， 迷住
+undifferentiated	adj.无差别的? 一致的
+gravitation	n.地心吸力? 引力作用
+springtime	n.春天? 春季
+sled	n.(小)雪撬?v.乘雪橇， 用雪橇运?n.雪橇；摘棉机
+ski	n.滑雪板 vi滑雪
+swampy	adj.沼泽的，似沼泽的?adj.沼泽的， 湿地的； 松软的
+pickaxe	n.鹤嘴锄? 手镐
+taint	v.感染 n污点
+pestilential	adj.引起瘟疫的? 有害的
+miasmic	adj.毒气的? 瘴气的
+onstage	adj.台上的?舞台表演区的
+holm	n.(河，湖中的)小岛
+anymore	adv.不再? 再也不
+trainload	n.装载量? 列车载重
+ziggurat	n.古代亚述及巴比伦之金字形神塔(顶上有神殿)
+shapeless	adj.不成形的? 无定形的
+troupe	n.剧团?n.剧团； 马戏团； 芭蕾舞团
+postmodern	adj.后现代主义的
+expressionless	adj.无表情的
+clumsy	adj.笨拙的?adj.笨拙的； 不得体的， 冒犯人的； 复杂难懂的， 难处理的
+foghorn	n.[航海]雾角?尖而响的声音
+majestic	adj.雄伟的，壮丽的
+viennese	n&a.维也纳人（语）(的)
+commissioner	n.委员? 专员
+plum	n.[植] 李子? 洋李
+seaman	n.海员? 水手
+stilt	n.高跷? 支柱
+stele	n.石碑? 匾额
+chronology	n.年代学? 年表
+colorfully	adj.华美的? 富有色彩的
+eminence	n.出众? 显赫
+beacon	n.信号灯，闪光灯
+stubbornness	n.倔强? 顽强
+prearrange	v.预先安排
+softball	n.垒球运动? 垒球
+Shakespeare	n.莎士比亚(1564-1616?英国剧作家?诗人)
+cither	n.齐特拉琴(古希腊一种类似竖琴的古乐器)
+modernistic	adj.现代的? 现代主义的
+wick	n.蜡烛心? 灯芯?n.蜡烛芯； 灯芯
+corp	n.公司
+sturdiness	n.强健? 雄壮? 坚固
+wicker	n.柳条 a柳条制的
+austere	adj.简朴的? 严厉的
+nationwide	adj.全国性的
+astrological	adj.占星的? 占星术的
+mirage	n.海市蜃楼?幻想
+repertory	n.仓库?n.保留剧目； 保留剧目轮演； 库存， 储备； 仓库
+rescue	v.／ n营救，救援?vt&n.营救， 搭救
+nearness	n.靠近? 接近
+pavlova	n.奶油水果蛋白饼
+schoolroom	n.教室
+helpless	adj.无助的?没用的
+grandparents	n.外祖父母? 祖父母
+fruitfulness	n.多产? 肥沃
+ignition	n.点火? 点燃
+midwestern	adj.美国中西部的
+interject	v.插嘴? 突然插入
+lightness	n.轻盈? 灵活
+idyllic	adj.田园短诗的? 牧歌的?adj.田园诗般的， 田园风光的， 牧歌的
+resonance	n.共鸣? 反响?n.共振， 共鸣； 回声， 反响
+allegory	n.寓言
+rainbow	n.彩虹
+pretense	n.借口?伪装，自吹
+gratuitous	adj.无缘无故的；免费的
+liveliness	n.活泼
+stench	n.恶臭? 臭气
+slime	n.粘土? 粘液
+tern	n.三个一组? [鸟]燕鸥
+starlike	adj.星形的? 星般闪烁的
+slimy	adj.黏滑的? 卑劣的
+storeroom	n.储藏室? 库房
+Oakland	n.奥克兰(美国加利福尼亚州西部城市)
+allude	v.暗指，提及?vi.暗指， 影射， 间接提到
+sunburst	n.从云隙射下的阳光
+lordly	adj.高贵的；高傲的
+ditch	n.沟? 壕沟
+rebellious	adj.反抗的，难控制的?adj.反叛的， 叛逆的； 叛乱的
+disciple	n.信徒? 弟子?n.门徒， 弟子， 追随者
+tadpole	n.[动]蝌蚪
+propensity	n.倾向?n.倾向， 癖好
+wildflower	n.野花
+stifle	v.窒息? 抑制
+whip	n.鞭子 v鞭打
+debut	n.首次演出，初次露面?n.首次演出； 初次亮相
+sufficiency	n.充足；充裕
+foray	v&n.突袭，偷袭
+pupil	n.小学生?n.小学生； 瞳孔
+lacquer	n.漆? 漆器
+gobi	n.戈壁
+academically	adv.学业上
+summarization	n.摘要? 概要
+flu	n.流感?n.流行性感冒
+haphazardly	adv.不规则地? 随意地
+geometrically	adv.成几何级数(图形)地
+solidly	adv.坚硬地? 稳固地
+embroider	v.刺绣，修饰
+drugstore	n.药房? 杂货店
+speckle	n.小斑点 vt点缀?v.弄上斑点；点缀?n.斑点； 色斑
+gentlemanly	adj.绅士派头的
+override	v.不顾，否决
+citadel	n.根据地? 大本营?n.堡垒， 要塞
+fresher	n.大学一年级新生? 新鲜人
+postgraduate	n.研究生
+manifesto	n.宣言? 声明?n.宣言， 声明
+endear	v.使亲密
+participator	n.参加者
+trespass	n&v.侵犯，擅自进入
+darn	v.缝补，补缀
+cheerless	adj.不快活的
+sovereignty	n.君主? 主权
+renunciation	n.放弃，抛弃
+Calvinist	n.加尔文教徒(见Calvin)
+sociability	n.好交际?善于交际
+frivolity	n.轻薄?轻浮?n.轻浮； 愚蠢的行为
+womanhood	n.女人?女人气质
+patriarchal	adj.家长的? 族长的
+disinterest	n.无兴趣? 不关心?n.无兴趣， 冷漠； 客观， 公正
+luce	n.一种成鱼
+writhe	v.翻滚，扭动
+hobby	n.业余爱好
+radish	n.[植]萝卜
+ventilation	n.通风? 流通空气?n.通风设备； 空气流通
+babble	v.说蠢话，牙牙学语?v.胡言乱语； 含糊不清地说； 喋喋不休
+belle	n.美女
+fragility	n.脆弱? 虚弱
+innocence	n.清白
+nonconformity	n.不信奉国教
+willingly	adv.自动地? 欣然地
+fervor	n.热情? 热烈?n.热情， 热烈
+undergraduate	n.(尚未取得学位的)大学生?n.大学肄业生； 大学本科生
+rosy	adj.蔷薇色的? 玫瑰红色的
+telecommuter	n.远程工作者
+seduce	v.勾引；引诱
+programmer	n.程序师? 程序规划员
+paycheck	n.薪水支票? 工资
+solitude	n.孤独?n.孤独， 单独； 独处， 独居； 隐居处
+chary	adj.小心的，审慎的
+farmhand	n.农业工人，农场工人
+tardiness	n.缓慢
+harvester	n.收割机
+reliant	adj.信赖的? 依靠的
+transpose	v.调换? 颠倒顺序
+culturally	adv.人文地? 文化地
+iconographic	adj.肖像的? 图像材料的
+earnestness	n.坚定? 认真
+folkloric	adj.民间传说的? 民俗的
+vibrant	adj.震动的；明亮的?adj.振动的； 活泼的， 充满生气的
+coherence	n.一致
+reprieve	n& v.缓刑，暂时解救
+malfunction	n.故障
+introspective	adj.反省的
+etching	n.蚀刻版画
+gouache	n.树胶水彩画
+frisky	adj.活泼的? 欢闹的
+yelp	n.咆哮?v.尖叫?n.短而尖的叫声
+barrelful	n.一桶之量? 大量
+unwell	adj.不舒服的
+chaotically	adv.浑沌地
+bathe	v.沐浴?n.洗澡
+fearsome	adj.可怕的
+scour	v.四处搜索；洗涤
+philology	n.语言学? 文献学
+gentleman	n.阁下? 先生
+unobservable	adj.不可见的
+sluggishly	adj.缓慢的? 懒惰的
+balsam	n.香液
+weightily	adv.沉重地? 重要地
+zoology	n.动物学? 生态
+horseback	n.马背? 隆起的条状地带
+replant	v.再植? 改种
+nonessential	adj.非本质的
+grammatical	adj.语法的?合乎文法的
+filmy	adj.薄膜的? 朦胧的
+pearly	adj.珍珠似的
+nationally	adv.全国性地? 在全国范围内
+listless	adj.倦怠的? 冷漠的?adj.倦怠的， 没精打采的
+aloft	adv.在高处? 在上?adv.在高处； 在空中
+hacienda	n.庄园
+vaguest	adj.含糊的，不明确的
+furnishing	n.供给(装备)
+oversight	n.疏忽? 看管
+stinger	n.刺激者? 讽刺者
+inundate	v.淹没
+dusty	adj.满是灰尘的? 粉状的
+luster	n.光彩? 光泽?n.光亮， 光泽； 荣耀
+housewares	n.家用器皿
+drainpipe	n.排水管
+trash	n.垃圾? 废物?n.无价值之物，废物；拙劣的文学作品；没用的人?vt.捣毁， 破坏
+clayware	n.黏土制品
+weedy	adj.杂草多的
+mermaid	n.美人鱼
+hart	n.雄赤鹿
+plaza	n.广场，集市
+slay	v.杀死，宰杀
+falsely	adj.虚伪地? 错误地
+emergent	adj.紧急的?adj.突现的； 新兴的； 紧急的
+landownership	n.土地所有
+metaphysical	adj.形而上学的? 纯粹哲学的
+joyous	adj.快乐的? 高兴的
+forceful	adj.有力的? 强烈的
+swear	v.宣誓? 发誓?v.诅咒； 宣誓， 发誓
+lover	n.爱人? 爱好者
+epithet	n.绰号? 称号
+collapsible	adj.可折叠的?可拆卸的
+scruffy	adj.肮脏的，不洁的?adj.不整洁的， 邋遢的
+derisive	adj.嘲笑的
+messy	adj.肮脏的? 凌乱的
+fragmentary	adj.由碎片组成的
+oxidizable	adj.可氧化的
+difluoride	n.二氟化物
+zirconium	n.锆
+relict	n.残遗物
+effortlessly	adv.毫不费力地? 轻易地
+defensible	adj.可防御的
+idealistic	adj.理想主义的? 空想的
+blister	n.水泡
+statuette	n.小雕像
+featureless	adj.无特色的? 平凡的
+creed	n.信条
+scraggly	adj.零乱的? 锯齿状的
+zeal	n.热心? 热情
+slapdash	adj.匆促的
+shrubby	adj.灌木的
+impinge	v.撞击
+scrubbiness	adj.褴褛的?灌木丛生的
+flavin	n.[化]黄素? 四羟酮醇
+mountainside	n.山腹? 山腰
+sunbaked	adj.晒干的
+alumina	n.[化]氧化铝(亦称矾土)
+hairlike	adj.毛一般的? 细微的
+coating	n.被覆? 衣料
+wee	adj.很少的? 微小的
+rationalism	n.理性主义? 唯理论
+worthiness	n.价值?值得
+moralistic	adj.狭隘道德观的? 说教的
+syntax	n.语法? 句法
+nonsense	n.胡说? 废话?n.胡说， 废话； 冒失的行为
+loudness	n.大声? 喧闹
+playful	adj.爱玩耍的；幽默的
+discontinuity	n.不连续? 中断
+prosaic	adj.单调乏味的?平淡的
+dew	n.露水
+shroud	n.裹尸布? 寿衣?v.用裹尸布裹? 遮蔽?vt.隐藏，遮蔽?n.裹尸布， 寿衣； 遮蔽物
+landholder	n.地主? 土地拥有者
+workable	adj.可经营的? 可使用的
+moralism	n.道德主义? 说教
+dune	n.沙丘
+monarchy	n.君主政体? 君主国?n.君主制； 君主国
+nationalism	n.民族主义? 国家主义?n.国家主义； 民族主义， 民族优越感
+flowerpot	n.花盆? 花钵
+resale	n.再贩卖? 转售
+centralization	n.集中? 中央集权化
+profusion	n.丰富
+seacoast	n.海滨
+lush	adj.茂盛的? 丰富的?adj.茂盛的
+pesky	adj.讨厌的，烦人的
+overtone	n.寓意；眩外音；暗示
+towel	n.毛巾
+purposefully	adv.有目的地? 蓄意地
+dislodge	v.驱逐
+lint	n.绷带用麻布
+shortness	n.短缺
+domestically	adv.家庭式地?国内地
+behaviorist	n.行为主义者? 行为科学家
+newsworthy	adj.有报导价值的
+proficiently	adv.熟练地
+locomotor	adj.运动的
+wirephoto	n.有线传真
+attractively	adv.有吸引力地，诱人地
+snowy	adj.雪的? 多雪的
+comminute	v.使成粉末?粉碎
+indebted	adj.受惠的? 负债的
+cache	v.贮藏，隐藏 n藏物处
+germination	n.萌芽? 发生
+unseen	adj.未见过的
+guest	n.客人? 来宾
+cognition	n.认识?n.感知， 认知， 认识
+forelimb	n.前肢
+limy	adj.含石灰的? 石灰似的
+lithographic	adj.石版印刷的? 石版的
+lagoon	n.泻湖 礁湖
+numeral	n.数字
+eloquently	adv.雄辩地? 有口才地
+extravagantly	adv.挥霍无度地
+crest	n.浪尖? 冠?v.达到顶点?n.顶峰，顶点；浪尖；羽冠
+centrality	n.中心? 中央
+insatiable	adj.不知足的? 贪求无厌的
+obstruction	n.阻塞? 妨碍
+procure	v.获得? 取得
+putrefaction	n.腐败? 腐败物
+pasteurization	n.加热杀菌法? 巴斯德杀菌法
+summertime	n.夏季
+meltdown	n.彻底垮台
+chlorate	n.[化]氯酸盐
+stepper	n.行走的人或动物? 跳舞者
+supposition	n.假定? 想象
+smoothness	n.平坦， 光滑
+vertically	adv.垂直地
+dichotomy	n.两分? 二分法
+clipper	n.大剪刀? 快速帆船修剪者?n.快速帆船； 剪刀
+fruitful	adj.果实结得多的? 多产的
+flag	n.旗，旗帜?v.标记?n.旗帜；标记
+acoustical	adj.听觉的? 声学的
+kitchenware	n.厨房用具
+serviceable	adj.有用地，耐用的
+chalky	adj.白垩的
+Yorkshire	n.约克郡?约克夏(英国英格兰原郡名)
+renowned	adj.有名的? 有声誉的
+kinfolk	n.亲属
+nonliving	adj.无生命的? 非活体的
+impervious	adj.不透的；不受影响的
+deceptive	adj.骗人的，造成假象的?adj.欺骗性的， 导致误解的
+wok	n.锅，炒菜锅
+lone	adj.孤独的，寂寞的
+dissenter	n.持异议者?n.不同意者， 反对者
+enure	v.使习惯于?v.变得更有利
+unanimity	n.全体一致
+pedagogical	adj.教学(法)的
+hopper	n.单足跳者
+scientifically	adv.科学地? 系统地
+modus	n.方法? 形式
+laborsaving	adj.节省劳力的?省力气的
+spontaneity	n.自发性?n.自发性； 自发行为
+topical	adj.有关时事的
+ratchet	n.棘轮? 棘齿
+humiliate	v.羞辱? 使丢脸
+conduction	n.传导
+indefinitely	adv.不确定地
+unused	adj.不用的；未消耗的
+ala	n.(昆虫的)翼? 翅
+terrifyingly	adv.恐怖地
+kinsman	n.男性亲戚? 同族者
+Norman	n&a.法国诺曼第人(的)
+chaste	adj.贞洁的? 朴素的?adj.贞洁的； 简朴的， 朴实的
+sully	v.玷污
+mouldy	adj.发霉的? 腐朽的? 旧式的
+dumb	adj.哑的?沉默的
+hygiene	n.卫生? 卫生学?n.卫生； 卫生学
+happily	adv.幸福地? 愉快地
+slothful	adj.偷懒的
+forefather	n.祖先? 祖宗
+soundly	adv.完全地? 健全地
+asleep	adj.睡着的
+torpor	n.麻木?不活泼?n.迟钝； 死气沉沉
+lull	v.缓和 n暂时的平息
+cementation	n.粘固
+anyway	adv.无论如何? 总之
+trumpeter	n.喇叭手? 号兵
+breathless	adj.无声息的? 喘不过气来的
+wingless	adj.无翼的? 没有翅膀的
+modal	adj.模态的? 形态上的
+sweaty	adj.出汗的? 吃力的
+brawl	v.争吵? 怒骂
+useable	adj.可用的? 有效的
+operational	adj.操作的? 运作的
+clockmaker	n.制造或修理钟表者
+linkage	n.联接
+multifunctional	adj.多功能的
+vigor	n.精力? 活力?n.活力， 精力
+parliament	n.国会? 议会?n.国会， 议会
+oust	v.剥夺?取代?罢免
+sage	adj.智慧的 n智者?adj.贤明的；审慎的?n.智者， 圣人
+rejoin	v.再结合? 再加入
+courage	n.勇气? 精神
+debtor	n.债务人
+penal	adj.刑事的
+wrapper	n.包装材料?包装纸
+outright	adj.直率的? 彻底的 ad直率地? 彻底地
+orphanage	n.孤儿院? 孤儿身份
+florist	n.种花人
+daddy	n.爸爸
+eventual	adj.最后的? 结局的
+oft	adv.常常? 再三
+horde	n.游牧部落?n.一大群人； 游牧部落
+primer	n.初级读本?原始物
+revert	v.回复?v.恢复； 归还， 归属
+copyright	n.版权? 著作权
+nephew	n.侄子? 外甥
+Dutchman	n.荷兰人
+salesperson	n.售货员
+pelt	n.投掷? 毛皮 v剥的皮? 投掷
+Lowa	n.爱荷华州(美国中西部的一州)
+pella	n.斗篷
+goldsmith	n.金匠
+saw	n.锯 v锯?锯开
+woodblock	n.木板 〈印〉木版
+upwind	adj.逆风的 ad逆风地
+volatility	n.挥发性
+nostalgic	adj.乡愁的? 怀旧的?adj.思乡的； 怀旧的
+homesick	adj.想家的?思乡病的
+pike	n.长枪? 梭子鱼 vt用矛刺穿
+seaboard	n.海岸? 沿海地方 a海滨的
+bench	n.长椅子?替补队员 vt给…以席位
+corrosive	adj.腐蚀的? 蚀坏的 n腐蚀物?adj.腐蚀的
+rut	n.定例? 惯例 v在形成车辙
+tenuous	adj.纤细的?稀薄的?adj.纤细的； 稀薄的； 脆弱的
+guarantor	n.[律]保证人
+omnipotent	adj.全能的? 无所不能的
+overland	adj./ad经过陆地的? 陆上的
+Interstate	adj.州际的
+carnation	n.荷兰石竹? 康乃馨? 粉红色
+sty	n.猪栏 v住在猪圈里? 关入猪栏
+oasis	n.(沙漠中)绿洲?舒适的地方?n.绿洲； 避风港
+irregularly	adv.不规则地?不整齐地
+gregarious	adj.社交的?群居的?adj.群居的； 合群的， 爱社交的
+honey	n.(蜂)蜜?宝贝 a甜美的
+heroic	adj.英雄的? 英勇的
+pervasive	adj.普遍的?深入的?adj.普遍深入的； 遍及的， 弥漫的
+uninhabitable	adj.不适宜居住的
+venom	n.(蛇的)毒液? 恶意 vt放毒? 使恶毒?n.毒液； 恶意， 怨恨
+placental	adj.胎盘的 n有胎盘哺乳动物
+spiny	adj.多剌的? 剌状的?adj.长满刺的， 多刺的， 带刺的； 棘手的
+anteater	n.[动]食蚁动物
+postpone	v.推迟? 使延期?v.延期， 推迟
+vagary	n.奇特行为? 奇想
+modulation	n.调制
+acoustic	adj.有关声音的? 声学的?adj.非电声乐器的， 原声的； 听觉的， 声音的
+marsupial	n.有袋动物 a有袋动物的
+dwindle	v.缩小?v.减少； 缩小
+outpouring	n.倾泄? 流出? 流露
+beluga	n.(欧洲)白色大鳇鱼? 白鲸
+insensitivity	n.感觉迟钝?不灵敏性
+anaerobic	adj.厌氧的?厌气的
+enrichment	n.发财致富? 丰富? 肥沃
+advice	n.忠告? 建议
+printmaker	n.版画复制匠
+lithography	n.平版印刷术
+rationale	n.基本原理
+serigraphy	n.绢印? 绢网印艺术
+mayor	n.市长
+chimp	n.(非洲)黑猩猩
+waterworks	n.自来水厂?供水系统
+lieu	n.场所
+parkway	n.公园道路? 驾车专用道路
+serene	adj.平静的 n宁静
+boulevard	n.<美>林荫大道
+omission	n.冗长?疏漏
+implementation	n.执行
+multipurpose	adj.多种用途的? 多目标的
+restful	adj.宁静的
+preexist	v.先前存在
+incipient	adj.初期的?初始的
+metamorphic	adj.变质的?变性的
+sidewalk	n.人行道
+libelous	adj.诽谤的?损害名誉的
+broker	n.掮客? 经纪人
+Washingtonian	n./a(美国)华盛顿市(或州)人
+sensationalism	n.追求轰动效应? 感觉论
+aromatic	adj.芬芳的
+unmistakable	adj.明显的?不会弄错的
+pollinate	v.对授粉?vt.给…授粉
+runway	n.飞机跑道? 斜坡跑道? 河道
+irresistible	adj.不可抵抗的?不能压制的?adj.无法抗拒的， 诱人的； 不能自已的
+rampant	adj.猖獗的? 蔓生的?adj.猖獗的， 肆虐的； 蔓生的
+crossbreed	n.[生物]杂种 v异种交配
+intrusion	n.闯入? 侵扰?n.侵扰， 干扰； 侵犯； 侵入， 闯入
+pinch	n.捏? 撮 v夹痛?节省?v.捏，掐；夹痛；偷窃；逮捕?n.捏， 掐； 一撮， 微量
+inactivate	v.使不活泼? 阻止活动?vt.使不活动， 使不活跃
+pollination	n.授粉
+recognizable	adj.可辨认的?可认识的
+unwillingly	adv.不情愿地?勉强地
+impartially	adv.公平地?无私地
+dose	n.剂量? (一)剂 v(给)服药
+retrain	v.重新教育? 再教育
+irrationally	adv.无理性地?不合理地
+boon	n.恩惠? 福利?n.恩惠， 恩赐； 益处
+unavoidably	adv.不可避免地?不得已地
+racetrack	n.(主要用于赛马? 赛狗的)跑道
+inoffensive	adj.不触犯人的?无害的
+boomer	n.生育高峰中出生的人
+cynthia	n.月亮女神? 月亮
+struggler	n.奋斗者?斗争者
+honorable	adj.光荣的?高贵的
+impregnate	v.使怀孕? 使受精 a怀孕的? 充满的
+enthusiastically	adv.热心地?满腔热情地
+bequest	n.遗产? 遗赠
+childless	adj.无儿女的
+cuticle	n.表皮?角质层
+spiky	adj.大钉似的? 尖刻的
+waxy	adj.象蜡的?苍白的? 柔软的
+unpalatable	adj.味道差的?难吃的
+epidermis	n.[生]表皮? 上皮
+immobilize	v.固定不动
+deterrent	n.威慑 a遏制的
+infest	v.骚扰?大批滋生?vt.大批滋生， 大批出没于
+rancho	n.大牧场(或大农场)工人住的棚屋
+crayon	n.有色粉笔? 蜡笔
+unwary	adj.粗心的? 不警惕的
+sapiens	adj.（拉）现代人的
+mastodon	n.[古生]乳齿象? 庞然大物
+preeminent	adj.卓越的?adj.卓越的， 杰出的
+ingeniously	adv.贤明地?有才能地
+daunt	v.沮丧
+monochromatic	adj.单色的
+educable	adj.可教育的? 可培养的
+clever	adj.机灵的? 聪明的
+scam	n.诡计 v诓骗
+pin	n.钉? 栓 vt钉住? 牵制?vt.钉住；固定?n.大头针； 钢钉； 胸针； 徽章
+astute	adj.机敏的? 狡猾的?adj.机敏的， 精明的
+dash	n.冲撞? 破折号 v猛掷? 冲撞
+emboss	v.饰以浮饰? 使浮雕出来
+embellish	v.修饰?vt.装饰； 对…添枝加叶， 渲染
+learner	n.学习者? 初学者
+unread	adj.没有人看的? 无学问的
+reinterpretation	n.重新解释
+postdate	v.填迟的日期 n事后日期
+mania	n.[医]颠狂? 狂躁? 癖好? 狂热?n.躁狂； 狂热； 癖好
+stash	v.存放 n隐藏处?vt.隐藏，藏匿?n.贮藏物
+quarrelsome	adj.喜欢吵架的?好争论的
+speedy	adj.快的? 迅速的
+prepay	v.预付
+loathsome	adj.讨厌的?adj.令人厌恶的， 讨厌的
+counterfeit	n.赝品 a伪造的 v伪造?adj.伪造的，假冒的?n.赝品?vt.伪造， 仿造
+sender	n.寄件人?发送人
+affix	v.使附于? 粘贴 n[语]词缀
+obsess	v.迷住? 使困扰?v.迷住； 牵挂
+demolish	v.毁坏? 推翻? 粉碎?vt.拆除； 破坏； 驳倒， 推翻
+golf	n.高尔夫球 vi打高尔夫球
+glaciate	v.使结冰? 以冰(或冰河)覆盖
+ambience	n.周围环境? 气氛?n.周围环境， 气氛
+cab	n.出租汽车
+frenzy	n.狂暴? 狂怒 vt使发狂?n.狂暴， 狂热， 疯狂
+melodrama	n.情节剧?n.情节剧， 通俗剧； 戏剧性的事件
+treasure	n.财宝? 财富 vt珍爱
+Cincinnati	n.辛辛那提（美国俄亥俄州西南部城市）
+trove	n.被发现的东西? 收藏的东西
+acronym	n.只取首字母的缩写词?n.首字母缩写词
+bet	n.赌? 打赌 v赌? 赌钱?v.打赌； 敢说， 确信?n.打赌；赌注
+labyrinth	n.迷路? 迷宫? 难解的事物?n.迷宫； 错综复杂的事件
+rubble	n.碎石
+rainer	n.人工降雨装置?喷灌装置
+yesteryear	n.去年 ad过去不久的岁月
+lore	n.学问?（动物的）眼光知识?n.学问， 学识； 传说， 传统
+mortar	n.灰泥?迫击炮 vt用灰泥结合
+incongruity	n.不调和的? 不适宜的?n.不一致， 不和谐
+tableland	n.高原?n.高原， 台地
+fullness	n.满? 丰富? 成熟
+recoil	n.畏缩? 弹回 vi退却? 畏缩?vi.弹回；后退，退缩；产生后坐力?n.后退， 退缩； 反冲， 后坐力
+musicologist	n.音乐学者
+forte	n.长处
+percussive	adj.冲击的?叩诊的
+multistory	adj.多层的?有多层楼的
+hammerhead	n.锤头 a锤头状的? 鲁钝的
+induct	v.感应?引导?vt.使正式就任； 使了解， 传授； 使入伍
+coincident	adj.一致的?符合的
+assort	v.分类配全
+forgiveness	n.宽恕? 宽仁之心
+spoonful	n.一匙
+oat	n.[植]燕麦? 麦片粥
+differentiating	adj.微分的
+symphonic	adj.交响乐的? 和声的
+sad	adj.忧愁的? 悲哀的
+violinist	n.小提琴演奏者? 小提琴家
+cellist	n.大提琴演奏家
+upsurge	n.高潮 vi涌起?n.高涨； 激增
+phenomenal	adj.现象的?显著的
+midocean	n.海洋中央
+omnibus	n.公共汽车? 精选集 a综合性的
+accessibility	n.易接近? 可到达的
+unoccupied	adj.空闲的?未占领的
+catalyze	v.催化? 刺激? 促进
+scavenge	v.打扫? 以(腐肉)为食
+subdivision	n.细分? 一部
+treetop	n.树稍
+ancestry	n.祖先(集合称)? 血统
+virginal	adj.处女的? 无瑕的
+dulcimer	n.[乐] 洋琴
+unpublished	adj.未公开出版的?未发表过的
+paddle	n.短桨? 划桨 v划桨?拌?v.用桨划船； 涉水， 戏水?n.桨；桡足
+twine	n.合股线 v织? (使)缠绕?v.缠绕， 盘绕， 围绕?n.细绳
+jumble	v.混杂? 搞乱 n混乱?vt.混杂，掺杂?n.杂乱的一堆， 混乱的一团
+bituminous	adj.沥青的?含沥青的
+toil	n.苦工? 圈套 v费力地做
+insurmountable	adj.不能克服的?不能超越的
+instantaneously	adv.即刻?突如其来地
+prohibitively	adv.禁止地?过分地
+unprocessed	adj.未被加工的
+uncooked	adj.未煮过的
+forecaster	n.预报员
+stormy	adj.暴风雨的? 激烈的? 暴怒的
+untouched	adj.未触及的? 未改变的
+mennonite	n.门诺派教徒
+police	n.警察 vt管辖 a警察的
+humility	n.谦卑
+torrential	adj.猛烈的?汹涌的
+advantageously	adv.有利地?方便地
+merchandis	n.商品?货物 v买卖
+hospital	n.医院
+proboscidean	adj.长鼻类的 n长鼻目动物
+neat	adj.整洁的? 灵巧的? 优雅的
+precursor	n.先驱?n.先驱； 先兆， 前兆； 前身
+economize	v.节省? 有效地利用
+haven	n.港口? 避难所?n.港口； 庇护所， 避难所； 栖息处
+tranquillity	n.宁静
+competitiveness	n.竞争力?好竞争
+atomization	n.分离成原子? 雾化
+custodian	n.管理人
+stagnate	v.(使)淤塞? (使)停滞? (使)沉滞? (使)变萧条
+regret	n./v遗憾? 抱歉?后悔
+civility	n.礼貌? 端庄
+unbridgeable	adj.不能架桥的?不能逾越的?adj.不能架桥的； 不能逾越的
+determinedly	adv.决然地?断然地
+mimetic	adj.模仿的?拟态的
+fictive	adj.虚构的? 想象上的
+shudder	n.震动 vi战栗? 发抖
+violence	n.猛烈? 暴力? 暴虐
+insanity	n.精神错乱? 疯狂? 愚顽?n.精神错乱， 疯狂
+pinon	n.矮松? 矮松果
+juniper	n.[植]刺柏属丛木或树木
+eke	v.补充? 增加
+hem	n.边?缘 v给缝边
+briny	adj.盐水的? 咸的? 海水的
+midlatitude	n.中间纬度
+eviscerate	v.取出内脏? 除去精华?vt.取出内脏； 除去主要部分
+sparingly	adv.节俭地? 保守地
+squirt	v.喷出?v.喷射，喷；向…喷射?n.喷射； 〈口， 贬〉无名小辈
+antagonistic	adj.敌对的?对抗性的
+buggy	adj.多虫的 n童车
+infrequently	adv.罕见地? 稀少的
+quiescent	adj.静止的?adj.静止的， 寂静的； 静态的
+inanity	n.空虚? 愚蠢?n.空虚， 空洞； 无意义的事物
+romancer	n.传奇小说作家? 讲虚构故事的人
+strikingly	adv.醒目地? 引人侧目地
+akin	adj.同类的
+voracious	adj.狼吞虎咽的? 贪婪的?adj.狼吞虎咽的， 贪婪的； 求知欲强的
+gourmet	n.美食家?adj.美味的
+supremely	adv.无上地? 崇高地
+complacence	n.自满?n.自满， 满足
+pleasantly	adv.令人愉快地；舒适地
+supervision	n.监督? 管理
+humanist	n.人道主义者? 人文主义者
+cannibalism	n.同类相食?n.嗜食同类
+satirist	n.讽刺作家
+distend	v.(使)扩大? (使)扩张
+balmy	adj.芳香的? 温和的
+compo	n.组合物?混合涂料
+pressurize	v.增压? 密封
+freshness	n.新鲜? 精神饱满
+wearer	n.穿用者? 佩带者
+dimensional	adj.维度的? 空间的? 尺寸的?adj.…度空间的
+dependably	adv.可信任地
+reexamine	v.复试
+behalf	n.利益
+sanctimonious	adj.伪装虔诚的? 道貌岸然的
+frenetic	adj.发狂的? 狂热的
+distinctively	adv.ad/ 区别地? 特殊地
+prod	v.刺
+secondhand	adj.a&ad 二手的? 间接的
+irreverence	adj.不尊敬的
+briskness	n.敏捷? 活泼
+ethically	adv.伦理(学)上
+juxtaposition	n.毗邻? 并置
+platitudinous	adj.平凡的? 陈腐的
+moralize	v.教化 ?说教
+platitude	n.陈词滥调?n.陈词滥调， 老生常谈
+irreverent	adj.不敬的? 无礼的?adj.不敬的
+megalopolis	n.巨大都市? 人口稠密地带
+comer	n.来者? 新来者
+conurbation	n.有卫星城的大都市
+elusive	adj.难懂的? 难捉摸的?adj.难以理解的， 难懂的； 难捕捉的； 逃避的
+scowl	n.愁容? 皱眉 v皱眉
+subterranean	adj.地下的
+pharmacy	n.药房? 药剂学?n.药店； 药剂学
+gyration	n.旋回? 回转
+miraculous	adj.奇迹的?不可思议的
+grainy	adj.粒状的? 木纹状的
+vagueness	n.暧昧? 含糊
+urbanize	v.使都市化? 使文雅
+quaint	adj.离奇有趣的? 奇怪的?adj.古色古香的； 离奇有趣的
+counterclockwise	n&a.反时针方向(的)
+entanglement	n.纠缠
+diagonally	adv.斜对地? 对角地
+rustproof	adj.不锈的? 抗锈的?adj.不锈的
+installation	n.安装? 装置
+galvanize	v.通电流于? 电镀
+matrilinear	adj.母系的
+underworld	n.黑社会
+crimp	v.起皱? 卷曲? 抑制
+serrate	adj.锯齿状的
+convivial	adj.好交际的? 愉快而随和的
+foreshadow	v.预示
+plaint	n.[诗]悲叹? 抱怨
+waterborne	adv.水上的? 水运的
+amazement	n.惊愕? 惊异
+urgency	n.紧急? 紧急的事
+unpromising	adj.没有希望的(结果未必良好的)
+deter	v.阻止?v.威慑， 阻止
+bluntly	adv.坦率地? 率直地
+subclass	n.[生]亚纲? 子集
+simplistic	adj.过分简单化的
+teapot	n.茶壶
+rationally	adv.理性地
+prominence	n.突出? 显著
+importer	n.输入者? 进口商
+foundry	n.铸造? 铸造场
+systematize	v.系统化?vt.使系统化， 使条理化， 使成体系
+singly	adv.单独地? 个别地
+gloss	n.光泽，注解?v.有光泽?n.光泽，色泽；亮光漆；注解
+refinement	n.精致? 文雅
+guess	v.猜测? 推测
+earthworm	n.蚯蚓
+lateral	n.侧部? 支线 a侧面的?adj.侧面的， 旁边的； 横向的
+intimately	adv.密切地? 亲密地
+nostril	n.鼻孔
+bis	adv.二度? 二回
+uniqueness	n.唯一性? 独特性
+shaper	n.造形者? 塑造者
+genial	adj.亲切的?adj.亲切的， 和蔼的； 温和的， 温暖的
+avocational	n.娱乐? 消遣
+occupancy	n.占有
+mildly	adv.温和地? 适度地
+bundle	n.捆v捆扎?n.捆，束；包袱?vt.收集， 归拢； 把…塞入
+ethnographic	adj.民族志学的? 人种志学的
+wearability	n.耐磨性? 磨损性
+masthead	n.桅顶? 报头
+gazette	n.报纸? 政府的公报
+disc	n.圆盘? 唱片
+spheroidal	adj.球状的
+flattish	adj.有点平凡的? 稍平的
+businesswoman	n.妇女实业家
+expo	n.博览会? 展览会
+signer	n.签名人? (用手势) 示意者
+silurian	adj.〈地〉志留纪的
+explosively	adv.爆发地? 引起爆炸地
+lastly	adv.最后? 终于
+frill	n.皱边
+facilitation	n.简易化? 助长
+megafossil	n.大化石
+cryptic	adj.秘密的? 含义模糊的
+inspect	v.检查? 视察?vt.检查， 视察
+genesis	n.起源?n.起源， 开端
+conspiracy	n.共谋? 阴谋?n.密谋； 阴谋
+jobber	n.临时工? 批发商
+wholesaler	n.批发商
+sweatshop	n.血汗工厂(指工人劳动条件差?工作时间长?工资低的工场或工厂)
+orthopteran	n.直翅类的昆虫
+heyday	n.全盛时期?n.全盛期
+sideline	n.副业? 边界线
+modicum	n.少量? 一点点
+lonely	adj.孤独的? 寂寞的
+decorator	n.油漆工
+wonderfully	adv.令人惊讶地；奇妙地
+unimaginable	adj.不能想象的? 想象不到的
+ruthlessly	adv.冷酷地? 残忍地
+unknowing	adj.没查觉的? 无知的
+haste	n.匆忙? 急忙?v.赶快， 匆忙?n.急忙，急速，匆忙
+scruple	n&v.踌躇? 犹豫?n&vi.踌躇， 顾忌， 顾虑
+equitable	adj.公平的? 公正的?adj.公平的， 公正的
+laurasia	n.[地质] 劳亚古大陆
+innkeeper	n.旅馆主人
+peddler	n.小贩? 传播者
+educationally	adv.教育的? 有关教育的
+tractor	n.拖拉机
+constellation	n.[天]星群? 星座
+exam	n.考试? 测验
+working	n.工作
+grandparent	n.祖父或祖母? 祖父母
+contractor	n.订约人? 承包人
+cubism	n.立体派?n.立体派； 立体主义
+woodcarving	n.木雕? 木刻
+prodigy	n.惊人的事物? 天才
+nonconformist	adj.不信奉英国国教的 n非国教徒
+fascination	n.魔力? 魅力? 迷恋
+aloud	adv.大声地
+profitability	n.收益性? 利益率
+renter	n.租贷人
+claimant	n.要求者?申请者? 原告
+sadden	v.悲哀
+beard	n.胡须
+skeletally	adj.骨骼的? 梗概的
+muscularly	adj.肌肉的
+tinplate	n.镀锡铁皮? 马口铁
+tomato	n.番茄? 西红柿
+starch	n.淀粉?n.淀粉；
+grape	n.葡萄? 葡萄树
+packer	n.包装工人? 打包机
+strawberry	n.[植]草莓
+negate	v.否定? 打消?vt.取消； 否定
+creeper	n.爬行者
+bluebird	n.北美产的蓝知更鸟
+lark	n.云雀? 百灵鸟
+communally	adv.共同地? 社区地
+sociably	adv.和蔼可亲地
+obsolete	adj.已废弃的? 过时的?adj.过时的； 废弃的
+rarefy	v.稀薄
+crossbones	n.交叉腿骨的图形
+figurehead	n.装饰船头的雕像? 破浪神
+snipe	n.[鸟]鹬
+intricately	adv.杂乱地? 复杂地
+icon	n.图标? 肖像
+antelope	n.羚羊
+interferometer	n.干涉计
+hardworking	adj.努力工作的? 勤奋的
+proprietorship	n.所有权
+aie	n.急性包涵(体)脑炎
+imbibe	v.吸收?v.喝； 吸收， 接受
+agility	n.敏捷? 活泼
+delightful	adj.令人愉快的? 可喜的
+overheat	v.使过热， 变得过热
+rehydrate	v.[化] 再水化? 再水合
+efficacy	n.功效? 效验
+dilution	n.稀释
+festive	adj.庆祝的? 喜庆的
+zealous	adj.热心的?adj.狂热的， 热烈的， 充满激情的
+equestrian	adj.骑马的 n骑手
+urn	n.瓮? 缸
+timidity	n.胆怯
+stonemason	n.石匠
+biter	n.咬人的动物? 骗子
+plainspoken	adj.老实说的?直言的
+grit	n.粗砂 v研磨
+aero	adj.航空的? 飞行的
+cheapen	v.减价? 跌价
+thorny	adj.多刺的? 痛苦的
+inchworm	n.[昆] 尺蠖
+escalator	n.电动扶梯
+voltage	n.[电工]电压? 伏特数?n.电压， 伏特数
+smite	v.重击
+indifference	n.不关心?n.冷漠， 不关心
+eyelid	n.眼皮? 眼睑
+comfortably	adv.舒适地
+hatchet	n.短柄斧
+axe	n.斧? (经费的)大削减
+ambidextrous	adj.十分灵巧的
+attributable	adj.可归因于的
+predominance	n.优势
+petrify	v.石化?吓呆
+ax	n.斧头 vt削减
+ferromagnetic	adj.铁磁的
+afterward	adv.然后? 后来
+occupant	n.占有者? 居住者
+inflexible	adj.不可弯曲的? 僵硬的
+lotus	n.[植] 莲(花)?adj.贪图安乐的
+inexplicable	adj.无法解释的，难理解的
+nineteen	num.十九
+therapeutic	adj.治疗的? 治疗学的 n治疗剂? 治疗学家
+restrictive	adj.限制性的
+ail	v.生病，使苦恼
+unbind	v.解开? 解放
+Grecian	adj.希腊的? 希腊式的 n希腊学家
+defender	n.防卫者? 拥护者
+volcanism	n.火山作用
+subduction	n.[地]潜没(指地壳的板块沉到另一板块之下)
+electrocardiogram	n.[医]心电图
+electroencephalogram	n.[医]脑电图
+blackout	n.灯火管制，断电
+jolt	v& n.(使)颠簸；震动?v.震动，颠簸；震惊?n.震动， 颠簸； 震惊； 一阵强烈的感情等
+bandleader	n.伴舞乐队的指挥
+ballroom	n.舞厅? 跳舞场
+pepper	n.胡椒粉?n.胡椒；辣椒?vt.撒胡椒粉； 大量给予
+accusation	n.谴责? [律]指控
+obligate	v.使负义务 a有责任的?vt.使负义务， 强迫
+forbearance	n.自制，忍耐
+Thames	n.泰晤士河(流经牛津?伦敦等)
+maverick	adj.标新立异的；持不同意见的
+blower	n.吹制工? 送风机
+goldfish	n.金鱼
+decor	n.舞台装饰
+fresco	n.壁画 vt作壁画于?v.绘湿壁画于?n.湿壁画；湿壁画技法
+rook	n.白嘴鸦；赌棍 vt骗
+equilateral	adj.等边的 n等边形
+honeycomb	n.蜂房? 蜂巢
+romanticize	v.浪漫化? 传奇化
+misconception	n.误解
+poster	n.海报? 招贴?n.海报， 招贴画； 发布消息的人
+tessellation	n.棋盘形嵌石饰
+cate	n.佳肴? 美食
+officeholder	n.官员?公务员
+pentagon	n.五角形? 五边形
+corset	n.束腹? 妇女的胸衣?v.严格控制
+sheepskin	n.羊皮(革?纸)? 毕业证书
+denomination	n.面额?名称?教派
+breech	n.臀部?后膛?vt.给…穿上裤子
+mitigate	v.减轻?缓和
+spaceship	n.太空船
+feud	n.不和?争执?v.长期争斗
+ted	vt.翻晒?n.泰德
+venturesome	adj.危险的?冒险的?adj.敢于冒险的； 有危险的
+knuckle	n.指节? 关节?v.开始工作
+wrist	n.手腕? 腕关节
+familiarization	n.亲密? 熟悉? 精通
+bulldoze	v.威吓? 欺负
+mason	n.泥瓦匠?vt.用砖瓦砌成?n.石匠， 泥瓦匠
+woodlot	n.植林地(尤指附属林场地)
+profoundly	adv.深深地? 衷心地
+hone	n.磨（刀）石vt用磨刀石磨
+tele	n.电视
+uncounted	adj.无数的?没有数过的
+profiteer	n.奸商?v.牟取暴利
+arsenal	n.兵工厂? 军械库
+ordnance	n.军火
+tycoon	n.企业界大亨? 将军?n.巨头， 大亨
+stickpin	n.领带夹(指插于领带上的装饰别针)
+flamboyant	adj.辉耀的?艳丽的?adj.艳丽的， 绚丽夺目的； 炫耀的
+rumble	v.隆隆声?低沉地说?n.隆隆声? 吵嚷声
+gunfire	n.炮火
+ameliorate	v.改善? 改进
+heartbreak	n.心碎；伤心事
+northerner	n.北国人? 北方人
+tingle	v.造成麻刺的感觉?使感刺痛
+achingly	adv.极其?非常痛地
+roadway	n.车行道? 路面
+royal	adj.皇家的? 高贵的
+promoter	n.促进者? 助长者
+hydra	n.[希神]九头怪蛇? 难以根除之祸害? [动]水螅
+coelenterate	n.[动]腔肠动物?adj.腔肠动物的
+plantlike	adj.似植物的
+homeownership	n.房主
+acceleration	n.加速度?加速
+traction	n.牵引?牵引力
+dictaphone	n.录音电话机（商标名称） [商标名] 录音机
+utter	adj.全然的? 绝对的?v.发出? 发射?adj.完全的?vt.出声；说
+succinctly	adv.简洁地? 简便地
+codify	v.把…编成法典? 编纂?vt.把…编成法典， 使法律成文化； 整理， 系统化
+soul	n.灵魂? 精髓
+airy	adj.通风的? 轻快的
+reconstitute	v.重新组成? 重新设立
+overexploitation	n.(对资源等的)过度开采?(对工人等的)过度剥削
+designation	n.指示? 指定? 名称
+entrench	v.以壕沟防护?保护?vt.使根深蒂固， 牢固确立
+thousandth	adj.第一千的? 千分之一的
+woodworking	n.木工艺? 木工行业?adj.干木工活的
+demolition	n.毁坏? 毁坏之遗迹
+magnification	n.扩大? 放大倍率
+bat	n.蝙蝠? 球棒 v用球棒击球
+sawyer	n.锯木匠? 漂流水中的树木
+wavy	adj.波状的?不稳的
+cooper	n.制桶工人?v.制桶
+forestall	v.之前? 先(用先发制人的方法)预防? 阻止?vt.预防， 预先阻止； 先发制人
+melange	n.混合物? 杂录
+waterside	n.n&?adj.水边(的)?湖畔(的)
+improbable	adj.不大可能的? 不像会发生的? 似不可信的
+kiosk	n.亭子
+cordwainer	n.鞋匠
+sear	adj.烤焦的? 枯萎的?v.烤焦?变干枯
+negligibly	adv.可忽略不计地? 微不足道地? 极小地
+abut	v.邻接? 毗邻?v.邻接， 毗邻
+annex	n.附件?v.并吞? 附加?vt.兼并； 附加
+proliferate	v.繁殖?使激增? 使扩散?vi.激增， 迅速繁殖
+spank	v.鞭策前进?v.轻快的移动?n.拍击
+peart	adj.有精神的? 快活的
+Indonesia	n.印尼(东南亚岛国)
+Thailand	n.泰国
+newberry	n.纽伯里
+keenly	adv.敏锐地? 强烈地? 热心地
+captivate	v.迷住? 迷惑
+philanthropist	n.慈善家?博爱的人
+purplish	adj.略带紫色的
+venerable	adj.值得尊敬的? 庄严的
+sargeant	n.萨金特
+unmarried	adj.未婚的? 单身的
+gentility	n.文雅? 出身高贵? 有教养?n.有教养， 文雅
+plasticity	n.可塑性? 塑性
+carpet	n.地毯
+regimentation	n.管辖?严格控制
+rarer	adj.稀罕的? 珍贵的
+jibe	v.嘲笑? 与一致? 使转向
+knead	v.揉(面等)成团? 按摩
+nonchalant	adj.若无其事的? 不关心的? 冷淡的
+humanlike	adj.似人类的
+boron	n.[化]硼
+dump	v.倾倒(垃圾)? 倾卸?n.堆存处?vt.丢弃，倾倒；抛弃；推卸；倾销?n.垃圾场
+topographically	adv.地形地
+mandatory	adj.命令的? 托管的?n.强制的，法定的，义务的； 受托人； 代理人
+scholarly	adj.学者气质的? 学者风度的
+offering	n.提供? 奉献物
+chlorine	n.[化]氯?n.氯
+bromine	n.[化]溴
+gush	v.涌出?滔滔不绝?n.迸发?v.滔滔不绝地说；喷涌?n.喷出， 涌出； 迸发， 发作
+kea	n.食肉鹦鹉
+hillbilly	n.山地内部的贫农?乡下人
+pont	n.(南非的)缆拉渡船
+resettle	v.(使)重新定居?再坐下来
+pivotal	adj.重要的? 轴的
+untimely	a&ad.不适时的? 不合时宜的
+sack	n.大袋? 大袋之量?v.解雇? 洗劫
+pointe	n.（芭蕾舞中的）足尖舞
+woodcutting	adj.木雕的?n.伐木? 木刻
+chapter	n.(书籍)章?回
+circulatory	adj.循环的? 循环系统的
+unquestioning	adj.无条件的? 不犹豫的
+primatology	n.灵长类动物学
+demerit	n.缺点?过失
+tyrannical	adj.暴虐的? 压制的? 残暴的?adj.专制的， 残暴的， 专横的
+potentiality	n.(用复数)潜能?可能性
+applicability	n.适用性? 适应性
+terrible	adj.很糟的? 极坏的?骇人的
+glossy	adj.平滑的? 有光泽的?adj.光滑的； 光彩夺目的； 浮华的
+relevance	n.中肯? 适当?n.有关， 相关； 中肯， 适当； 重大关系， 意义； 实用性
+wanderer	n.流浪者? 徘徊者? 迷路的动物
+rebirth	n.复活? 新生
+unfertilized	adj.未施肥的? 未受精的
+folklore	n.民间传说? 民俗学?n.民间传说； 民俗学
+fumigate	v.熏制? 以烟熏消毒?vt.烟熏， 香薰
+unverified	adj.未经证实的? 未经核对的
+uncontested	adj.无争论的? 无异议的
+nutritionist	n.营养学家
+dismal	adj.阴沉的? 凄凉的n沼泽?adj.阴沉的， 阴郁的； 忧郁的， 沮丧的； 差劲的
+roe	n.鱼卵?獐鹿?n.鱼卵
+unrecognizable	adj.未被承认的? 无法识别的
+soup	n.汤
+directive	n.指示?adj.指导的
+september	n.九月(略作Sep)
+unreachable	adj.不能到达的? 不能得到的
+slowness	n.缓慢? 迟钝
+herculean	adj.极困难的?需要大力气的
+colossal	adj.巨大的? <口>异常的
+imprisonment	n.关押?监禁
+treason	n.叛逆? 通敌? 背信
+wold	n.无树木的山地? 荒野
+abalone	n.[动]鲍鱼(软体动物)
+mime	n.哑剧?v.做哑剧表演?v.模拟，模仿?n.喜剧； 哑剧； 哑剧演员； 模拟表演
+dram	n.液量特兰(药衡系统中的容量单位)? 少量
+retool	v.将机械重新整备? 重组
+urchin	n.顽童? [动物]刺猥? [动物]海胆
+relational	adj.有关系的? 亲属的
+demobilize	v.使复员? 使退伍? 遣散?vt.遣散； 使复员
+palimpsest	n.重写本
+hermetic	adj.密封的? 与外界隔绝的
+lust	n.繁殖力? 强烈的性欲?v.强烈欲望?v.对…有强烈的欲望?n.性欲；强烈的欲望
+posthumously	adv.在死后
+revolt	v& n.反抗?反叛?v.反叛，反抗；违抗；厌恶，反感?n.起义， 叛乱， 反抗
+maw	n.动物的胃?口部
+bryn	n.布琳
+consistency	n.坚固性? 浓度? 一致性?n.浓度， 密度； 一致性， 协调； 连接， 结合
+sentimentalism	n.感情主义? 沉于情感
+philosophic	adj.哲学的? 哲学家的
+trilogy	n.三部剧? 三部曲?n.三部剧， 三部曲
+diction	n.措辞? 用语? 言语?n.措辞， 用语
+stylish	adj.时髦的? 漂亮的? 流行的?adj.漂亮的， 时髦的； 高雅的， 有格调的
+waist	n.腰部? 衣服的上身部分
+storehouses	n.仓库? 储藏所? 宝藏
+uncharted	adj.地图上没标明的?未知的
+hanker	v.渴望? 追求
+rattlesnake	n.<美>[动]响尾蛇
+brim	n.(杯? 碗等)边? 边缘?v.注满
+boot	n.<美> (长统)靴
+garb	n.服装?v.装扮?n.服装，装束?vt.穿着， 装扮
+collarless	adj.无领的?无马轭(或颈圈)的
+cowhand	n.<美>(牧场的)牧牛工?n.牛仔， 牧牛工
+taxonomy	n.分类法? 分类学
+narrower	adj.有限的? 精密的?n.海峡
+waterfall	n.瀑布? 瀑布似的东西
+hibernation	n.过冬? 冬眠? 避寒?n.冬眠； 休眠， 蛰伏
+evenness	n.平均? 平等? 平坦
+poikilotherm	n.[动]变温动物?冷血动物
+unload	v.卸货?v.摆脱之负担
+depositor	n.寄托者? 存款人
+lyrically	adv.抒情地? 狂热地
+theatrically	adv.戏剧化地
+splinter	n.尖片? 碎片?v.分裂
+tonnage	n.登记吨位? 排水量
+seagoing	adj.适于远航的?出海的
+jacket	n.夹克?护封?v.给穿夹克
+fisherman	n.渔民? 渔夫
+mainsheet	n.主桅帆操纵索
+oblivious	adj.没注意到? 健忘的?adj.遗忘的； 未注意的， 不知不觉的
+coaming	n.舱口栏板? 边材
+lad	n.少年? 青年男子
+choppy	adj.（海等）波浪起伏的? (指风)不断改变方向的?adj.波浪起伏的， 不平静的； 不连贯的， 支离破碎的
+illustrator	n.插图画家?说明者
+ectothermic	n.变温动物
+poikilothermic	adj.[动]变温的? 冷血动物的
+locomote	v.移动? 行动
+inadequately	adv.不够地? 不够好
+onetime	adj.从前的? 一度的?adv.从前
+eyesight	n.视力? 目力
+comical	adj.好笑的? 滑稽的
+mollusk	n.[动]软体动物
+rediscover	v.重新发现
+eminent	adj.著名的? 卓越的?adj.显著的， 杰出的
+silence	n.寂静? 沉默?v.使沉默
+sequester	v.使隐退? 扣押? 没收
+metazoan	n&a.[动]后生动物(的)
+abreast	adv.并肩地? 并排地?adv.并列地， 并排地
+serum	n.浆液? 血清
+adrenaline	n.肾上腺素(使激动兴奋等)
+milieu	n.周围? 环境?n.出身背景； 社会环境
+compensatory	adj.赔偿的? 补偿的
+unconventional	adj.非传统的? 不合惯例的
+gibe	v.嘲笑?讥笑?n.嘲笑?n&v.嘲弄， 讥笑
+proprietor	n.所有者? 经营者?n.所有者， 业主
+silly	adj.愚蠢的? 可笑的
+metric	adj.米制的? 公制的?adj.米制的； 公制的
+lintel	n.[建]楣? 过梁
+untapped	adj.塞子未开的? 未使用的?adj.未开发的， 未使用的
+corral	n.畜栏?v.关进畜栏
+playwright	n.剧作家
+Cuban	n.古巴人?adj.古巴(人)的
+char	v.烧焦?n.碳
+tavernkeeper	n.小餐馆老板
+slavish	adj.奴隶的? 盲从的? 专横的
+emotive	adj.感情的? 引起强烈感情的
+physic	n.医术?vt.治愈
+synapsis	n.[生]染色体结合? 突触
+unsophisticated	adj.不谙世故的? 不复杂的
+unspoiled	adj.未损坏的? 未宠坏的
+arthritis	n.关节炎
+whim	n.一时的兴致? 奇想?n.一时的兴致， 冲动； 怪念头， 奇想
+hospitable	adj.好客的? 宜人的?adj.宜人的； 好客的， 殷勤的； 开通的
+carnivorous	adj.食肉的? 肉食性的
+depredation	n.掠夺? 破坏痕迹?n.劫掠， 掠夺， 破坏
+nostalgia	n.乡愁? 怀旧之情?n.思乡病， 乡愁； 怀旧之情， 恋旧
+stewpot	n.双把炖锅
+adolescence	n.青春期?n.青春
+ministry	n.(政府的)部门
+Toronto	n.多伦多（加拿大）
+narrowly	adv.勉强地? 精细地
+spar	n.争论?园材(如桅?桁等)
+hometown	n.故乡
+dough	n.生面团
+flair	n.才能? 本领?n.才能， 本领； 天资
+esoteric	adj.秘传的? 神秘的? 难懂的
+potion	n.一服? 一剂
+laboriously	adv.艰难地? 辛勤地
+elixir	n.炼金药? 不老长寿药
+inextricably	adv.分不开地? 无法摆脱地
+imprecise	adj.不精确的?adj.不精确的； 不严密的
+bless	v.祝福? 保佑
+quaker	n.教友派信徒? 贵格会会员
+alternately	adv.交替地?轮流地
+thermodynamic	adj.热力学的? 使用热动力的
+uncrumple	vt.去掉…的皱纹?使回复到平整状态
+dinner	n.正餐? 宴会
+untwist	v.拆开(搓合的绳?线等)? 解开
+selfless	adj.无私的
+fanatical	adj.狂热的? 入迷的
+coax	v.巧妙地（耐心地）处理?哄
+flue	n.烟道? 暖气管
+pivot	n.枢轴?v.在枢轴上转动?v.在枢轴上旋转?n.枢轴；中心点；核心
+recline	v.向后倚靠， 斜倚
+crusade	v.加入十字军， 投身正义运动?n.十字军；斗争，运动
+twinkling	adj.闪光的?n.瞬间，一眨眼
+customs	n.关税， 进口税； 海关
+require	vt.需要； 要求， 命令
+corporeal	adj.肉体的， 身体的； 物质的； 实体的
+irritable	adj.急躁的， 易怒的； 易受刺激的； 过敏的
+legible	adj.清楚的； 易读的
+ageism	n.年龄歧视
+luminosity	n.亮度， 发光度； 光明
+dogged	adj.顽强的， 坚持不懈的； 顽固的， 固执的
+choreograph	v.设计舞蹈动作， 编舞
+nonverbal	adj.非语言的
+deploy	vt.部署， 调度； 利用
+syntactic	adj.句法的； 按照句法的
+rendition	n.表演， 演唱； 提供， 给予； 翻译
+superstitious	adj.迷信的， 受迷信思想支配的
+elasticity	n.弹力； 弹性
+proactive	adj.积极主动的； 先发制人的
+verifiable	adj.可证实的， 可核实的
+conducive	adj.有助于…的， 有益于…的
+curative	adj.有助于治疗的，有疗效的?n.药物
+cartilage	n.软骨
+snide	adj.伪造的； 不诚实的； 讽刺的， 挖苦的， 含沙射影的
+penmanship	n.书法
+tinker	vi.做焊锅匠；做拙劣修补?n.补锅匠
+part-time	adj.兼职的； 部分时间的
+odorous	adj.有气味的， 难闻的； 香的， 芬芳的
+mottled	adj.有杂色的， 斑驳的
+seismograph	n.地震仪， 测震仪
+podium	n.讲坛， 讲台； 指挥台
+binary	adj.二进制的； 二元的； 由两部分组成的
+crazy	adj.疯狂的， 不理智的； 狂热的， 热衷的； 精神失常的
+homage	n.尊敬， 敬意
+hypertext	n.超文本
+bedrock	n.基础， 根基； 基岩
+newsprint	n.新闻纸
+harmonic	n.泛音；
+anecdote	n.秘闻； 轶事， 趣闻
+officious	adj.爱发号施令的， 爱指手画脚的
+infiltrate	v.渗入， 渗透； 悄悄进入， 潜入
+delinquency	n.行为不良； 过失， 失职
+pliant	adj.柔软的； 温顺的； 易受影响的
+sneaky	adj.偷偷摸摸的， 鬼鬼祟祟的
+lax	adj.懒散的； 不严格的， 马虎的
+pernicious	adj.有害的， 恶性的
+cohabitation	n.同居， 同住
+captivity	n.囚禁， 拘留
+inflate	v.充气， 膨胀； 鼓吹， 吹捧； 涨价
+supply	n.供应；储备；补给?vt.供给， 供应； 满足， 弥补
+antonym	n.反义词
+homing	adj.有返回原地本能的
+state	v.陈述， 说明， 声明； 规定?n.情况，状况；国家；州
+picky	adj.挑剔的， 难以取悦的
+aftermath	n.后果， 余波
+effluent	n.流出物， 废水， 污水
+untamed	adj.未驯服的， 难驾驭的
+sweeping	adj.彻底的，广泛的；〈贬〉笼统的，一概而论的?n.清扫， 扫除； 垃圾
+ardent	adj.热心的， 热情洋溢的
+façade	n.正面； 表面
+quiz	n.小测验；智力竞赛?vt.测验； 盘问， 查问， 询问
+biochemical	adj.生物化学的， 生化的
+librarian	n.图书馆馆长； 图书管理员
+suborn	vt.收买， 买通， 唆使
+ordinal	adj.序数的；顺序的?n.序数词
+source	n.源， 源泉； 来源， 出处； 信息来源
+detergent	adj.净化的， 清洁的?n.清洁剂
+fume	vi.冒烟； 大为恼火
+mellow	adj.醇香的；柔和的；成熟的?v.醇香； 柔和； 成熟
+salamander	n.火蜥蜴； 火蛇
+hitch	v.搭便车；提起，拉起；拴住?n.故障， 障碍
+furry	adj.毛皮似的； 盖着毛皮的； 生苔的
+anomie	n.社会道德沦丧， 失范； 混乱
+parking	n.机动车停放； 停车场
+ordeal	n.折磨； 严峻考验
+wretch	n.不幸的人； 恶棍， 无赖
+creative	adj.有创造力的， 创造性的
+bagel	n.硬面包圈
+psychoanalysis	n.心理分析， 精神分析
+bilingualism	n.双语现象
+frivolous	adj.琐碎的， 无关紧要的； 愚蠢的， 可笑的； 无聊的， 不严肃的， 轻佻的
+funding	n.基金， 资金； 提供资金
+adversary	n.对手， 敌手
+shrivel	v.枯萎
+encrust	v.在表面形成硬壳， 结壳； 用…装饰外层
+audible	adj.听得见的
+exhort	vt.劝告， 规劝， 告诫
+checked	adj.格子花纹的； 棋盘状的
+ambush	n&vt.埋伏， 伏击
+quadruple	v.成四倍?adj.四部分组成的；四倍的?n.四倍
+nimble	adj.敏捷的， 灵活的
+amiable	adj.可爱的； 友好的， 和蔼的， 亲切的
+condiment	n.调味品
+certitude	n.确定， 确信； 必然性
+mathematics	n.数学
+cookout	n.野外烧烤宴会
+reschedule	vt.重新计划， 重订…的时间表
+somber	adj.昏暗的； 忧郁的
+chromosome	n.染色体
+confession	n.供认， 招供， 坦白； 供词； 承认
+meridian	n.子午线， 经线
+fiery	adj.似火的； 易怒的， 暴躁的
+dote	vi.溺爱
+clog	v.堵塞，阻塞?n.障碍
+dilate	v.膨胀， 扩大； 详述
+bequeath	vt.遗赠； 流传
+brag	v.吹嘘， 自夸， 自吹自擂
+annoyed	adj.生气的
+term	n.学期；期限，期间；条件，条款；术语?vt.把…称为
+so-called	adj.所谓的
+syllabus	n.教学大纲， 课程提纲
+impel	vt.驱使， 促使
+adamant	adj.坚定不移的， 坚决的； 固执的
+molten	adj.熔化的， 熔融的
+varied	adj.各式各样的
+graph	n.图表
+precautionary	adj.预防的
+solvent	adj.有溶解力的； 有偿付能力的?n.溶剂
+nude	adj.裸体的
+palate	n.上腭； 味觉， 品尝力
+influenza	n.流行性感冒
+apprehend	vt.逮捕； 领会， 理解
+crippling	adj.令人震惊的； 严重损害身体的； 极其有害的
+recoup	vt.收回， 弥补
+append	vt.附加， 增补
+newsletter	n.时事通讯
+copilot	n.副驾驶员
+bellows	n.风箱
+charisma	n.超凡魅力； 感召力； 号召力
+patriarchic	adj.家长的， 族长的； 德高望重的
+torrent	n.洪流， 急流； 爆发， 迸发
+virtuous	adj.有道德的， 品行端正的， 品德高的； 〈贬〉自命清高的， 自以为是的
+renown	n.名望， 声誉
+semantic	adj.语义的
+skim	v.撇去； 掠过， 擦过； 浏览， 略读
+liquefy	v.溶解， 液化
+exodus	n.大批离去， 成群外出
+digression	n.离题， 扯到枝节上； 题外话， 枝节内容
+grudge	v.勉强做； 不情愿地给?n.怨恨，积怨
+melanin	n.黑色素
+ethical	adj.道德的
+lunge	vi&n.猛冲， 猛扑
+fraudulent	adj.欺诈的， 欺骗性的
+approximation	n.接近； 近似值
+disconcert	vt.使惊慌， 使不安； 使困惑
+overact	v.把表演得过火； 表现做作
+balk	v.畏缩； 阻止； 妨碍?n.障碍
+oversleep	v.睡过头； 睡得过久
+oratorio	n.清唱剧， 宗教剧
+X-ray	n.X射线， X光； X光照片
+physical	adj.物理的；物质的，有形的；身体的，肉体的?n.体检
+opposed	adj.反对的； 截然不同的
+familiarize	vt.使熟悉
+apportionment	n.分派， 分摊， 分配
+ripen	v.成熟
+opal	n.蛋白石
+curl	v.卷曲，蜷缩?n.卷发； 卷曲状； 卷曲物
+dearth	n.缺乏， 短缺
+scornful	adj.轻蔑的， 鄙视的
+beneficent	adj.有益的； 行善的， 慈善的
+gilding	n.镀金； 贴金层， 镀金层； 金色涂层
+balm	n.香脂油， 药膏； 镇痛剂， 安慰剂
+externality	n.外部性， 外界效应
+augment	vt.增加， 提高
+tangent	adj.切线的， 相切的?n.切线；正切
+acquit	vt.宣告无罪； 表现
+blizzard	n.暴风雪， 大风雪
+geometry	n.几何， 几何学
+far-fetched	adj.牵强的
+craftsman	n.能工巧匠， 手艺人， 工艺师
+aberrant	adj.越轨的； 异常的
+lope	vi.轻松地大步跑?n.轻快的步伐
+ellipse	n.椭圆， 椭圆形
+abort	v.夭折， 中止； 使流产
+defer	v.推迟， 延期
+drowsy	adj.昏昏欲睡的； 催眠的
+muggy	adj.闷热的
+revoke	vt.撤销， 撤回； 取消， 废除
+allot	vt.分配， 配给， 拨给
+interest	n.兴趣，关注；业余爱好；利息；利害关系?vt.使感兴趣， 引起…关注
+evacuation	n.撤离
+landing	n.登陆； 着陆， 降落
+base	adj.卑鄙的， 不道德的?vt.把设在；
+leftover	adj.剩余的
+indict	vt.控诉， 起诉， 控告
+courier	n.送急件的人， 信使； 旅游服务员
+stampede	v.狂奔，涌向；使仓促行事?n.逃窜， 狂奔； 热潮， 风尚
+gorge	v.狼吞虎咽?n.山峡， 峡谷
+mannerism	n.怪癖， 癖性； 过分的独特风格
+excise	vt.切除； 删去
+hockey	n.曲棍球
+perquisite	n.津贴， 利益； 特权
+monastery	n.男修道院， 寺院
+devout	adj.虔敬的； 诚恳的
+maze	n.迷宫；复杂难懂的细节；困惑，迷惘?vt.使混乱； 使困惑， 迷惑
+negligent	adj.忽略的； 疏忽的； 粗心大意的
+evade	v.逃避， 回避； 躲开， 避开
+associative	adj.联想的； 结合的； 关联的
+backhand	n.反手击球
+sporadic	adj.偶发的， 间或出现的， 零星的
+turnout	n.出席人数； 产量， 产额
+libel	vt.诽谤?n.诽谤； 诽谤性文字
+abortive	adj.落空的， 失败的
+anguish	v.极度痛苦?n.极度痛苦
+refraction	n.折射
+aerobics	n.有氧运动
+inviting	adj.动人的， 诱人的； 引人注目的
+ailment	n.小病
+charismatic	adj.蒙受神恩的； 有超凡魅力的
+staunch	adj.坚定的， 忠诚的
+insolvent	adj.财力不足的， 破产的
+empiricism	n.经验论， 经验主义
+annotation	n.注释， 注解
+toed	adj.有趾的
+maglev	n.磁力悬浮火车
+polygamous	adj.一夫多妻的， 一妻多夫的
+suspense	n.担心， 焦虑； 悬念， 不确定
+gemstone	n.经雕琢的宝石
+shred	n.碎片，细条；些许，少量?vt.切碎， 撕碎
+elm	n.榆树
+staggered	adj.交错的， 错开的； 震惊的
+transact	v.交易； 执行， 处理
+lasting	adj.持久的， 永久的
+tortuous	adj.折磨人的， 令人痛苦的； 曲折的， 蜿蜒的； 含混不清的， 拐弯抹角的
+havoc	n.混乱， 大破坏
+vagrant	adj.漂泊的?n.无业游民，流浪者
+packed	adj.拥挤的； 压紧的
+delirium	n.精神错乱， 神志失常
+cipher	n.密码， 暗号
+slacken	v.松弛， 放松； 减缓， 放慢
+abiding	adj.持久的， 永久的
+diminution	n.减少， 缩减
+digitize	vt.数字化
+shape	n.形状，外形，样子；体形，身材；形式；幻象；情况，状况?vt.使成为…形状， 塑造； 决定…的形成
+allegiance	n.忠诚， 效忠， 拥戴
+wanna	v.想要
+malnutrition	n.营养不良
+giraffe	n.长颈鹿
+epitomize	vt.成为…的缩影； 摘要， 概括， 缩写
+wintry	adj.冬天的； 寒冷的； 冷淡的
+cohere	vi.连贯， 一致； 黏合； 齐心协力， 团结一致
+dispel	vt.驱散， 驱逐； 消除
+cascara	n.缓泻剂
+optimize	vt.使最优化； 充分利用
+rejuvenate	vt.使年轻； 使恢复活力
+obituary	n.讣闻， 讣告
+dignify	vt.使有尊严， 使高贵； 美化
+bluster	v.虚张声势地恫吓； 猛刮
+impending	adj.即将发生的， 迫近的
+centric	adj.以…为中心的
+slog	v.艰难行进； 埋头苦干； 猛击
+plaudit	n.喝彩；赞美
+reversible	adj.可逆的， 可翻转的； 正反两用的； 可恢复原状的
+flick	v.轻拍；移动?n.轻拍； 浏览
+prelude	n.前奏曲， 序幕
+grump	vi.发脾气，发牢骚?n.脾气不好的人
+sprain	n&vt.扭伤
+adroit	adj.精明的， 干练的； 熟练的， 灵巧的
+grovel	vi.摇尾乞怜， 奴颜婢膝
+dissuade	vt.劝阻， 阻止
+sneaker	n.鬼鬼祟祟的人， 卑鄙者； 运动鞋
+allergy	n.过敏性反应
+disinterested	adj.客观的， 无私的， 公正的； 无兴趣的， 不关心的
+confidant	n.知己， 密友
+leach	v.过滤；溶解?n.过滤器； 过滤剂
+lost-and-found	n.失物招领
+knack	n.诀窍； 技能， 本领； 习惯， 癖好
+indolent	adj.懒惰的， 懒散的； 不活跃的
+ripe	adj.熟的； 成熟的
+tout	v.吹捧； 兜售
+expropriate	vt.征用， 没收
+remains	n.剩余物， 残留物； 古代遗物， 遗迹， 遗址； 遗骸
+reiterate	vt.反复说， 重申
+engineering	n.工程； 工程学
+affable	adj.和蔼可亲的， 易于交谈的， 友善的
+trumpet	v.鼓吹，宣扬?n.小号， 喇叭
+conservationist	n.自然环境保护论者
+indigestion	n.消化不良
+preliterate	adj.文字出现以前的， 没有文字的
+mischievous	adj.恶作剧的， 顽皮的， 淘气的； 恶意的
+arable	adj.可耕作的，适于耕作的?n.可耕地
+refer	v.提到， 谈及； 查阅， 参考
+stellar	adj.星的， 恒星的， 星球的； 精彩的； 优秀的
+ambivalent	adj.对立的， 感情矛盾的
+futile	adj.无效的， 无用的， 无意义的； 琐细的； 没出息的
+pensive	adj.沉思的； 忧虑的
+reliever	n.救济者； 缓解物
+acumen	n.敏锐， 聪明
+abate	v.减少， 减轻
+eschew	vt.避开， 戒除， 回避
+stardom	n.明星的身份
+noteworthy	adj.显著的， 值得注目的
+shirk	v.逃避， 规避
+staggering	adj.巨大的； 势不可挡的； 惊人的， 令人吃惊的
+incredulous	adj.怀疑的， 不轻信的
+condole	vi.向…吊唁； 慰问
+finalize	vt.使完成； 把…最后定下来； 定稿
+marked	adj.显著的； 有记号的； 被监视的
+pathological	adj.病态的； 病理学的； 不理智的， 无道理的
+recurring	adj.往复的， 反复的， 再次发生的
+pleasing	adj.令人高兴的， 愉快的
+gait	n.步法， 步态
+overhaul	n.仔细检查； 彻底检修?vt.仔细检查； 彻底检修
+stigma	n.污点， 耻辱； 烙印； 特征
+along	adv.向前；一起?prep.沿着
+cashier	n.收银员， 出纳员
+inert	adj.无活动的， 惰性的； 不活泼的， 迟钝的
+dissimulate	v.掩盖， 掩饰， 假装
+soccer	n.足球
+respire	v.呼吸
+rebate	n.回扣， 折扣； 退还款
+idealize	vt.将…理想化
+gouge	vt.挖出；敲竹杠?n.凿子
+succumb	vi.屈服， 屈从； 死亡
+sauce	n.调味汁， 佐料
+ablaze	adj.着火的， 燃烧的； 闪耀的； 情绪激动的
+grouse	v.发牢骚，抱怨?n.松鸡； 怨言
+saucy	adj.无礼的； 俏皮的； 漂亮的
+league	n.联盟， 同盟； 等级， 级别
+uncanny	adj.神秘的； 易乎寻常的
+frank	adj.坦白的， 直率的
+infuriate	vt.激怒
+scarf	n.围巾， 披巾， 头巾
+graphics	n.图形， 图像； 制图法， 制图学
+larynx	n.喉
+amalgamation	n.融合， 合并； 联合， 结合
+image	n.形象， 印象； 画像； 影像， 映像； 意象， 比喻
+waggle	v&n.摆动
+salon	n.营业性的厅； 沙龙； 客厅， 会客厅
+rehearse	v.预演， 排练； 默诵； 照搬， 重复
+pesticide	n.杀虫剂， 农药
+depose	vt.革除， 罢免， 废黜
+correspondent	n.报道者， 记者； 通信者
+abhor	vt.憎恨， 厌恶
+transcribe	vt.记录， 抄录； 转录； 改编
+advisory	adj.顾问的，咨询的；劝告的?n.警报
+traditional	adj.传统的， 惯例的； 口传的， 传说的
+well-heeled	adj.富有的， 有钱的
+matrimony	n.婚姻， 婚配
+suffragist	n.妇女政权论者
+melodious	adj.旋律优美的， 悦耳的
+ethnology	n.民族学， 文化人类学
+ability	n.能力， 才干
+terminus	n.终点站
+placid	adj.平静的， 安静的； 温和的， 文静的
+laudable	adj.值得赞美的， 值得称赞的
+turmoil	n.骚动， 混乱； 焦虑
+modernity	n.现代性
+schematic	adj.图解的； 纲要的； 严谨的
+rekindle	vt.重新点燃； 使振作
+synchronizer	n.同步装置
+troposphere	n.对流层
+swindle	vt&n.诈骗， 骗取
+aroma	n.芳香， 香味； 气氛， 氛围
+subversive	adj.颠覆性的，破坏性的?n.颠覆分子
+strategic	adj.对全局有重要意义的， 关键的； 战略性的
+expedient	adj.得当的， 可取的?n.权宜之计，应急办法，临时手段
+ensconce	vt.使安顿， 安置， 使安坐
+antecede	vt.居先； 高于
+homosexuality	n.同性恋； 同性恋行为
+minus	adj.减的，负的?prep.减?n.负数；减号；不足
+seem	v.好像， 似乎
+apprenticeship	n.学徒的身份； 学徒的年限
+intern	n.实习生?vt.拘禁， 软禁
+sensual	adj.感觉的， 感官的； 肉欲的； 耽于感官享受的
+righteous	adj.正直的， 公正的； 正义的， 正当的
+scourge	vt.鞭笞；使受苦，折磨?n.鞭子； 祸害； 鞭笞
+atrophy	n.萎缩
+endangered	adj.濒危的， 将要灭绝的
+haphazard	adj.偶然的， 任意的； 无计划的， 无秩序的
+biannual	adj.一年两次的
+ambiguity	n.模棱两可的话； 歧义
+postcard	n.明信片
+organism	n.生物， 有机物； 有机体
+outspoken	adj.直言不讳的， 坦率的
+amphibious	adj.两栖的； 水陆两用的
+brighten	v.更明亮； 快活起来； 有希望
+choir	vi.合唱?n.唱诗班，合唱队
+method	n.方法， 办法， 措施； 秩序
+scroll	n.卷轴； 纸卷， 画卷； 名册
+sluggish	adj.行动迟缓的； 不活泼的； 无精打采的， 怠惰的
+assail	vt.抨击， 指责； 猛攻； 困扰
+seismology	n.地震学
+hemp	n.大麻； 由大麻制成的麻醉药
+barber	v.为…理发； 当理发师?n.理发师
+braid	n.穗带，饰带；发辫?vt.编织； 编成辫子
+sound	adj.可靠的；健康的，完好无损的；合理的?v.似乎； 测量…的深度
+vibrate	v.颤动， 振动
+multiplicative	adj.倍增的； 乘法的
+healing	adj.有治疗功用的?n.康复， 治疗； 复原
+simmer	vi.充满；煨，炖?n.煨， 炖
+famish	v.饥饿
+dazzling	adj.令人眼花缭乱的， 耀眼的
+rotational	adj.旋转的； 轮流的
+quash	vt.撤销， 废止； 镇压； 平息
+abridge	vt.缩短， 删节， 节略， 精简
+engaging	adj.迷人的
+nosy	adj.爱管闲事的， 好打听的
+salient	adj.显著的， 突出的
+inverse	adj.相反的，反向的?n.反面； 倒数
+cuisine	n.烹饪； 烹调法， 烹调风格
+readability	n.可读性
+interrogate	vt.审问， 讯问， 盘问
+sleigh	n.雪橇
+rancorous	adj.怨恨的， 满怀恶意的
+trauma	n.精神创伤； 外伤； 痛苦经历
+optional	adj.可以任选的， 非强制的
+chronical	adj.慢性的， 延续很长的
+evacuate	v.疏散， 撤离； 排空
+hearsay	n.谣言， 传闻， 道听途说
+incapacitate	vt.使无资格； 使失去能力； 使不胜任
+deceitful	adj.欺诈的， 惯于欺骗的， 不诚实的
+audition	n.旁听； 试演
+sharpen	v.削尖， 磨快； 使敏锐； 变得清晰
+stingy	adj.吝啬的， 小气的
+morgue	n.停尸房， 太平间
+pocketbook	n.钱袋， 皮夹； 财政状况， 财力
+afoul	adv.相抵触， 有冲突
+pastel	adj.彩色蜡笔的；柔和的?n.彩色蜡笔
+middleman	n.中间人， 调解人； 经纪人
+invitation	n.邀请； 请柬； 吸引， 诱惑
+emerald	n.祖母绿， 绿宝石； 翡翠绿
+sociable	adj.好交际的， 合群的； 友善的， 友好的
+exhilarating	adj.令人高兴的， 使人兴奋的
+avenge	vt.复仇， 报仇； 向…报仇
+sculpt	vt.雕刻
+outgas	vt.除去气
+puritanical	adj.极守道德的
+retrospective	adj.回顾的， 追想的； 有追溯效力的
+lucrative	adj.赚钱的， 获利的， 有利可图的
+pinnacle	n.山顶， 顶峰； 鼎盛时期； 小尖塔
+copious	adj.丰富的， 富饶的
+aria	n.独唱曲， 咏叹调
+abysmal	adj.深不可测的； 极坏的， 糟透的
+verbiage	n.冗词， 赘言， 废话
+plumage	n.鸟类羽毛
+piracy	n.海盗行为； 抢劫行为； 剽窃行为
+legislate	v.制定法律； 通过立法
+frugal	adj.节约的， 节俭的； 少量的
+franchise	n.特权，特许；特许经销权；选举权?vt.赋予特权； 赋予选举权
+laureate	adj.享有殊荣的?n.桂冠诗人；荣誉获得者
+infirm	adj.虚弱的； 不坚定的
+scrupulous	adj.多顾虑的， 谨慎的； 一丝不苟的， 严谨的； 审慎正直的， 恪守道德规范的
+annul	vt.宣布无效， 取消， 废除
+absolve	vt.赦免； 免除； 宽恕
+Mesolithic	adj.中石器时代的?n.中石器时代
+grievous	adj.令人忧伤的； 极严重的
+oblong	adj.矩形的，长方形的；椭圆形的?n.矩形， 长方形； 椭圆形
+genetics	n.遗传学
+redeem	vt.赎回； 偿清， 付清； 兑换； 弥补， 补偿； 履行， 遵守
+rationality	n.理性； 合理性
+monogamy	n.一夫一妻制
+chagrin	n.懊恼， 失望
+forfeit	vt.被没收，丧失?n.罚款； 没收物
+quotient	n.商； 份额
+semiotics	n.符号学
+championship	n.锦标赛，冠军赛
+sapphire	adj.天蓝色， 蔚蓝色的?n.蓝宝石，青石；蔚蓝色
+bisect	vt.把…二等分， 对半分
+wane	vi.衰退，减弱；减少；亏，缺?n.月亏； 衰落
+seasoning	n.调味品， 调料
+chivalrous	adj.有骑士精神的； 彬彬有礼的， 殷勤的
+dateline	n.日期栏； 国际日期变更线
+grazing	n.放牧； 牧场
+enlist	v.征募； 从军， 参军； 谋取
+dynamical	adj.动态的； 动力的； 充满活力的
+grading	n.评分； 等级
+decadent	adj.堕落的， 颓废的
+weathering	n.侵蚀， 风化
+disparate	adj.迥然不同的
+defiant	adj.反叛的， 挑衅的， 公然违抗的
+startling	adj.惊人的， 令人吃惊的
+accounting	n.会计学； 会计
+pronounced	adj.显著的； 明确的
+guilty	adj.有罪的， 犯罪的； 内疚的
+injurious	adj.侮辱的， 诽谤的； 造成伤害的， 有害的
+commune	vi.与…亲密地交谈?n.群体， 公社
+focalize	v.调节焦距； 使聚焦； 使集中
+toady	vi.谄媚，奉承?n.谄媚者， 马屁精
+squabble	vi.发生口角，
+rustic	adj.乡村的； 淳朴的； 用粗糙木材制作的
+venomous	adj.有毒的， 分泌毒液的； 恶意的， 狠毒的
+overview	n.梗概， 概述
+ideomotor	adj.观念运动的
+endorse	vt.签名； 宣传， 代言； 签署； 赞同， 支持
+embargo	n.禁止贸易令；
+nocturnal	adj.夜行性的； 夜间发生的
+illustrative	adj.作为例证的； 用做说明的； 解释性的
+superimpose	vt.使重叠， 使叠加； 添加
+tantalizing	adj.诱人的
+swoop	v.猛扑； 突然袭击?n.突然行动
+swoon	vi&n.昏厥， 昏倒； 痴迷
+outrageously	adv.令人不能容忍地； 肆无忌惮地
+lapse	vi.期满终止， 失效； 衰退； 背弃?n.失误；失足
+stanza	n.节， 段
+chubby	adj.丰满的， 圆胖的
+anomalous	adj.异常的； 不规则的
+fungi	n.[fungus的复数]真菌
+trek	n&v.艰苦跋涉
+major	vi.主修， 专攻?adj.较大的；主要的；主修的?n.专业
+proofread	v.校对， 校正
+archive	n.档案室?vt.存档
+extrapolate	v.外推； 推断， 推知
+reciprocity	n.互惠， 互助； 互惠主义
+deserted	adj.荒废的， 空无一人的； 被离弃的， 被遗弃的
+anarchist	n.无政府主义者
+numeric	adj.数字的
+banner	n.横幅
+domicile	n.住处， 住所
+advance	v.前进，向前移动；发展，进步；促进；预付?adj.预先的； 先头的?n.前进；进展；预付
+fictitious	adj.虚构的； 假的； 假装的， 虚伪的
+amble	vi.缓行， 漫步
+dissolute	adj.放荡的， 放纵的， 道德沦丧的
+interrelate	v.相互关联， 紧密联系
+agile	adj.敏捷的， 灵活的
+sustainable	adj.不破坏生态平衡的， 可持续的； 足可支撑的； 可忍受的
+secede	vi.正式脱离， 退出
+interweave	v.交织， 编结
+rouse	vt.唤起， 唤醒； 激起， 鼓舞； 激怒
+smelting	n.冶炼， 熔炼
+emotional	adj.感情的， 情绪的； 引起情感的； 易动感情的
+treadmill	n.踏车； 枯燥乏味的工作
+ornithology	n.鸟类学
+perspicuous	adj.明白易懂的； 明了的
+tactile	adj.触觉的； 有触觉的； 可感触的
+extrinsic	adj.外来的， 外在的， 非本质的
+sole	adj.单独的；唯一的?n.鞋底， 脚底
+sledding	n.进展
+tangible	adj.可触摸的， 可感知的； 明确的， 确凿的； 有形的， 实际的
+congest	v.充满， 拥塞； 充血
+artifice	n.诡计， 奸计； 策略
+stadium	n.竞走场； 运动场
+impede	vt.妨碍， 阻碍， 阻止
+acting	adj.代理的?n.演戏， 表演
+smirk	vi.假笑， 得意地笑
+barbecue	v.在烤架上烧烤?n.烧烤野餐；金属烤架
+abbey	n.修道院； 大教堂
+alienable	adj.可转让的
+intrepid	adj.勇敢的， 无畏的
+accredit	vt.委任， 授权； 把…归于； 正式认可
+unconsolidated	adj.松散的， 疏松的
+consonant	adj.和谐的，协调的，符合的?n.辅音
+cassette	n.盒式录音带
+foreshorten	vt.用透视法缩小； 缩短， 节略
+confiscate	vt.没收， 充公， 征用
+filial	adj.子女的； 子孙后代的
+meteorology	n.气象学
+sore	adj.疼痛的；恼火的?n.疮口， 痛处
+curtail	vt.缩短， 缩减， 削减
+sheath	n.鞘， 外壳； 套； 护皮； 紧身连衣裙
+certificate	n.证书， 证明书； 文凭， 结业证书
+quantum	n.量子
+downside	n.缺点， 负面； 底侧； 下降趋势
+lubricant	n.润滑剂
+adventitious	adj.偶然的， 偶发的
+extort	vt.勒索， 敲诈， 强夺
+haircut	n.理发
+pointed	adj.尖的， 尖角的； 尖锐的， 尖刻的
+insulin	n.胰岛素
+ironic	adj.说反话的， 讽刺的； 出乎意料的
+monotony	n.单调， 千篇一律
+overdue	adj.过期未付的， 逾期的； 过度的， 过火的； 迟到的， 延误的
+intervening	adj.介于中间的， 发生于期间的
+congratulation	n.祝贺， 道喜
+electrolysis	n.电解作用； 电解术
+spike	n.长钉， 大钉； 猛增， 急升
+subliminal	adj.下意识的， 潜意识的
+glimmer	vi.发微光； 隐约出现?n.闪烁的微光；隐约的迹象；一丝，一线
+adhesive	adj.带黏性的?n.胶合剂
+folkway	n.社会风俗
+sequential	adj.序列的； 连续的； 随之而来的
+derivative	adj.派生的，引出的；无创意的?n.派生词， 衍生词； 派生物
+canvass	v.游说， 拉选票； 细查
+tectonics	n.构造地质学
+vaporize	v.蒸发， 汽化
+surcharge	n.额外费用，增收费，附加费?vt.收取额外费用
+fable	n.寓言； 谎言
+instill	vt.慢慢灌输； 逐渐培养
+sidebar	n.补充报道
+deplore	vt.悲叹， 哀叹， 公开谴责
+patronize	v.以高人一等的态度对待； 光顾； 赞助， 资助
+distress	n.痛苦，忧伤；贫困，窘迫；遇难?vt.使痛苦， 使悲伤， 使忧虑
+compressible	adj.可压缩的
+criss-cross	v.构成十字形图案；交叉往来?adj.纵横交错的
+bountiful	adj.慷慨的； 大量的， 充足的
+methanol	n.甲醇
+fascinating	adj.迷人的， 醉人的
+desegregate	v.废除种族隔离
+allure	n&v.诱惑， 吸引
+trivialize	vt.使显得琐碎； 轻视
+solicit	v.恳请； 乞求； 征求； 勾引； 招揽
+rhyme	v.押韵；和…同韵?n.押韵； 同韵词， 押韵词
+focal	adj.焦点的； 很重要的
+spinning	adj.旋转的?n.纺纱
+squid	n.鱿鱼， 枪乌贼
+bosom	n.胸部， 乳房； 胸怀， 内心
+differential	adj.差别的，有区别的；微分的?n.差别， 差异； 微分
+stylized	adj.非写实的； 程式化的
+terrorism	n.恐怖主义
+nominee	n.被提名者， 被任命者
+enslave	vt.奴役
+centennial	n.百年纪念
+normally	adv.通常地； 正常地
+juridical	adj.法律的， 司法的
+curtsy	vi.行屈膝礼?n.屈膝礼
+setting	n.环境； 背景； 布景； 曲； 底座， 底板
+culpable	adj.有罪的； 该谴责的， 难辞其咎的
+backlighting	n.逆光
+feign	vt.装作， 假装； 伪造
+dexterous	adj.惯用右手的； 灵巧的， 熟练的
+midterm	adj.中间的，期中的?n.期中考试； 中期； 期中
+suction	n.吸， 抽吸； 吸力
+holistic	adj.整体的， 全面的； 功能整体性的
+concord	n.和睦； 公约
+conciliate	vt.安抚， 抚慰； 调和
+accede	vi.即位， 就任； 同意
+vivify	vt.赋予生气； 使生动， 使活跃
+benevolent	adj.慈善的； 善心的
+behaviorism	n.行为主义
+contiguous	adj.接壤的， 毗邻的； 不间断的
+connote	v.意味着； 暗示
+paste	v.粘贴；拼贴?n.面团； 糨糊
+jeans	n.牛仔裤
+notate	vt.以符号表示， 把…写成记号
+artesian	adj.自流水的， 喷水的
+aquarium	n.养鱼缸； 水族馆
+soprano	n.女高音
+mortify	vt.使蒙受屈辱， 使难堪
+cram	v.填塞， 塞满； 匆忙准备， 临时死记硬背
+detest	v.憎恶
+enunciate	v.清晰地发音； 表达， 阐明
+degenerative	adj.衰退的， 堕落的； 变性的
+arithmetic	n.算术
+mismanage	vt.对…管理不当， 处理不当
+scuffle	n&vi.扭打， 混战
+watercourse	n.水道， 河道
+slough	vt.使脱落?n.泥坑， 沼泽； 绝境
+innovate	v.革新， 创新
+tender	adj.嫩的；脆弱的；温柔的，亲切的?v.提出；投标?n.投标
+blurt	vt.脱口而出
+internship	n.实习期
+spun	adj.拉成丝的
+tolerable	adj.可忍受的， 可容忍的； 尚好的， 过得去的
+bicameral	adj.两院制的， 有两个议院的
+sediment	n.沉淀物， 沉积物
+tremulous	adj.发抖的， 颤抖的； 害怕的
+hybrid	adj.杂交产生的；混合的，合成的?n.杂交植物； 混合物， 合成物
+panorama	n.全景， 全貌； 概观， 综述
+doodle	vi.乱涂， 胡画
+transcendent	adj.卓越的， 出众的
+ferment	v.发酵； 骚动?n.发酵； 动乱， 骚动
+potency	n.影响力， 支配力； 效力
+prostitution	n.卖淫； 出卖灵魂， 堕落； 滥用
+exalted	adj.崇高的， 高贵的， 显赫的
+tarnish	v.失去光泽；玷污，败坏?n.污点； 瑕疵
+acquiesce	vi.默许， 默认
+espouse	vt.支持， 拥护， 赞成
+wedge-shaped	adj.楔形的
+dupe	n.上当者?vt.欺骗， 愚弄
+empower	v.授权， 准许； 使控制局势
+fabulous	adj.寓言式的； 难以置信的； 极好的
+rug	n.地毯； 围毯
+towering	adj.高耸的； 杰出的
+enact	v.制定法律， 颁布； 扮演
+deviant	adj.不正常的，越出常规的?n.不正常的人
+pharaoh	n.法老
+scrutinize	v.仔细检查， 细察
+realtor	n.房地产经纪人
+recollection	n.记忆力； 回忆， 记忆； 回想起来的事
+nicotine	n.尼古丁
+taboo	adj.忌讳的?n.禁忌，忌讳；禁止，避讳
+bolt	v.逃跑；闩上?n.插销， 门闩； 闪电
+critique	n.批评，评论?vt.写评论
+outrageous	adj.残暴的； 骇人的； 反常的， 过度的
+modeling	n.立体感； 建模， 造型
+oppressive	adj.压迫的， 压制的； 令人焦虑的
+calculable	adj.可计算的； 能预测的； 可信的
+hydrothermal	adj.热液的
+grill	vt.烧烤；拷问，盘问?n.烤架
+increment	n.增加； 增量； 定期的加薪
+cramped	adj.狭小的， 狭窄的； 受限制的； 密小难认的
+meteorological	adj.气象学的； 气象的
+glorious	adj.壮丽的， 辉煌的； 光荣的； 令人愉快的， 极好的
+bilateral	adj.有两边的； 双边的
+aptitude	n.适合， 恰当； 天资， 才能， 资质
+daisy	n.雏菊； 一流的人物
+disquiet	v.不安，忧虑?n.不安， 忧虑
+addictive	adj.使人上瘾的； 使人沉醉的， 醉心的
+spurn	vt&n.拒绝； 摈弃
+plaque	n.匾额； 牙斑
+membrane	n.薄膜； 细胞膜
+sacrificial	adj.供奉的， 献祭的， 牺牲的
+credentialism	n.文凭主义
+jot	vt.草草记下， 匆匆记下
+amount	vi.总计?n.总额
+spellbind	vt.用妖术迷惑； 迷住， 使入迷
+feudal	adj.封建的
+puppet	n.木偶； 玩偶； 傀儡， 受人操纵的人
+educated	adj.受过教育的， 有教养的
+recessive	adj.隐性的
+hypocritical	adj.伪善的， 虚伪的
+constricted	adj.狭窄的； 收缩的； 抑制的， 约束的
+loath	adj.不情愿的， 勉强的
+spaghetti	n.意大利式细面条
+contain	vt.包含， 容纳； 控制； 防止…蔓延
+indigent	adj.贫困的， 贫穷的
+operant	adj.运转中的；生效的；操作性的?n.起作用的人
+earnest	adj.认真的；真诚的?n.诚挚； 认真
+eclecticism	n.折中主义
+polygamy	n.一夫多妻制， 一妻多夫制， 多配偶制
+renovate	vt.修复； 更新， 翻新
+ordinate	n.纵坐标
+riddle	n.谜；谜语；难解之谜；粗筛?vt.使布满窟窿
+apprise	vt.通知， 告诉
+deductive	adj.演绎的， 推论的
+breathing	n.呼吸
+falter	v.衰退， 衰落； 发抖， 结巴地说； 蹒跚
+appraise	vt.估价； 估量； 评价， 评定
+entourage	n.〈总称〉随从， 随行人员
+advanced	adj.先进的； 高级的， 高等的； 晚期的， 后期的
+gymnasium	n.体育馆； 健身房
+spheroid	n.球状体， 椭球体
+template	n.模板， 样板
+tournament	n.比赛； 锦标赛
+simile	n.明喻
+inflammation	n.炎症， 发炎
+optic	adj.眼的；视觉的；光学上的?n.光学仪器
+soybean	n.大豆
+counseling	n.咨询； 辅导
+combustible	adj.可燃的， 易燃的
+reapply	v.再申请； 再利用
+shuffle	v&n.拖着脚走； 洗； 蒙混； 搅乱
+infatuate	vt.使迷恋； 使糊涂
+contagious	adj.传染性的； 有感染力的
+sardonic	adj.嘲笑的， 讥讽的
+novice	n.生手， 新手； 新信徒
+level	adj.平坦的；等高的?n.水平；高度；级别?vt.夷平， 使平坦
+viable	adj.可行的， 可实施的； 可生长发育的
+by-product	n.副产品； 副作用， 意外结果
+auspicious	adj.吉兆的， 吉利的； 幸运的
+demanding	adj.苛求的， 难满足的； 需要高的， 费力的
+corollary	n.必然的结果； 推断
+conjure	v.变魔术， 变戏法； 召唤
+lighthearted	adj.无忧无虑的； 愉快的
+hoard	v.贮藏，囤积?n.储藏， 贮存
+infrared	adj.红外线的；产生红外线的?n.红外线
+altruistic	adj.利他的， 无私心的， 为他人着想的
+miserable	adj.痛苦的； 可怜的； 令人不快的
+dent	vt.使凹下；挫伤，损害?n.缺口， 凹痕
+asthma	n.哮喘
+dosage	n.剂量
+dormitory	n.宿舍
+stratigraphy	n.地层学； 地层中的岩石组成
+bookstore	n.书店
+audit	vt.旁听； 审计
+patriarchy	n.父权制， 父系社会， 家长统治
+quell	vt.制止， 镇压； 缓解， 减轻
+expeditious	adj.迅速而有效的， 迅速完成的
+dissent	vi.不同意，持异议?n.不同意见， 异议
+calamitous	adj.灾难性的
+unequal	adj.不同的， 不相等的； 不平等的， 不相称的； 不胜任的
+posthumous	adj.死后的， 身后的
+missile	n.发射物； 导弹， 飞弹
+variant	adj.不同的， 变异的?n.变体，变形
+despoil	vt.夺取， 掠夺； 蹂躏
+vocalize	v.用言语表达； 说， 唱， 发声
+discord	n.不一致； 不和， 纷争； 不和谐
+naval	adj.海军的
+myopic	adj.近视的； 缺乏远见的
+illegible	adj.难以辨认的， 模糊的
+throng	v.群集， 拥向?n.一大群人
+saunter	vi&n.闲逛， 漫步
+blues	n.布鲁斯音乐， 蓝调
+defecate	vi.排便； 澄清
+assent	n&vi.同意， 赞成
+hazel	n.榛树?adj.〔眼睛〕绿褐色的
+vaccine	n.疫苗
+zest	n.趣味； 热情， 狂热
+punctual	adj.守时的
+yogurt	n.酸奶
+lettuce	n.生菜； 莴苣
+motto	n.座右铭； 箴言， 格言
+racing	adj.比赛的?n.比赛， 竞赛
+picturesque	adj.如画的； 别致的； 生动的
+informed	adj.有学识的； 见多识广的， 有见识的
+lead	v.领导，引导；领先，占首位；通向，导致，
+etiquette	n.礼节， 礼仪
+submission	n.屈服， 服从； 提交， 呈递； 提交物； 看法， 意见
+bouquet	n.花束； 香味， 芬芳
+instinctual	adj.本能的
+hedge	v.用篱笆围； 避免直接回答?n.树篱；防止损失的措施；防备
+dragonfly	n.蜻蜓
+glacier	n.冰川， 冰河
+ultimatum	n.最后通牒
+racism	n.种族主义， 种族歧视
+accent	n.重音； 口音； 重音符号?vt.重读
+nauseous	adj.恶心的； 令人作呕的， 令人厌恶的`;

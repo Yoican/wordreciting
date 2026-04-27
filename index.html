@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>背单词小工具</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <div class="title">背单词小工具</div>
+    </div>
+
+    <div class="card">
+      <div class="toolbar">
+        <select id="listSelect">
+          <option value="cet6">六级词表</option>
+          <option value="toefl">托福词表</option>
+          <option value="review">重点背诵表</option>
+          <option value="mistakes">错词总表</option>
+        </select>
+        <button id="reloadBtn" class="btn-light">重新读取词表</button>
+        <button id="exportMemoryBtn" class="btn-light">导出记忆</button>
+        <button id="importMemoryBtn" class="btn-light">导入记忆</button>
+        <input id="importMemoryInput" type="file" accept="application/json,.json" class="hidden" />
+        <button id="resetSeenBtn" class="btn-danger">重置当前词表进度</button>
+        <button id="clearReviewBtn" class="btn-danger">清空重点背诵表</button>
+        <button id="clearMistakesBtn" class="btn-danger">清空错词总表</button>
+      </div>
+
+      <div class="meta">
+        <div class="meta-item">
+          <div class="meta-label">当前词表</div>
+          <div class="meta-value" id="currentListName">-</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">当前总词数</div>
+          <div class="meta-value" id="totalCount">0</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">剩余未看</div>
+          <div class="meta-value" id="remainingCount">0</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">重点背诵</div>
+          <div class="meta-value" id="reviewCount">0</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">错词总表</div>
+          <div class="meta-value" id="mistakesCount">0</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">已加载</div>
+          <div class="meta-value" id="loadedInfo">0 / 0</div>
+        </div>
+      </div>
+
+      <div id="quizArea">
+        <div class="word-card">
+          <div class="tag" id="wordTag">加载中</div>
+          <div class="word" id="wordDisplay">...</div>
+          <div class="sub" id="statusText">正在读取词表...</div>
+
+          <div class="options" id="optionsContainer"></div>
+
+          <div class="actions">
+            <button id="idkBtn" class="btn-warn">我不会</button>
+            <button id="easyBtn" class="btn-easy">我认识 / 简单</button>
+            <button id="toggleReviewBtn" class="btn-light">加入重点背诵</button>
+          </div>
+
+          <div class="navs">
+            <button id="prevBtn" class="btn-light">← 上一个</button>
+            <button id="nextBtn" class="btn-primary">下一个 →</button>
+          </div>
+
+          <div class="hint">
+            普通词表里，一个词看过一次后下次打开不会再出现；答错或点“我不会”会自动加入重点背诵表；点“我认识 / 简单”会高亮正确答案并直接跳到下一个。
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyArea" class="empty hidden">
+        当前词表已经没有可出的单词啦。<br>
+        你可以切换词表，或者重置当前词表进度继续刷。
+      </div>
+
+      <div class="footer-note">
+        这个版本已经内置词表兜底，所以直接双击打开也能用。外部 txt 能读到时会优先使用外部文件。
+      </div>
+    </div>
+  </div>
+
+  <script src="embedded-cet6.js"></script>
+  <script src="embedded-toefl.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

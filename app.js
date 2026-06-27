@@ -578,12 +578,25 @@ const STORAGE_KEYS = {
     }
 
     function handleGlobalKeydown(event) {
-      if (event.code !== 'Space' || event.repeat || event.ctrlKey || event.altKey || event.metaKey) return;
+      if (event.repeat || event.ctrlKey || event.altKey || event.metaKey) return;
       const target = event.target;
-      const tagName = target && target.tagName;
-      if (target && (target.isContentEditable || tagName === 'INPUT' || tagName === 'TEXTAREA' || tagName === 'SELECT')) return;
-      event.preventDefault();
-      handleEasy();
+      if (target && (target.isContentEditable || target.tagName === 'INPUT' || target.tagName === 'TEXTAREA' || target.tagName === 'SELECT')) return;
+
+      if (event.code === 'Space') {
+        event.preventDefault();
+        handleEasy();
+        return;
+      }
+
+      const digitMatch = event.code.match(/^(Digit|Numpad)([1-4])$/);
+      if (digitMatch && state.currentQuestion && !state.answered) {
+        const idx = parseInt(digitMatch[2], 10) - 1;
+        const buttons = [...els.optionsContainer.querySelectorAll('button')];
+        if (buttons[idx]) {
+          event.preventDefault();
+          buttons[idx].click();
+        }
+      }
     }
 
     function toggleReviewCurrent() {

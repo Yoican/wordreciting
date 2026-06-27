@@ -597,6 +597,27 @@ const STORAGE_KEYS = {
           buttons[idx].click();
         }
       }
+
+      if (event.code === 'ArrowRight') {
+        event.preventDefault();
+        nextQuestion();
+        return;
+      }
+      if (event.code === 'ArrowLeft') {
+        event.preventDefault();
+        prevQuestion();
+        return;
+      }
+      if (event.code === 'Equal') {
+        event.preventDefault();
+        toggleReviewCurrent();
+        return;
+      }
+      if (event.code === 'Minus') {
+        event.preventDefault();
+        toggleReviewCurrent();
+        return;
+      }
     }
 
     function toggleReviewCurrent() {

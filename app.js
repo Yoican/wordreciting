@@ -577,6 +577,15 @@ const STORAGE_KEYS = {
       }, 450);
     }
 
+    function handleGlobalKeydown(event) {
+      if (event.code !== 'Space' || event.repeat || event.ctrlKey || event.altKey || event.metaKey) return;
+      const target = event.target;
+      const tagName = target && target.tagName;
+      if (target && (target.isContentEditable || tagName === 'INPUT' || tagName === 'TEXTAREA' || tagName === 'SELECT')) return;
+      event.preventDefault();
+      handleEasy();
+    }
+
     function toggleReviewCurrent() {
       const item = state.currentQuestion && state.currentQuestion.item;
       if (!item) return;
@@ -708,6 +717,7 @@ const STORAGE_KEYS = {
       });
       els.idkBtn.addEventListener('click', handleIdk);
       els.easyBtn.addEventListener('click', handleEasy);
+      document.addEventListener('keydown', handleGlobalKeydown);
       els.toggleReviewBtn.addEventListener('click', toggleReviewCurrent);
       els.nextBtn.addEventListener('click', nextQuestion);
       els.prevBtn.addEventListener('click', prevQuestion);

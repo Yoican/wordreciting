@@ -11,7 +11,6 @@ acclaim	称赞
 activate	激活
 acupuncture	针灸
 adhere	遵守
-adjacent	邻近的
 adolescent	青少年
 adorable	可爱的
 adore	崇拜
@@ -26,7 +25,6 @@ affixation	附加
 afloat	漂浮
 aftermath	后果
 aggravate	加剧
-aggregate	总计
 agitate	使焦虑
 agony	痛苦
 aide	助手
@@ -39,7 +37,6 @@ alienate	离间
 align	对齐
 allergic	过敏的
 alleviate	减轻
-allocate	分配
 allot	分配
 alloy	合金
 allude	暗示
@@ -51,12 +48,10 @@ alternate	备用的
 alternately	交替地
 amass	积聚
 ambiguity	模棱两可
-amend	修改
 amiable	和蔼的
 ammunition	弹药
 amplify	放大
 analogous	类似的
-analogy	类比
 anecdote	轶事
 anguish	痛苦
 animation	动画
@@ -72,7 +67,6 @@ appease	安抚
 appendix	附录
 appraise	评价
 apprentice	学徒
-appropriate	适当的?拨（款）
 apron	围裙
 apt	恰当的
 arbitration	仲裁
@@ -236,9 +230,7 @@ commend	表彰
 commonwealth	联邦
 compartment	隔间
 compassion	同情心
-compile	编纂
 complacent	自满的
-complement	补充
 complexion	肤色
 compliment	恭维
 complimentary	免费的
@@ -246,15 +238,12 @@ composite	综合的
 compress	压缩
 concede	承认
 conceited	自负的
-conceive	构想
 conception	概念
 concession	让步
 concise	简洁的
-concurrent	同时的
 condolence	慰问
 conducive	有利的
 confederate	同盟的
-confer	授予
 confide	信任
 configuration	配置
 congregate	聚集
@@ -267,16 +256,13 @@ conspicuous	显眼的
 conspiracy	阴谋
 constituency	选区
 constituent	组成部分
-constrain	约束
 consul	领事
 consulate	领事馆
 contagious	传染的
 contemplate	沉思
 contingent	队伍
 contrive	设法做到
-convene	召开
 converge	汇聚
-converse	交谈
 convict	定罪
 convoy	护航
 coral	珊瑚
@@ -328,7 +314,6 @@ debut	首次登台
 decimal	小数
 decree	法令
 dedicate	奉献
-deduce	推断
 deduct	扣除
 default	默认
 defer	推迟
@@ -338,7 +323,6 @@ delicacy	美味
 delude	欺骗
 delusion	妄想?欺骗
 demographic	人口学的
-denote	表示
 denounce	谴责
 depict	描绘
 deplete	消耗
@@ -362,13 +346,10 @@ detergent	洗涤剂
 deterrent	威慑
 detriment	损害
 devastate	摧毁
-deviate	偏离
 devour	吞食
 diesel	柴油机
-differentiate	区分
 diffuse	扩散
 dilute	稀释
-diminish	减少
 dinosaur	恐龙
 directory	目录
 disarm	解除武装
@@ -383,14 +364,12 @@ dismay	沮丧
 dispatch	派遣
 dispense	分配
 disperse	分散
-displace	取代
 disposition	性格
 disregard	漠视
 dissent	异议
 dissertation	论文
 dissident	持不同政见者
 distill	蒸馏
-distort	歪曲
 divert	转移
 dividend	分红
 divine	神圣的
@@ -398,7 +377,6 @@ doctrine	教义
 dodge	躲闪
 dogma	教条
 dole	发放
-domain	域
 dome	圆顶
 dough	面团
 downgrade	降级
@@ -433,7 +411,6 @@ embody	体现
 embroidery	刺绣
 emigrate	移民
 eminent	杰出的
-empirical	经验的
 emulate	仿真
 enact	制定
 enclose	围住
@@ -444,7 +421,6 @@ endow	赋予
 enlist	入伍
 ensue	随后
 entail	势必引起
-entity	实体
 entrust	委托
 envelop	信封
 envisage	设想
@@ -452,13 +428,11 @@ envoy	使者
 epic	史诗
 epidemic	流行性的
 epoch	时代
-equate	等同
 equation	方程
 equator	赤道
 equity	公平
 eradicate	根除
 erect	直立
-erode	侵蚀
 errand	差事
 erupt	喷发
 escalate	升级
@@ -480,7 +454,6 @@ exponent	指数
 exposition	博览会
 exquisite	精美的
 extinct	灭绝的
-extract	提取
 extravagant	奢侈
 fabricate	捏造
 fabulous	绝妙的
@@ -492,7 +465,6 @@ feat	壮举
 feeble	虚弱的
 feminine	女性的
 feminism	女权主义
-finite	有限的
 fiscal	财政的
 flank	侧翼
 flap	扇动
@@ -569,7 +541,6 @@ herald	先驱
 herb	草本植物
 heroin	海洛因
 hibernate	冬眠的
-hierarchy	等级制度
 hike	远足
 hinge	合页
 hitherto	迄今为止
@@ -595,11 +566,9 @@ hurricane	飓风
 hybrid	杂种
 hygiene	卫生
 hypocrite	伪君子
-hypothesis	假设
 hysteria	歇斯底里
 iceberg	冰山
 icon	图标
-ideology	思想
 idiot	白痴
 idol	偶像
 ignite	点燃
@@ -616,7 +585,6 @@ imprison	监禁
 impromptu	即兴的
 inauguration	就职典礼
 inborn	先天的
-incorporate	合并
 incumbent	在职者
 incur	招致
 indebted	负债累累的
@@ -629,24 +597,19 @@ inertia	惯性
 inflict	造成
 infringe	侵权
 ingenious	巧妙的
-inherent	固有的
-inhibit	抑制
 inject	注射
 inmate	囚犯
 innumerable	无数的
 insulate	隔离
-integral	不可或缺的
 intellect	智力
 intelligible	可理解的
 intercourse	交往
 interim	临时的
 intermittent	断断续续的
 interrogate	审讯
-intervene	干预
 intimidate	威吓
 intricate	错综复杂的
 intrigue	阴谋
-intrinsic	固有的
 intuition	直觉
 invalid	无效的
 inventory	库存
@@ -684,7 +647,6 @@ legitimate	合法的
 lenient	宽容的
 lesbian	女同性恋
 lever	杠杆
-levy	征收
 lieutenant	中尉
 lime	酸橙
 limelight	风头
@@ -732,7 +694,6 @@ masculine	男性的
 massacre	屠杀
 maternal	母亲的
 meadow	草地
-mediate	调解
 medication	药物
 medieval	中世纪的
 melodious	悦耳的
@@ -784,7 +745,6 @@ nil	零
 nitrogen	氮
 nominal	名义上的
 nominate	提名
-nonetheless	尽管如此
 noteworthy	值得注意的
 notorious	臭名昭著的虽然
 numb	麻木的
@@ -798,7 +758,6 @@ obscure	朦胧的
 observatory	天文台
 obsess	使痴迷
 obstruct	阻碍
-offset	抵消
 offspring	后代
 olive	橄榄
 onset	发作
@@ -815,7 +774,6 @@ outlaw	取缔
 outrage	暴行
 overflow	溢出
 overhaul	大修
-overlap	重叠
 override	推翻
 overstate	夸大
 overt	公开的
@@ -827,10 +785,8 @@ pamphlet	小册子
 panorama	全景
 pant	喘气
 parachute	降落伞
-paradigm	范例
 paradise	天堂
 paralyze	使瘫痪
-parameter	参数
 parasite	寄生虫
 parish	教区
 parole	言语
@@ -891,11 +847,8 @@ portray	描绘
 potent	有力的
 pottery	陶器
 poultry	家禽
-practitioner	执业者
-precede	先于
 predator	捕食者
 predecessor	前任
-predominant	占主导地位的
 premature	过早的
 premise	前提
 premium	保险费
@@ -903,7 +856,6 @@ preoccupied	全神贯注的
 prerequisite	先决条件
 preside	主持
 prestige	声望
-presume	推测
 pretext	借口
 prey	猎物
 probe	探测
@@ -918,7 +870,6 @@ propel	推进
 propeller	螺旋桨
 prosecute	起诉
 prosper	繁荣
-protocol	协议
 prototype	原型
 proximity	接近
 psychiatrist	精神科医生
@@ -933,7 +884,6 @@ radiation	辐射
 radiator	散热器
 radioactive	放射性的
 ranch	牧场
-random	随机的
 rap	说唱
 rape	强奸
 rash	皮疹
@@ -956,7 +906,6 @@ refuge	避难所
 refugee	难民
 refund	退还
 refute	驳斥
-regime	政权
 regiment	团
 rehabilitation	康复
 rehearse	排练
@@ -989,7 +938,6 @@ revolt	反叛
 rhetoric	修辞
 ridge	岭
 rig	操纵
-rigid	死板的
 rigorous	严格的
 rim	边缘
 ritual	仪式
@@ -1013,7 +961,6 @@ sarcasm	讽刺
 satire	讽刺
 saturation	饱和
 savage	野蛮的
-scenario	情景
 scorn	轻蔑
 scramble	争夺
 scrap	废料
@@ -1043,7 +990,6 @@ shred	撕碎
 shrewd	精明的
 shrub	灌木
 signify	表示
-simulate	模拟
 simultaneous	同时的
 sinister	险恶的
 skeptic	怀疑的
@@ -1099,7 +1045,6 @@ stall	使暂停
 stammer	结巴
 stance	姿态
 standby	备用的
-staple	主食
 stapler	订书机
 stark	鲜明的
 static	静态的
@@ -1129,10 +1074,8 @@ stun	使震惊
 sturdy	坚固的
 submarine	潜艇
 submerge	淹没
-subordinate	下属
 subscribe	订阅
 subsidize	资助
-subsidy	补贴
 subsistence	生计
 subtle	微妙的
 sue	起诉
@@ -1172,7 +1115,6 @@ tempt	诱惑
 tenant	租户
 tentative	暂定的
 tenure	任期
-terminate	终止
 terrace	阳台
 terrain	地形
 tertiary	第三的?高等教育的
@@ -1231,7 +1173,6 @@ ultra	超
 unanimous	一致的
 underlying	深层的
 unfold	展开
-unify	统一
 unilateral	单方面的
 unleash	释放
 unprecedented	前所未有的
@@ -1274,7 +1215,6 @@ weary	疲倦的?厌倦的
 wedge	楔子
 wharf	码头
 whereabouts	下落
-whereby	从而
 whirl	旋转
 wholesale	批发
 wholesome	健康的

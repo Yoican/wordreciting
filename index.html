@@ -15,10 +15,12 @@
     <div class="card">
       <div class="toolbar">
         <select id="listSelect">
+          <option value="a">A级词（四级高频）</option>
+          <option value="b">B级词（四级次高频）</option>
+          <option value="c">C级词（六级）</option>
           <option value="cet6">六级词表</option>
           <option value="toefl">托福词表</option>
           <option value="review">重点背诵表</option>
-          <option value="mistakes">错词总表</option>
         </select>
         <button id="reloadBtn" class="btn-light">重新读取词表</button>
         <button id="exportMemoryBtn" class="btn-light">导出记忆</button>
@@ -26,7 +28,6 @@
         <input id="importMemoryInput" type="file" accept="application/json,.json" class="hidden" />
         <button id="resetSeenBtn" class="btn-danger">重置当前词表进度</button>
         <button id="clearReviewBtn" class="btn-danger">清空重点背诵表</button>
-        <button id="clearMistakesBtn" class="btn-danger">清空错词总表</button>
       </div>
 
       <div class="meta">
@@ -47,7 +48,7 @@
           <div class="meta-value" id="reviewCount">0</div>
         </div>
         <div class="meta-item">
-          <div class="meta-label">错词总表</div>
+          <div class="meta-label">薄弱词(&lt;30)</div>
           <div class="meta-value" id="mistakesCount">0</div>
         </div>
         <div class="meta-item">
@@ -92,6 +93,9 @@
     </div>
   </div>
 
+  <script src="embedded-a.js"></script>
+  <script src="embedded-b.js"></script>
+  <script src="embedded-c.js"></script>
   <script src="embedded-cet6.js"></script>
   <script src="embedded-toefl.js"></script>
   <script src="app.js"></script>
